@@ -1,6 +1,6 @@
-# khatamalkitab
+# khatamalkitab: The Prophet ﷺ Fulfilled the Biblical Expectation
 
-> Collaborative research on the Prophet ﷺ in the Bible, organised by canon, book, chapter, verse, and argument cluster.
+> Collaborative research presenting the cumulative, decisive case that the Prophet ﷺ fulfills the Biblical prophetic expectation, organised by canon, book, chapter, verse, and argument cluster.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -13,12 +13,16 @@
 - [Contributing](#contributing)
 
 ## Overview
-This repository is for collaborative research on biblical passages used in arguments about the Prophet ﷺ. It is structured so that contributors can work at verse level, local passage level, and higher-order argument-cluster level without flattening the whole thesis into one document.
+This repository is for collaborative research on the Prophet ﷺ in the Bible. Its governing conclusion is that the Prophet ﷺ fulfilled the Biblical prophetic expectation, and that this conclusion is properly known, conclusive, and decisive when the passage families are read cumulatively.
+
+The repository is structured so that contributors can work at verse level, local passage level, and higher-order argument-cluster level without flattening the whole thesis into one document.
 
 The repo is intentionally not a transcription archive. It is a structured research workspace.
 
 ## Project Status
 This project is vibe-coded and actively in progress. Treat the current structure and findings as reviewable scaffolding, not final editorial authority.
+
+That status concerns the repository's organization, coverage, and presentation. It is not a retreat from the governing thesis that the Prophet ﷺ decisively fulfills the Biblical expectation.
 
 Contributors and maintainers are welcome, especially people who can improve passage routing, tighten argument clusters, review methodology, or bring careful prior research into the per-verse structure.
 
