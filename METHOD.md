@@ -4,7 +4,7 @@
 This repository does not treat "Muhammad in the Bible" as one undifferentiated claim. It breaks the topic into verse-level, range-level, and cross-passage units so each argument can be reviewed at the smallest justified scale.
 
 ## Epistemic Grounding
-This method is informed by the local epistemic framework in `input/daee-epistemics/SKILL.md`, especially its emphasis on:
+This method is informed by the epistemic framework in [the daee-epistemics repository](https://github.com/theislampill/daee-epistemics), especially its emphasis on:
 
 - diagnose before rebutting
 - keep the claim-type clean
