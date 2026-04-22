@@ -1,14 +1,33 @@
 ﻿# Haggai 2:7
 
-## Claim Use
-This verse is tracked individually so collaborators can discuss its own argumentative role without rewriting the whole local block.
+## Page Type
+Atomic passage page
 
-## Local Context
-Primary local context: bible/ot/haggai/ch2/v6-9/summary.md
+## Passage-Specific Contribution
+- This passage contributes shaking, desire/treasure/glory, and temple-peace motifs.
+- It matters as lexical or sanctuary resonance only, not direct prophecy.
+- The strongest alternative is Second Temple glory or nations' treasures.
 
-## Current Role
-Within the promoted corpus ledger, this verse serves the shaken-nations block.
+## Epistemic Classification
+- Status: anchored
+- Passage contribution: support; convergence is governed by linked cluster pages
+- Role: supporting passage anchor; identification remains cluster-level synthesis
 
-## Related Argument Clusters
-- `arguments/mahmad-and-praised-one/summary.md`
-- `arguments/kingdom-transfer/summary.md`
+## Argumentative Use
+- This page functions as supportive anchor, governed by its cluster.
+- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
+- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+
+## Strongest Local Alternative
+- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+
+## Dependency Links
+- [arguments/mahmad-and-praised-one/summary.md](../../../../../arguments/mahmad-and-praised-one/summary.md)
+- [arguments/kingdom-transfer/summary.md](../../../../../arguments/kingdom-transfer/summary.md)
+
+## Failure Modes
+- Do not use this passage as an isolated proof text.
+- Do not treat support or control roles as direct identification.
+- Do not hide the local alternative reading when using the linked cluster.
+
+

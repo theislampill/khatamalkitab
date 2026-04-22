@@ -1,10 +1,32 @@
 ﻿# Deuteronomy 34:10
 
-## Claim Use
-This verse is promoted as its own reusable node.
+## Page Type
+Atomic passage page
 
-## Repository Role
-The promoted corpus uses this passage for the no-prophet-like-Moses-in-Israel control verse.
+## Passage-Specific Contribution
+- This verse keeps the Moses-like category open or contested by saying no prophet like Moses had arisen in Israel.
+- It matters as a control on premature closure, not as a direct identification of any later figure.
+- The strongest alternative is that the verse is retrospective praise of Moses within Israel's canon.
 
-## Related Argument Clusters
-- `arguments/prophet-like-moses/summary.md`
+## Epistemic Classification
+- Status: anchored
+- Passage contribution: support; convergence is governed by linked cluster pages
+- Role: supporting passage anchor; identification remains cluster-level synthesis
+
+## Argumentative Use
+- This page functions as supportive anchor, governed by its cluster.
+- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
+- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+
+## Strongest Local Alternative
+- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+
+## Dependency Links
+- [arguments/prophet-like-moses/summary.md](../../../../../arguments/prophet-like-moses/summary.md)
+
+## Failure Modes
+- Do not use this passage as an isolated proof text.
+- Do not treat support or control roles as direct identification.
+- Do not hide the local alternative reading when using the linked cluster.
+
+

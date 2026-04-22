@@ -1,15 +1,36 @@
 ﻿# John 16:14-15
 
-## Claim Use
-This range is tracked as the local combined page for the Paraclete glorification continuation.
+## Page Type
+Local combined passage page
 
-## Repository Role
-The promoted corpus uses this passage for the continuation about glorifying Jesus and taking from what is his.
+## Passage-Specific Contribution
+- This passage contributes glorifying Jesus and receiving what belongs to Jesus.
+- It matters as a boundary: any Paraclete reading must preserve witness to Jesus.
+- The strongest alternative is intra-Christian Spirit witness rather than later-prophet mission.
 
-## Verse Pages
-- `bible/nt/john/ch16/v14/summary.md`
-- `bible/nt/john/ch16/v15/summary.md`
+## Why This Range Matters
+- The range matters because the adjacent verses form one local argumentative unit; atomics remain available for verse-specific review.
 
-## Related Argument Clusters
-- `arguments/paraclete/summary.md`
-- `arguments/paraclete-and-subordination/summary.md`
+## Epistemic Classification
+- Status: anchored
+- Passage contribution: high as a linked-cluster anchor; convergence is not assigned to this verse alone
+- Role: Paraclete passage anchor or control, governed by range context
+
+## Argumentative Use
+- This page functions according to the role above; when used as a control, it constrains the linked cluster rather than proving it.
+- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
+- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+
+## Strongest Local Alternative
+- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+
+## Dependency Links
+- [arguments/paraclete/summary.md](../../../../../arguments/paraclete/summary.md)
+- [arguments/paraclete-and-subordination/summary.md](../../../../../arguments/paraclete-and-subordination/summary.md)
+
+## Failure Modes
+- Do not use this passage as an isolated proof text.
+- Do not treat support or control roles as direct identification.
+- Do not hide the local alternative reading when using the linked cluster.
+
+

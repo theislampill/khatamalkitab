@@ -1,20 +1,31 @@
-# Mahmad and Praised-One
+﻿# Mahmad And Praised-One
 
-## Cluster Claim
-This cluster gathers the lexical and praised-one arguments built around Haggai, Song of Songs, and related Hebrew praise / desirability language.
+## Central Thesis
+[speculative] This cluster records lexical/name resonance only. It asks whether praise/desire language can corroborate the thesis after stronger clusters stand, while keeping ordinary usage, context, and textual-critical controls in front.
 
-## Depends On
-- `bible/ot/haggai/ch2/v6-9/summary.md`
-- `bible/ot/song-of-songs/ch5/v10-16/summary.md`
-- `bible/ot/song-of-songs/ch6/v2/summary.md`
-- `bible/ot/psalms/ch84/v4-10/summary.md`
-- `bible/nt/matthew/ch21/v42-44/summary.md`
+## Why These Passages Belong Together
+[Haggai 2:7](../../bible/ot/haggai/ch2/v7/summary.md) contributes “desire/treasure/glory” type language in a temple context. [Song of Songs 5:16](../../bible/ot/song-of-songs/ch5/v16/summary.md) contributes beloved/praise language. [Isaiah 42:1](../../bible/ot/isaiah/ch42/v1/summary.md) is included only because some claims attach Ahmad/manuscript arguments to servant language; those claims require independent textual review.
 
-## Main Use
-- Keep lexical praise-lines in one place instead of scattering them across unrelated passage pages.
-- Distinguish name-like or praise-like arguments from stronger direct-passage clusters.
-- Preserve a home for material that is important in the corpus but more interpretation-sensitive.
+## Actual Test
+The cluster can only add resonance after the main case is already standing. It survives review if lexical form, ordinary usage, local context, and manuscript or translation evidence leave a real proper-name or praise-title opening; it fails if the words are adequately explained as temple glory, beloved-language, ordinary desire, or unstable textual claims. At present it does not pass those tests strongly enough to be load-bearing.
 
-## Objections / Alternate Readings
-- These arguments are often the most lexically sensitive in the project.
-- They should rarely stand alone; they work best when linked to broader clusters such as Baca, kingdom-transfer, or wider Arabian-location arguments.
+## Anchored Passages
+- [Haggai 2:7](../../bible/ot/haggai/ch2/v7/summary.md)
+- [Haggai 2:6-9](../../bible/ot/haggai/ch2/v6-9/summary.md)
+- [Song of Songs 5:16](../../bible/ot/song-of-songs/ch5/v16/summary.md)
+- [Isaiah 42:1](../../bible/ot/isaiah/ch42/v1/summary.md)
+
+## Strongest Alternative Synthesis
+The language may be ordinary desire, beauty, praise, beloved description, temple glory, or nations' treasures rather than a proper-name prophecy. Textual-critical claims may fail manuscript scrutiny.
+
+## Inference Boundary
+[speculative] Lexical resemblance is not proof. [inference] Any value is corroborative and depends on established convergence elsewhere.
+
+## Load-Bearing Status
+Corroborative, speculative-edged, and non-load-bearing.
+
+## Failure Modes
+- Do not substitute wordplay for argument.
+- Do not cite textual-critical claims as settled without review.
+- Do not let this cluster govern KHALAS.
+

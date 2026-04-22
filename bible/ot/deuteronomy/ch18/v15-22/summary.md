@@ -1,22 +1,36 @@
 ﻿# Deuteronomy 18:15-22
 
-## Claim Use
-This range is tracked as the local combined page for the prophet-like-Moses full block.
+## Page Type
+Local combined passage page
 
-## Repository Role
-The promoted corpus uses this passage for the wider commissioning, speech, and testing block around the prophet-like-Moses claim.
+## Passage-Specific Contribution
+- This passage supplies the core prophet-like-Moses profile: a prophet raised by God, received divine speech, and accountability for rejecting the message.
+- The argumentative pressure is strongest in the promise unit, especially the likeness-to-Moses and words-in-the-mouth features.
+- It matters because the repository tests whether this profile can remain open beyond Israelite succession and beyond the Acts 3 Jesus reading.
 
-## Verse Pages
-- `bible/ot/deuteronomy/ch18/v15/summary.md`
-- `bible/ot/deuteronomy/ch18/v16/summary.md`
-- `bible/ot/deuteronomy/ch18/v17/summary.md`
-- `bible/ot/deuteronomy/ch18/v18/summary.md`
-- `bible/ot/deuteronomy/ch18/v19/summary.md`
-- `bible/ot/deuteronomy/ch18/v20/summary.md`
-- `bible/ot/deuteronomy/ch18/v21/summary.md`
-- `bible/ot/deuteronomy/ch18/v22/summary.md`
+## Why This Range Matters
+- The range matters because the promise unit and the false-prophet test belong together: profile and criterion must not be separated.
 
-## Related Argument Clusters
-- `arguments/prophet-like-moses/summary.md`
-- `arguments/prophet-like-moses-and-paraclete/summary.md`
-- `arguments/ishmaelite-line-and-brethren/summary.md`
+## Epistemic Classification
+- Status: anchored
+- Passage contribution: control; tests or constrains linked clusters
+- Role: criterion / prophetic-test context
+
+## Argumentative Use
+- Use this range to hold the promise and the test together: the prophet-like-Moses profile cannot be separated from true/false prophecy criteria.
+- The range feeds [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md) by giving both the positive expectation and the safeguards against presumption.
+- Identification of the Prophet ﷺ from this passage remains cluster-level synthesis, not a bare range-level conclusion.
+
+## Strongest Local Alternative
+- The strongest local alternative is that Deuteronomy 18 regulates Israel's prophetic succession after Moses and is then read christologically in Acts 3. If that reading fully accounts for the promise and tests, the page cannot function as an open later-prophet anchor.
+
+## Dependency Links
+- [arguments/prophet-like-moses/summary.md](../../../../../arguments/prophet-like-moses/summary.md)
+- [arguments/prophet-like-moses-and-paraclete/summary.md](../../../../../arguments/prophet-like-moses-and-paraclete/summary.md)
+
+## Failure Modes
+- Do not use this passage as an isolated proof text.
+- Do not treat support or control roles as direct identification.
+- Do not hide the local alternative reading when using the linked cluster.
+
+

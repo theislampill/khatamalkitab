@@ -1,18 +1,34 @@
-# Ezekiel 27:21
+﻿# Ezekiel 27:21
 
-## Claim Use
-This verse is used as a location-support text for Kedar in Arabia. In the working corpus it helps stabilize the geography behind Isaiah 42 and related Kedar arguments.
+## Page Type
+Atomic passage page
 
-## Why This Passage Gets Its Own Node
-- It is not usually treated as a direct prophecy of Muhammad.
-- Its value is to identify Kedar's Arabian setting and economic world.
+## Passage-Specific Contribution
+- This verse connects Arabia and Kedar in a trade/geography context.
+- It matters as independent Kedar/Arabia support, not as prophecy.
+- The strongest alternative is ordinary commercial geography.
 
-## Objections / Alternate Readings
-- The verse is descriptive trade material, not a messianic prediction.
-- Its role in the repo should remain supportive and geographic.
+## Epistemic Classification
+- Status: anchored
+- Passage contribution: support; convergence is governed by linked cluster pages
+- Role: supporting passage anchor; identification remains cluster-level synthesis
 
-## Related Pages
-- `bible/ot/isaiah/ch42/v11/summary.md`
-- `bible/ot/isaiah/ch42/v1-17/summary.md`
-- `arguments/arabian-servant-and-kedar/summary.md`
-- `arguments/ishmaelite-line-and-brethren/summary.md`
+## Argumentative Use
+- This page functions as supportive anchor, governed by its cluster.
+- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
+- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+
+## Strongest Local Alternative
+- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+
+## Dependency Links
+- [arguments/ishmaelite-line-and-brethren/summary.md](../../../../../arguments/ishmaelite-line-and-brethren/summary.md)
+- [arguments/paran-and-arabia/summary.md](../../../../../arguments/paran-and-arabia/summary.md)
+- [arguments/arabian-servant-and-kedar/summary.md](../../../../../arguments/arabian-servant-and-kedar/summary.md)
+
+## Failure Modes
+- Do not use this passage as an isolated proof text.
+- Do not treat support or control roles as direct identification.
+- Do not hide the local alternative reading when using the linked cluster.
+
+

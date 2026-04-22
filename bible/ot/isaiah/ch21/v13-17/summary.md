@@ -1,20 +1,36 @@
-# Isaiah 21:13-17
+﻿# Isaiah 21:13-17
 
-## Claim Use
-This local range is used as the clearest Arabia-specific oracle in the working corpus. It is commonly tied to Dedan, Tema, Kedar, flight, and conflict in Arabia.
+## Page Type
+Local combined passage page
 
-## Why This Range Matters Together
-- The argument depends on the whole local scene, not on one verse alone.
-- Dedan, Tema, and Kedar are all part of the same interpretive unit.
-- The range is often linked to migration and battle narratives, which would be lost if split too narrowly.
+## Passage-Specific Contribution
+- This passage contributes the explicit Arabia, Tema, Dedan, and Kedar field.
+- It matters as geographic support alongside Ishmael/Kedar and Paran pages, not as standalone proof.
+- The strongest alternative is that Isaiah 21 concerns local ancient Arabian events.
 
-## Objections / Alternate Readings
-- The historical referent of the oracle is disputed.
-- Some working files merge this range with Isaiah 21:7; those should remain distinct unless a future page justifies combining them.
+## Why This Range Matters
+- The range matters because the adjacent verses form one local argumentative unit; atomics remain available for verse-specific review.
 
-## Related Pages
-- `bible/ot/deuteronomy/ch33/v1-2/summary.md`
-- `bible/ot/habakkuk/ch3/v3/summary.md`
-- `bible/ot/isaiah/ch42/v11/summary.md`
-- `arguments/paran-and-arabia/summary.md`
-- `arguments/arabian-servant-and-kedar/summary.md`
+## Epistemic Classification
+- Status: anchored
+- Passage contribution: support; convergence is governed by linked cluster pages
+- Role: supporting passage anchor; identification remains cluster-level synthesis
+
+## Argumentative Use
+- This page functions as supportive anchor, governed by its cluster.
+- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
+- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+
+## Strongest Local Alternative
+- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+
+## Dependency Links
+- [arguments/paran-and-arabia/summary.md](../../../../../arguments/paran-and-arabia/summary.md)
+- [arguments/arabian-servant-and-kedar/summary.md](../../../../../arguments/arabian-servant-and-kedar/summary.md)
+
+## Failure Modes
+- Do not use this passage as an isolated proof text.
+- Do not treat support or control roles as direct identification.
+- Do not hide the local alternative reading when using the linked cluster.
+
+

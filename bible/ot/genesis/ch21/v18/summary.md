@@ -1,14 +1,33 @@
 ﻿# Genesis 21:18
 
-## Claim Use
-This verse is tracked individually so collaborators can discuss its own argumentative role without rewriting the whole local block.
+## Page Type
+Atomic passage page
 
-## Local Context
-Primary local context: bible/ot/genesis/ch21/v13-21/summary.md
+## Passage-Specific Contribution
+- This passage contributes Ishmael's survival, divine care, nationhood promise, wilderness setting, and Paran settlement.
+- It matters because it joins lineage with geography before the later Kedar/Arabia support pages are considered.
+- The strongest alternative is that the passage narrates Ishmael's preservation without predicting a later prophet.
 
-## Current Role
-Within the promoted corpus ledger, this verse serves the Ishmael-Paran narrative block.
+## Epistemic Classification
+- Status: anchored
+- Passage contribution: support; convergence is governed by linked cluster pages
+- Role: supporting passage anchor; identification remains cluster-level synthesis
 
-## Related Argument Clusters
-- `arguments/ishmaelite-line-and-brethren/summary.md`
-- `arguments/paran-and-arabia/summary.md`
+## Argumentative Use
+- This page functions as supportive anchor, governed by its cluster.
+- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
+- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+
+## Strongest Local Alternative
+- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+
+## Dependency Links
+- [arguments/ishmaelite-line-and-brethren/summary.md](../../../../../arguments/ishmaelite-line-and-brethren/summary.md)
+- [arguments/paran-and-arabia/summary.md](../../../../../arguments/paran-and-arabia/summary.md)
+
+## Failure Modes
+- Do not use this passage as an isolated proof text.
+- Do not treat support or control roles as direct identification.
+- Do not hide the local alternative reading when using the linked cluster.
+
+

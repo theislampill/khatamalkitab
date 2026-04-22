@@ -1,10 +1,10 @@
-# Method
+﻿# Method
 
 ## Purpose
 This repository does not treat "Muhammad in the Bible" as one undifferentiated claim. It breaks the topic into verse-level, range-level, and cross-passage units so each argument can be reviewed at the smallest justified scale.
 
 ## Epistemic Grounding
-This method is informed by the epistemic framework in [the daee-epistemics repository](https://github.com/theislampill/daee-epistemics), especially its emphasis on:
+This method is grounded in the local daee-epistemics skill executed during corpus processing, especially its emphasis on:
 
 - diagnose before rebutting
 - keep the claim-type clean
@@ -50,6 +50,8 @@ Following the convergence discipline reflected in the daee-epistemics material, 
 - agreement between direct claim passages and supporting geography / lineage / reception passages
 - stable fit without excessive lexical rescue or forced reassignment
 
+Every argument cluster should also pass a simple convergence test: what does passage B add that passage A did not already supply, and how does that added detail narrow the candidate profile? If the answer is only "same theme again," the cluster should be downgraded or treated as contextual support.
+
 ### 5. Inference boundaries must stay visible
 The repository distinguishes four source-status levels, adapted from the skill's inference-boundary discipline:
 
@@ -58,7 +60,7 @@ The repository distinguishes four source-status levels, adapted from the skill's
 - `[inference]`: a reasoned extension beyond what any one passage page states
 - `[speculative]`: interesting but too thin or too unstable to govern the project
 
-These markers do not need to appear in every verse page, but they govern `KHALAS.md`, argument clusters, and contributor decisions.
+These markers should appear in promoted verse pages, combined passage pages, `KHALAS.md`, argument clusters, and contributor decisions.
 
 ## Passage Classification
 Each thesis-relevant biblical passage is classified into one of four working roles.
@@ -104,6 +106,7 @@ Use this when:
 - its role is stable across those files
 - it connects cleanly to other promoted passages
 - it does not rely mainly on a fragile lexical or geographic leap
+- each added passage contributes a distinct constraint rather than merely repeating a theme
 
 ### Medium-convergence
 Use this when:
@@ -176,3 +179,4 @@ A contribution is method-complete when it:
 - updates `KHALAS.md`
 - updates `BIBLE_ARGUMENT_INDEX.md`
 - does not dump raw source corpus into the repo
+

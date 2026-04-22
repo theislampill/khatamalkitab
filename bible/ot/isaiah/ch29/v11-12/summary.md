@@ -1,17 +1,35 @@
-# Isaiah 29:11-12
+﻿# Isaiah 29:11-12
 
-## Claim Use
-This range is used for the "unlettered prophet" or unread-book argument. It appears in the working corpus, but less broadly and with more uncertainty than the core Deuteronomy, John, or Isaiah 42 clusters.
+## Page Type
+Local combined passage page
 
-## Why This Range Matters Together
-- The argument depends on both the sealed vision and the response of the one who cannot read.
-- Splitting the verses would weaken the specific rhetorical claim being made.
+## Passage-Specific Contribution
+- This passage contributes sealed-book and unread-book imagery to the received-recitation support line.
+- It matters as a possible motif, not as direct prophecy.
+- The strongest alternative is Isaiah's own blindness, sealed revelation, and judgment context.
 
-## Objections / Alternate Readings
-- The passage sits in a different local context and is often read as judgment on present blindness, not as a future prophet scene.
-- This node should be treated as tentative and secondary until reviewed more closely.
+## Why This Range Matters
+- The range matters because the adjacent verses form one local argumentative unit; atomics remain available for verse-specific review.
 
-## Related Pages
-- `bible/ot/deuteronomy/ch18/v18/summary.md`
-- `bible/nt/john/ch16/v13/summary.md`
-- `arguments/unlettered-prophet/summary.md`
+## Epistemic Classification
+- Status: anchored
+- Passage contribution: support; convergence is governed by linked cluster pages
+- Role: supporting passage anchor; identification remains cluster-level synthesis
+
+## Argumentative Use
+- This page functions as supportive anchor, governed by its cluster.
+- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
+- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+
+## Strongest Local Alternative
+- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+
+## Dependency Links
+- [arguments/unlettered-prophet/summary.md](../../../../../arguments/unlettered-prophet/summary.md)
+
+## Failure Modes
+- Do not use this passage as an isolated proof text.
+- Do not treat support or control roles as direct identification.
+- Do not hide the local alternative reading when using the linked cluster.
+
+

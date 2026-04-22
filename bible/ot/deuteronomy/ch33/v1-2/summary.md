@@ -1,20 +1,35 @@
-# Deuteronomy 33:1-2
+﻿# Deuteronomy 33:1-2
 
-## Claim Use
-This range is used as a geography-and-revelation sequence: Sinai, Seir, and Paran. In the working corpus it is often read as a staged movement of revelation rather than a simple retrospective blessing.
+## Page Type
+Local combined passage page
 
-## Why This Range Matters Together
-- The verses are used together to build the Sinai-Seir-Paran progression.
-- "Paran" is then linked to Ishmael, Arabia, and later argument clusters around Makkah.
-- The phrase about many holy ones is often tied to historical fulfillment claims, so the range should stay intact.
+## Passage-Specific Contribution
+- This passage contributes Sinai, Seir, Paran, and "ten thousands" language to the geography/theophany support line.
+- It matters only when joined to Ishmael/Paran, Arabia, and Kedar pages; alone it is not candidate identification.
+- The strongest local alternative is ancient divine-warrior theophany poetry rather than predictive geography.
 
-## Objections / Alternate Readings
-- Many readers take the passage as poetic praise of God's past dealings rather than a future map of successive prophets.
-- The geographic identifications, especially Paran and Seir, need careful historical review.
+## Why This Range Matters
+- The range matters because the adjacent verses form one local argumentative unit; atomics remain available for verse-specific review.
 
-## Related Pages
-- `bible/ot/genesis/ch21/v13-21/summary.md`
-- `bible/ot/habakkuk/ch3/v3/summary.md`
-- `bible/ot/isaiah/ch21/v13-17/summary.md`
-- `arguments/paran-and-arabia/summary.md`
-- `arguments/arabian-servant-and-kedar/summary.md`
+## Epistemic Classification
+- Status: anchored
+- Passage contribution: support; convergence is governed by linked cluster pages
+- Role: supporting passage anchor; identification remains cluster-level synthesis
+
+## Argumentative Use
+- This page functions as supportive anchor, governed by its cluster.
+- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
+- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+
+## Strongest Local Alternative
+- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+
+## Dependency Links
+- [arguments/paran-and-arabia/summary.md](../../../../../arguments/paran-and-arabia/summary.md)
+
+## Failure Modes
+- Do not use this passage as an isolated proof text.
+- Do not treat support or control roles as direct identification.
+- Do not hide the local alternative reading when using the linked cluster.
+
+

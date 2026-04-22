@@ -1,4 +1,4 @@
-# Contribute
+﻿# Contribute
 
 ## Who This Is For
 This project welcomes pull requests from people who:
@@ -78,3 +78,4 @@ That means a reviewer should be able to answer, quickly:
 - what kind of work it is doing
 - what other pages it depends on
 - how strong or tentative the current claim is
+

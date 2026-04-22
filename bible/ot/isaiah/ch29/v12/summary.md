@@ -1,13 +1,32 @@
 ﻿# Isaiah 29:12
 
-## Claim Use
-This verse is tracked individually so collaborators can discuss its own argumentative role without rewriting the whole local block.
+## Page Type
+Atomic passage page
 
-## Local Context
-Primary local context: bible/ot/isaiah/ch29/v11-12/summary.md
+## Passage-Specific Contribution
+- This passage contributes sealed-book and unread-book imagery to the received-recitation support line.
+- It matters as a possible motif, not as direct prophecy.
+- The strongest alternative is Isaiah's own blindness, sealed revelation, and judgment context.
 
-## Current Role
-Within the promoted corpus ledger, this verse serves the sealed-book block.
+## Epistemic Classification
+- Status: anchored
+- Passage contribution: support; convergence is governed by linked cluster pages
+- Role: supporting passage anchor; identification remains cluster-level synthesis
 
-## Related Argument Clusters
-- `arguments/unlettered-prophet/summary.md`
+## Argumentative Use
+- This page functions as supportive anchor, governed by its cluster.
+- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
+- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+
+## Strongest Local Alternative
+- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+
+## Dependency Links
+- [arguments/unlettered-prophet/summary.md](../../../../../arguments/unlettered-prophet/summary.md)
+
+## Failure Modes
+- Do not use this passage as an isolated proof text.
+- Do not treat support or control roles as direct identification.
+- Do not hide the local alternative reading when using the linked cluster.
+
+

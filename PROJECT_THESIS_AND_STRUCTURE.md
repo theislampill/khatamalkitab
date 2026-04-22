@@ -1,7 +1,19 @@
-# Project Thesis and Structure
+﻿# Project Thesis and Structure
 
 ## Thesis
-This repository is organized for collaborative research on the claim that biblical passages can be read as anticipations of the Prophet Muhammad. The repo is not a source dump. Its job is to break the thesis into reusable passage nodes and higher-order argument nodes so collaborators can refine, compare, and challenge claims without rewriting the whole case each time.
+This repository is organized for collaborative research on the claim that the Prophet ﷺ fulfills the biblical prophetic expectation. The structure is designed to let a reader move from verse, to local passage, to cross-passage cluster, to cumulative synthesis without treating the repository as a transcription archive.
+
+The project conclusion is cumulative: individual verses are not forced to carry the whole thesis. Strong claims must arise through classified convergence across promoted passage nodes.
+
+## Governing Epistemic Method
+The repository follows the daee-epistemics protocol for public-facing claims:
+
+- mark source status: `[anchored]`, `[synthesis]`, `[inference]`, or `[speculative]`
+- distinguish evidence, interpretation, synthesis, and rhetorical framing
+- prefer multi-passage convergence over isolated proof texts
+- keep alternate readings visible
+- downgrade weak or lexical claims instead of inflating them
+- record failure modes where an argument can be overused
 
 ## Bible Spine
 The base structure follows the canon/book/chapter/verse spine:
@@ -24,34 +36,46 @@ Examples:
 - `bible/ot/deuteronomy/ch18/v18-19/summary.md`
 
 ## Page Types
-### Atomic passage pages
-Use an atomic page when a single verse has standalone argumentative value and can be reused in more than one cluster.
+### Atomic Passage Pages
+Use an atomic page when a single verse has standalone argumentative value or functions as a reusable control.
 
-Examples in this patch:
+Each atomic page should include:
 
-- `bible/ot/deuteronomy/ch18/v18/summary.md`
-- `bible/ot/genesis/ch17/v20/summary.md`
-- `bible/nt/john/ch16/v7/summary.md`
+- what is being argued
+- epistemic classification
+- anchored findings
+- synthesis role
+- inference boundary
+- alternate readings
+- dependency links
+- failure modes
 
-### Local combined passage pages
-Use a combined page when a nearby verse range forms one coherent local argument and should not be split into duplicate mini-essays.
+### Local Combined Passage Pages
+Use a combined page when nearby verses form one coherent local argument and should not be duplicated inside every atomic page.
 
-Promoted combined ranges should also have individual verse pages for each verse inside the range.
+Promoted combined ranges must also have individual verse pages for each verse inside the range.
 
-Examples in this patch:
+### Higher-Order Cross-Passage Argument Pages
+Use argument pages when reasoning depends on multiple passages, especially across books or testaments.
 
-- `bible/ot/deuteronomy/ch18/v18-19/summary.md`
-- `bible/ot/isaiah/ch21/v13-17/summary.md`
-- `bible/nt/john/ch16/v7-13/summary.md`
+Each argument page should include:
 
-### Higher-order cross-passage argument pages
-Use argument pages when the reasoning depends on multiple passages, often across books or across testaments. These pages synthesize a cluster and point back to the smaller passage nodes instead of swallowing them.
+- central thesis
+- anchored passages
+- supporting passages
+- dependency graph
+- competing interpretations
+- inference boundary
+- failure modes
+- epistemic strength summary
 
-Examples in this patch:
-
-- `arguments/prophet-like-moses/summary.md`
-- `arguments/paraclete/summary.md`
-- `arguments/paran-and-arabia/summary.md`
+## Routing Rules
+- Use the smallest justified passage unit first.
+- Promote a combined page only when adjacent verses function together.
+- Promote a cross-passage cluster only after convergence is confirmed.
+- Keep control passages distinct from direct prophecy claims.
+- Mark uncertain claims as tentative or not promoted.
+- Do not treat prior page existence as proof that the route is valid.
 
 ## Working-Material Rule
 The files under `input/` are local working material only. They are used for classification, synthesis, and routing, but they are not repository deliverables.
@@ -65,26 +89,27 @@ That means:
 
 Repo pages should distill arguments, record uncertainties, and link related nodes. They should not mirror raw transcription text.
 
-## Editorial Rules
-- Prefer the narrowest justified passage assignment.
-- Use combined range pages when the argument genuinely needs the range.
-- Use argument-cluster pages when the reasoning crosses books or non-adjacent passages.
-- Keep claim, objections, and related pages visibly separate.
-- Reuse by linking instead of repeating the same content in multiple places.
-- Mark uncertain assignments as tentative instead of forcing them into a stronger bucket.
+## Current Cluster Families
+The full corpus sweep currently supports these promoted families:
 
-## Current Initial Clusters
-The reviewed working corpus most strongly converges on these families:
+- [Prophet Like Moses](arguments/prophet-like-moses/summary.md)
+- [Paraclete](arguments/paraclete/summary.md)
+- [Paraclete And Subordination](arguments/paraclete-and-subordination/summary.md)
+- [Prophet Like Moses And Paraclete](arguments/prophet-like-moses-and-paraclete/summary.md)
+- [Messenger Before Arrival](arguments/messenger-before-arrival/summary.md)
+- [Live Prophetic Expectation](arguments/live-prophetic-expectation/summary.md)
+- [Law Continuity Control](arguments/law-continuity-control/summary.md)
+- [Ishmaelite Line And Brethren](arguments/ishmaelite-line-and-brethren/summary.md)
+- [Paran And Arabia](arguments/paran-and-arabia/summary.md)
+- [Arabian Servant And Kedar](arguments/arabian-servant-and-kedar/summary.md)
+- [Unlettered Prophet](arguments/unlettered-prophet/summary.md)
+- [Baca And Pilgrimage](arguments/baca-and-pilgrimage/summary.md)
+- [Mahmad And Praised-One](arguments/mahmad-and-praised-one/summary.md)
+- [Kingdom Transfer](arguments/kingdom-transfer/summary.md)
 
-- Deuteronomy 18 and its reuse in John 1 and Acts 3
-- John 14-16 as Paraclete material
-- Isaiah 42 as the servant / Kedar cluster
-- Isaiah 21, Deuteronomy 33, Habakkuk 3, and Genesis 21 as the Paran / Arabia cluster
-- Genesis 16, Genesis 17, Genesis 21, and Ezekiel 27 as the Ishmaelite / Kedar identification cluster
-- Isaiah 29 as an unlettered-prophet argument that needs more careful review than the core passages
-
-This patch establishes those routes without pretending the structure is finished.
-
-## Working Governance Files
+## Governance Files
 - `METHOD.md` explains the research method used for promotion, convergence, and probability language.
-- `KHALAS.md` records the current findings ledger and status of the main passage clusters.
+- `KHALAS.md` records the current findings ledger and cumulative synthesis.
+- `SORTING_AUDIT.md` records how the working corpus was sorted.
+- `BIBLE_ARGUMENT_INDEX.md` routes passage pages and argument pages.
+

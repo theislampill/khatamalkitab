@@ -1,4 +1,4 @@
-# khatamalkitab: The Prophet ﷺ Fulfilled the Biblical Expectation
+﻿# khatamalkitab: The Prophet ﷺ Fulfilled the Biblical Expectation
 
 > Collaborative research presenting the cumulative, decisive case that the Prophet ﷺ fulfills the Biblical prophetic expectation, organised by canon, book, chapter, verse, and argument cluster.
 
@@ -15,7 +15,7 @@
 ## Overview
 This repository is for collaborative research on the Prophet ﷺ in the Bible. Its governing conclusion is that the Prophet ﷺ fulfilled the Biblical prophetic expectation, and that this conclusion is properly known, conclusive, and decisive when the passage families are read cumulatively.
 
-The repository is structured so that contributors can work at verse level, local passage level, and higher-order argument-cluster level without flattening the whole thesis into one document.
+The repository is structured so contributors can work at verse level, local passage level, and higher-order argument-cluster level without flattening the thesis into one document.
 
 The repo is intentionally not a transcription archive. It is a structured research workspace.
 
@@ -37,7 +37,7 @@ In practice that means:
 - multi-passage claims are routed into `arguments/`
 - findings status and methodological notes are tracked in top-level docs
 
-The repository therefore exposes the substance of corpus integration through the page structure itself:
+The repository exposes the substance of corpus integration through the page structure itself:
 
 - verse pages for atomic discussion
 - range pages for local coherence
@@ -45,7 +45,7 @@ The repository therefore exposes the substance of corpus integration through the
 - `KHALAS.md` for the current findings ledger
 - `METHOD.md` for the governing research method
 
-This keeps the project transparent for collaborators while avoiding source-dump behavior.
+This keeps the project transparent for collaborators while avoiding source-dump behavior. Explicit citations of corpus working materials should not be presented in public-facing pages; contributors should preserve the substance through structured routing and synthesis.
 
 ## Repository Structure
 - `bible/ot/`, `bible/nt/`, `bible/apoc/`: canon spine
@@ -69,15 +69,26 @@ In short:
 - keep direct claims, support claims, and control passages distinct
 - use convergence rather than isolated proof-texting
 - mark inference boundaries honestly
+- preserve serious alternate readings and failure modes
 
 ## Current Findings
 The current findings ledger is in [KHALAS.md](KHALAS.md).
 
-The present repository structure already includes:
+The present repository structure includes verse-level pages, combined local range pages, and argument-cluster pages for:
 
-- verse-level pages for each promoted verse in the main corpus finding set
-- combined pages for the major local ranges
-- argument-cluster pages for Deuteronomy 18, the Paraclete, Ishmaelite/Kedar support, Paran/Arabia, Baca, Mahmad, kingdom-transfer, and related clusters
+- Prophet Like Moses
+- Paraclete
+- Messenger Before Arrival
+- Ishmaelite Line And Brethren
+- Paran And Arabia
+- Arabian Servant And Kedar
+- Live Prophetic Expectation
+- Law Continuity Control
+- Kingdom Transfer
+- Unlettered Prophet
+- Baca And Pilgrimage
+- Mahmad And Praised-One
+- related control and synthesis clusters
 
 ## Working Material Policy
 Files under `input/` are working material only.
@@ -95,3 +106,4 @@ They are not repository deliverables and should not be copied into the public re
 Contribution expectations are in [CONTRIBUTE.md](CONTRIBUTE.md).
 
 If you are opening a PR based on your own paper, notes, reading, or missing passages you noticed in another corpus, start there first.
+

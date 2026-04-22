@@ -1,18 +1,33 @@
-# Genesis 17:20
+﻿# Genesis 17:20
 
-## Claim Use
-This verse is used to argue that Ishmael remains under divine blessing and that his line cannot be dismissed as outside the larger redemptive frame.
+## Page Type
+Atomic passage page
 
-## Why This Passage Gets Its Own Node
-- It is a reusable Ishmael-line anchor in multiple files.
-- The promise of blessing, multiplication, rulers, and a great nation is often treated as background support for later Arabian-prophet readings.
+## Passage-Specific Contribution
+- This verse contributes divine blessing, multiplication, twelve-prince structure, and nationhood for Ishmael.
+- It matters because the Ishmaelite line is not treated as an incidental branch in the candidate-field argument.
+- The strongest alternative is that the blessing is historical genealogy, not prophecy of a later messenger.
 
-## Objections / Alternate Readings
-- The verse does not by itself announce a later prophet.
-- It works best as a preparatory identity text, not as a complete prophecy claim.
+## Epistemic Classification
+- Status: anchored
+- Passage contribution: support; convergence is governed by linked cluster pages
+- Role: supporting passage anchor; identification remains cluster-level synthesis
 
-## Related Pages
-- `bible/ot/genesis/ch21/v13-21/summary.md`
-- `bible/ot/genesis/ch16/v12/summary.md`
-- `bible/ot/isaiah/ch42/v11/summary.md`
-- `arguments/ishmaelite-line-and-brethren/summary.md`
+## Argumentative Use
+- This page functions as supportive anchor, governed by its cluster.
+- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
+- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+
+## Strongest Local Alternative
+- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+
+## Dependency Links
+- [arguments/ishmaelite-line-and-brethren/summary.md](../../../../../arguments/ishmaelite-line-and-brethren/summary.md)
+- [arguments/prophet-like-moses/summary.md](../../../../../arguments/prophet-like-moses/summary.md)
+
+## Failure Modes
+- Do not use this passage as an isolated proof text.
+- Do not treat support or control roles as direct identification.
+- Do not hide the local alternative reading when using the linked cluster.
+
+

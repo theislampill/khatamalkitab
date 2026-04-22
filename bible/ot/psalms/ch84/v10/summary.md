@@ -1,14 +1,32 @@
 ﻿# Psalms 84:10
 
-## Claim Use
-This verse is tracked individually so collaborators can discuss its own argumentative role without rewriting the whole local block.
+## Page Type
+Atomic passage page
 
-## Local Context
-Primary local context: bible/ot/psalms/ch84/v4-10/summary.md
+## Passage-Specific Contribution
+- This passage contributes pilgrimage, house-of-God longing, Baca, and blessed journey imagery.
+- It matters only as sacred-geography resonance after stronger Arabian geography support is in place.
+- The strongest alternative is Zion-centered pilgrimage or figurative Baca.
 
-## Current Role
-Within the promoted corpus ledger, this verse serves the Baca and pilgrimage block.
+## Epistemic Classification
+- Status: anchored
+- Passage contribution: support; convergence is governed by linked cluster pages
+- Role: supporting passage anchor; identification remains cluster-level synthesis
 
-## Related Argument Clusters
-- `arguments/baca-and-pilgrimage/summary.md`
-- `arguments/mahmad-and-praised-one/summary.md`
+## Argumentative Use
+- This page functions as supportive anchor, governed by its cluster.
+- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
+- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+
+## Strongest Local Alternative
+- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+
+## Dependency Links
+- [arguments/baca-and-pilgrimage/summary.md](../../../../../arguments/baca-and-pilgrimage/summary.md)
+
+## Failure Modes
+- Do not use this passage as an isolated proof text.
+- Do not treat support or control roles as direct identification.
+- Do not hide the local alternative reading when using the linked cluster.
+
+

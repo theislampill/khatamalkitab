@@ -1,23 +1,37 @@
-# John 16:7-13
+﻿# John 16:7-13
 
-## Claim Use
-This is the main local Paraclete block in the repository. It combines the departure condition, public reproof, residual teaching, and mediated speech into one coherent mission profile.
+## Page Type
+Local combined passage page
 
-## Why This Range Matters Together
-- Splitting the range hides how the claims reinforce one another.
-- The working corpus repeatedly argues from the sequence as a whole rather than from isolated phrases.
-- This range is where many cross-passage links back to Deuteronomy 18 are made.
+## Passage-Specific Contribution
+- This passage contributes departure, advantage, conviction, guidance into truth, future disclosure, and received speech.
+- It matters as the densest Paraclete range and the strongest bridge to Deuteronomy 18.
+- The strongest alternative is that Jesus is describing the Holy Spirit's post-resurrection/Pentecost work.
 
-## Objections / Alternate Readings
-- Mainstream Christian readings take the block as the Holy Spirit's post-Easter work.
-- The strongest alternative claims here depend on textual, theological, and historical arguments that remain under review.
+## Why This Range Matters
+- The range matters because departure, advantage, conviction, guidance, future disclosure, and received speech form one Paraclete argument sequence.
 
-## Related Pages
-- `bible/nt/john/ch14/v16-17/summary.md`
-- `bible/nt/john/ch14/v26/summary.md`
-- `bible/nt/john/ch15/v26/summary.md`
-- `bible/nt/john/ch16/v7/summary.md`
-- `bible/nt/john/ch16/v8/summary.md`
-- `bible/nt/john/ch16/v13/summary.md`
-- `arguments/paraclete/summary.md`
-- `arguments/prophet-like-moses-and-paraclete/summary.md`
+## Epistemic Classification
+- Status: anchored
+- Passage contribution: control; tests or constrains linked clusters
+- Role: context/control; not direct identification by itself
+
+## Argumentative Use
+- Use this range as the densest Paraclete profile: Jesus' departure, the coming guide, guidance into truth, future disclosure, and received speech belong to one sequence.
+- The range feeds [Paraclete](../../../../../arguments/paraclete/summary.md) and [Prophet Like Moses And Paraclete](../../../../../arguments/prophet-like-moses-and-paraclete/summary.md) by supplying the Gospel-side mediated-speech pressure.
+- Identification of the Prophet ﷺ remains cluster-level synthesis and must pass the Spirit/Pentecost controls.
+
+## Strongest Local Alternative
+- The strongest local alternative is that Jesus is describing the Holy Spirit's post-resurrection and Pentecost work in the disciples and early community. If that reading fully explains departure, guidance, and received speech, the human-messenger reading loses direct force.
+
+## Dependency Links
+- [arguments/paraclete/summary.md](../../../../../arguments/paraclete/summary.md)
+- [arguments/prophet-like-moses-and-paraclete/summary.md](../../../../../arguments/prophet-like-moses-and-paraclete/summary.md)
+- [arguments/paraclete-and-subordination/summary.md](../../../../../arguments/paraclete-and-subordination/summary.md)
+
+## Failure Modes
+- Do not use this passage as an isolated proof text.
+- Do not treat support or control roles as direct identification.
+- Do not hide the local alternative reading when using the linked cluster.
+
+

@@ -1,14 +1,35 @@
 ﻿# Zechariah 9:9-10
 
-## Claim Use
-This range is tracked as the local combined page for the king-comes-to-Zion block.
+## Page Type
+Local combined passage page
 
-## Repository Role
-The promoted corpus uses this passage for the just king / victory / rule-from-Zion block used in conquest and rule-transfer arguments.
+## Passage-Specific Contribution
+- This passage contributes king, peace, and rule-to-the-nations language.
+- It matters as kingdom-transfer support only.
+- The strongest alternative is messianic or Zion-restoration fulfillment centered on Jesus or Israel.
 
-## Verse Pages
-- `bible/ot/zechariah/ch9/v9/summary.md`
-- `bible/ot/zechariah/ch9/v10/summary.md`
+## Why This Range Matters
+- The range matters because the adjacent verses form one local argumentative unit; atomics remain available for verse-specific review.
 
-## Related Argument Clusters
-- `arguments/kingdom-transfer/summary.md`
+## Epistemic Classification
+- Status: anchored
+- Passage contribution: support; convergence is governed by linked cluster pages
+- Role: supporting passage anchor; identification remains cluster-level synthesis
+
+## Argumentative Use
+- This page functions as supportive anchor, governed by its cluster.
+- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
+- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+
+## Strongest Local Alternative
+- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+
+## Dependency Links
+- [arguments/kingdom-transfer/summary.md](../../../../../arguments/kingdom-transfer/summary.md)
+
+## Failure Modes
+- Do not use this passage as an isolated proof text.
+- Do not treat support or control roles as direct identification.
+- Do not hide the local alternative reading when using the linked cluster.
+
+

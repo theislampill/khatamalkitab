@@ -1,21 +1,35 @@
 ﻿# Daniel 7:17-25
 
-## Claim Use
-This range is tracked as the local combined page for the kingdom succession block.
+## Page Type
+Local combined passage page
 
-## Repository Role
-The promoted corpus uses this passage for the kingdom succession and imperial-transfer range used in later kingdom arguments.
+## Passage-Specific Contribution
+- This passage contributes beasts, kingdoms, holy ones, opposition, and kingdom reception imagery.
+- It matters as broad rule-transfer motif only.
+- The strongest alternative is Daniel's ancient empire schema or later Christian apocalyptic reading.
 
-## Verse Pages
-- `bible/ot/daniel/ch7/v17/summary.md`
-- `bible/ot/daniel/ch7/v18/summary.md`
-- `bible/ot/daniel/ch7/v19/summary.md`
-- `bible/ot/daniel/ch7/v20/summary.md`
-- `bible/ot/daniel/ch7/v21/summary.md`
-- `bible/ot/daniel/ch7/v22/summary.md`
-- `bible/ot/daniel/ch7/v23/summary.md`
-- `bible/ot/daniel/ch7/v24/summary.md`
-- `bible/ot/daniel/ch7/v25/summary.md`
+## Why This Range Matters
+- The range matters because the adjacent verses form one local argumentative unit; atomics remain available for verse-specific review.
 
-## Related Argument Clusters
-- `arguments/kingdom-transfer/summary.md`
+## Epistemic Classification
+- Status: anchored
+- Passage contribution: support; convergence is governed by linked cluster pages
+- Role: supporting passage anchor; identification remains cluster-level synthesis
+
+## Argumentative Use
+- This page functions as supportive anchor, governed by its cluster.
+- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
+- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+
+## Strongest Local Alternative
+- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+
+## Dependency Links
+- [arguments/kingdom-transfer/summary.md](../../../../../arguments/kingdom-transfer/summary.md)
+
+## Failure Modes
+- Do not use this passage as an isolated proof text.
+- Do not treat support or control roles as direct identification.
+- Do not hide the local alternative reading when using the linked cluster.
+
+

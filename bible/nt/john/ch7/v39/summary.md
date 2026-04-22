@@ -1,10 +1,32 @@
 ﻿# John 7:39
 
-## Claim Use
-This verse is promoted as its own reusable node.
+## Page Type
+Atomic passage page
 
-## Repository Role
-The promoted corpus uses this passage for the Spirit-reception control verse used against a Holy-Spirit-only Paraclete reading.
+## Passage-Specific Contribution
+- This verse contributes the "Spirit not yet given" timing control.
+- It matters because the Paraclete reading must account for John's own Spirit chronology.
+- The strongest alternative is that this points directly to the Holy Spirit rather than a later human messenger.
 
-## Related Argument Clusters
-- `arguments/paraclete/summary.md`
+## Epistemic Classification
+- Status: anchored
+- Passage contribution: high as a linked-cluster anchor; convergence is not assigned to this verse alone
+- Role: Paraclete passage anchor or control, governed by range context
+
+## Argumentative Use
+- This page functions according to the role above; when used as a control, it constrains the linked cluster rather than proving it.
+- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
+- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+
+## Strongest Local Alternative
+- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+
+## Dependency Links
+- [arguments/paraclete/summary.md](../../../../../arguments/paraclete/summary.md)
+
+## Failure Modes
+- Do not use this passage as an isolated proof text.
+- Do not treat support or control roles as direct identification.
+- Do not hide the local alternative reading when using the linked cluster.
+
+

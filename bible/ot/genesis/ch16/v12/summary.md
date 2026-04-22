@@ -1,18 +1,33 @@
-# Genesis 16:12
+﻿# Genesis 16:12
 
-## Claim Use
-This verse is used in the working corpus as a narrow Ishmael-line support text, especially in arguments about "brethren" and whether Ishmael's descendants remain in view for later prophetic expectations.
+## Page Type
+Atomic passage page
 
-## Why This Passage Gets Its Own Node
-- It is repeatedly pulled in as a supporting identity marker rather than as a full prophecy page.
-- The verse functions as a bridge between Deuteronomy's "brethren" language and later Arab / Ishmaelite claims.
+## Passage-Specific Contribution
+- This verse contributes Ishmael's distinct and resistant regional identity in relation to his brothers.
+- It matters for the "brethren" route only as eligibility pressure, not as prophecy by itself.
+- The strongest alternative is genealogical background without later prophetic significance.
 
-## Objections / Alternate Readings
-- The wording is heavily disputed in the working material, especially the force of "against" and the tone of Ishmael's portrayal.
-- It is better treated as a lineage-support text than as a standalone prediction of Muhammad.
+## Epistemic Classification
+- Status: anchored
+- Passage contribution: support; convergence is governed by linked cluster pages
+- Role: supporting passage anchor; identification remains cluster-level synthesis
 
-## Related Pages
-- `bible/ot/genesis/ch17/v20/summary.md`
-- `bible/ot/genesis/ch21/v13-21/summary.md`
-- `bible/ot/deuteronomy/ch18/v18/summary.md`
-- `arguments/ishmaelite-line-and-brethren/summary.md`
+## Argumentative Use
+- This page functions as supportive anchor, governed by its cluster.
+- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
+- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+
+## Strongest Local Alternative
+- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+
+## Dependency Links
+- [arguments/ishmaelite-line-and-brethren/summary.md](../../../../../arguments/ishmaelite-line-and-brethren/summary.md)
+- [arguments/prophet-like-moses/summary.md](../../../../../arguments/prophet-like-moses/summary.md)
+
+## Failure Modes
+- Do not use this passage as an isolated proof text.
+- Do not treat support or control roles as direct identification.
+- Do not hide the local alternative reading when using the linked cluster.
+
+
