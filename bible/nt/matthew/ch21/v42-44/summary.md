@@ -1,24 +1,25 @@
 # Matthew 21:42-44
 
-`Status:` anchored. `Role:` supporting passage anchor; identification remains cluster-level synthesis. `Contribution:` support; convergence is governed by linked cluster pages.
+`Status:` anchored. `Role:` stewardship-transfer widening range. `Contribution:` support for the public-order horizon rather than direct identification.
 
 ## Claim
-This passage contributes rejected-stone and kingdom-transfer language. It matters as broad kingdom-transfer support, not direct identification.
+This passage matters because it joins rejected-stone reversal to explicit transfer of kingdom stewardship. Its force is broader than one messianic image. It speaks about who will bear fruit and who will lose what they failed to honor.
 
 ## Reasoning
-The adjacent verses form one local argumentative unit; atomics remain available for verse-specific review. At this level, the page contributes a supporting constraint that becomes stronger when it is read inside the linked higher-order pages.
+The range moves from the rejected stone becoming foundational to the declaration that the kingdom will be given to a people producing its fruit. That sequence matters. The local point is not simply that God overrules rejection. It is that divine order can pass into more fruitful stewardship. Read that way, the page supports a widening public-order horizon without pretending to identify the thesis directly.
+
+That emphasis on fruit is what keeps the page from floating into generic transfer rhetoric. The verse is not only about replacement. It is about accountable stewardship. That makes it especially useful to the widening layer, which needs public responsibility language rather than mere grandeur.
 
 ## Local Significance
-Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
+Locally, the passage gives the widening family something more concrete than vague triumph. It speaks of transferred responsibility, public consequence, and fruit-bearing. That makes it more useful than a generic "kingdom" proof text even though it remains a support page.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
+This page strengthens [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md) by giving that cluster a clear stewardship-and-fruit-bearing component. It also supports [Public Guidance Convergence](../../../../../convergences/public-guidance-convergence/summary.md), where widened public order matters more than bare kingdom vocabulary.
 
-## Objection Note
-The main competing reading is Jesus/church/Gentile-mission fulfillment. That sets the page's proper rank, but it does not erase the supporting constraint the passage still contributes to the larger network.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis by adding one more supporting constraint to the cumulative case and by helping the linked higher-order pages narrow or clarify the field.
+Matthew 21:42-44 strengthens the thesis late in the route. It does not name the later figure, but it helps explain why the cumulative case points toward transferred stewardship and public consequence rather than toward a purely private conclusion.
 
 ## Linked Pages
 - [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md)
+- [Public Guidance Convergence](../../../../../convergences/public-guidance-convergence/summary.md)

@@ -1,24 +1,15 @@
 # Acts 21:20
 
-`Status:` anchored. `Role:` law-continuity control. `Contribution:` control; tests or constrains linked clusters.
+`Status:` anchored.
 
 ## Claim
-This passage contributes early Jewish-Christian Torah observance and communal perception pressure. It matters as law-continuity control, not as prophecy support.
+This verse establishes the control setting plainly: many Jewish believers remain zealous for the law. It matters because continuity pressure exists inside the Jesus movement itself, not only in outside criticism.
 
 ## Reasoning
-The page therefore works as a control node: it constrains the linked cluster and keeps larger claims proportionate. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. The fuller identification question is therefore handled at cluster or convergence level rather than being forced onto this single page.
-
-## Local Significance
-Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
+The verse blocks any easy story in which covenantal practice simply vanishes after Jesus. It shows that law-observant commitment remains a living communal reality. That is why this page functions as a genuine control rather than a stray historical aside.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Law Continuity Control](../../../../../arguments/law-continuity-control/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
-
-## Objection Note
-The main competing reading is pastoral accommodation within Acts rather than a general law-continuity rule. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
-
-## Contribution Summary
-Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
+This chiefly strengthens [Law Continuity Control](../../../../../arguments/law-continuity-control/summary.md) by anchoring the continuity question in communal reality rather than abstract theory.
 
 ## Linked Pages
 - [Law Continuity Control](../../../../../arguments/law-continuity-control/summary.md)

@@ -1,24 +1,25 @@
 # Zechariah 9:9-10
 
-`Status:` anchored. `Role:` supporting passage anchor; identification remains cluster-level synthesis. `Contribution:` support; convergence is governed by linked cluster pages.
+`Status:` anchored. `Role:` peace-and-dominion widening range. `Contribution:` support for the public-order horizon.
 
 ## Claim
-This passage contributes king, peace, and rule-to-the-nations language. It matters as kingdom-transfer support only.
+This passage matters because it moves from the arrival of a king to peace among the nations and widened dominion. Its value is not exhausted by one messianic image. It contributes to the widening line by linking rule, disarmament, and public peace.
 
 ## Reasoning
-The adjacent verses form one local argumentative unit; atomics remain available for verse-specific review. At this level, the page contributes a supporting constraint that becomes stronger when it is read inside the linked higher-order pages.
+`v.9` introduces a righteous and humble king, but `v.10` broadens the horizon. War instruments are cut off, peace is spoken to the nations, and dominion extends widely. Read together, the range is about more than arrival. It is about arrival opening into public order. That is why the page belongs to the widening family rather than to a narrow identity proof.
+
+The page is especially useful because it links public order to peace rather than only to power. That keeps the widening layer from sounding like a search for sheer scale or triumph. The horizon here is rule that reorders conflict and speaks peace outward.
 
 ## Local Significance
-Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
+Locally, Zechariah 9:9-10 gives the widening case a strong peace-and-rule sequence. It helps show how a figure's arrival can be linked to communal and international consequence without asking this one page to carry the whole thesis.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
+This page strengthens [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md) by adding peaceful rule and widened dominion to the public-order horizon. It also helps [Public Guidance Convergence](../../../../../convergences/public-guidance-convergence/summary.md), where the case needs more than abstract guidance and begins to speak about communal consequence.
 
-## Objection Note
-The main competing reading is messianic or Zion-restoration fulfillment centered on Jesus or Israel. That sets the page's proper rank, but it does not erase the supporting constraint the passage still contributes to the larger network.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis by adding one more supporting constraint to the cumulative case and by helping the linked higher-order pages narrow or clarify the field.
+Zechariah 9:9-10 strengthens the thesis late and cumulatively. It does not identify the later figure by itself, but it helps the final case feel like a judgment about public peace and widened order rather than about isolated textual correspondences.
 
 ## Linked Pages
 - [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md)
+- [Public Guidance Convergence](../../../../../convergences/public-guidance-convergence/summary.md)

@@ -12,13 +12,11 @@ The verse matters because it binds office and speech together. The prophet is no
 Within its local setting, the verse preserves the heart of the promise before the surrounding range adds Horeb background and accountability. It therefore keeps the Moses-like and received-speech predicates available in one direct and reusable form.
 
 ## Networked Significance
-Within the wider repository, this verse strengthens [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md), [Prophet Like Moses And Paraclete](../../../../../arguments/prophet-like-moses-and-paraclete/summary.md), and [Primary Profile Convergence](../../../../../convergences/primary-profile-convergence/summary.md). It is one of the atomic nodes that lets the cumulative case move from detailed exegesis into wider profile-building without losing textual precision.
+In the larger case, this verse strengthens [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md), [Prophet Like Moses And Paraclete](../../../../../arguments/prophet-like-moses-and-paraclete/summary.md), and [Primary Profile Convergence](../../../../../convergences/primary-profile-convergence/summary.md). It is one of the atomic nodes that lets the cumulative case move from detailed exegesis into wider profile-building without losing textual precision.
 
-## Objection Note
-The main boundary is not a lexical one but a larger interpretive one: the verse can be absorbed into succession or Jesus-centered closure readings when the wider range is taken into account. That boundary is real, but it does not erase the verse's local force. The verse still preserves the direct office-and-speech predicate the larger debate must explain.
 
 ## Contribution Summary
-Used this way, Deuteronomy 18:18 strengthens the thesis by supplying one of the repo's strongest atomic anchors for the Torah-side profile.
+Deuteronomy 18:18 strengthens the thesis by supplying one of the repo's strongest atomic anchors for the Torah-side profile.
 
 ## Linked Pages
 - [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md)

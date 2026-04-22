@@ -1,24 +1,22 @@
 # Acts 3:22-23
 
-`Status:` anchored. `Role:` control / Christian alternate-reading anchor. `Contribution:` control; tests or constrains linked clusters.
+`Status:` anchored. `Role:` Christian application control for Deuteronomy 18 inside a restoration sermon. `Contribution:` strong rival-reading and accountability witness for the Mosaic line.
 
 ## Claim
-This passage applies Deuteronomy 18 in Peter's speech and therefore preserves the strongest Christian counter-reading. It matters as both evidence that Deuteronomy 18 was live and a control against Muslim overclaiming, especially when read with Acts 3:21's future-restoration frame.
+This passage matters because Peter explicitly cites Deuteronomy 18 and applies its demand for hearing the promised prophet. It therefore preserves the strongest Christian fulfillment reading while also proving that the Moses-like prophet remained a live and weighty category in early proclamation.
 
 ## Reasoning
-The adjacent verses form one local argumentative unit; atomics remain available for verse-specific review. At this level, the page serves as a control that clarifies the limits the larger argument must respect.
+The citation is not incidental. Peter is speaking within a restoration sermon, reaches back to Moses, and then adds the warning that refusal to hear the prophet brings real consequence. That means the passage preserves both sides of the Deuteronomy pattern at once: the promised office and the hearer's accountability. Because it appears inside a Christian sermon, it also supplies the strongest internal rival reading the repo has to face rather than evade.
 
 ## Local Significance
-Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
+Locally, Acts 3:22-23 does more than quote a familiar text. It shows how seriously Deuteronomy 18 was being handled. The prophet is not treated as a decorative title. He is treated as a figure whose coming and speech place the audience under judgment.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [V21](../../../../../bible/nt/acts/ch3/v21/summary.md) and [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
+This page strengthens [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md) by preserving the sharpest Christian counter-reading inside the New Testament itself. It also deepens [V21](../../../../../bible/nt/acts/ch3/v21/summary.md) because Peter's use of Deuteronomy 18 sits inside an ongoing restoration horizon rather than a merely retrospective quotation. The result is constructive and disciplinary at the same time: the main cluster remains live, but it must survive a serious rival application.
 
-## Objection Note
-The main competing reading is direct fulfillment in Jesus. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
+Acts 3:22-23 strengthens the thesis by keeping the Mosaic line honest. It shows that Deuteronomy 18 remained central enough to be explicitly claimed, which raises the level of rival pressure without making the office-profile disappear.
 
 ## Linked Pages
 - [V21](../../../../../bible/nt/acts/ch3/v21/summary.md)

@@ -1,26 +1,23 @@
 # Isaiah 60:6-7
 
-`Status:` anchored. `Role:` candidate-field support; identification remains cluster-level synthesis. `Contribution:` support; secondary Kedar/sanctuary narrowing support.
+`Status:` anchored. `Role:` Arabian-worship overlap within Isaiah 60. `Contribution:` secondary Kedar-and-sanctuary nexus support.
 
 ## Claim
-This range contributes Arabian-associated caravan and flock imagery together with Kedar, Nebaioth, altar, and house-of-glory language. It matters as secondary sanctuary/Kedar support within the wider Arabian candidate-field discussion.
+This range matters because it places Arabian caravans and flocks, including Kedar and Nebaioth, inside a worship scene directed toward the altar and the beautifying of the house. Its force is not simply that Kedar appears again. Its force is that Arabian field material is joined to public worship and sanctuary honor.
 
 ## Reasoning
-Arabian traffic and Kedar/Nebaioth sanctuary language work together here rather than as separate scattered motifs. At this level, the page contributes a supporting constraint that becomes stronger when it is read inside the linked higher-order pages.
+The local unit combines named Arabian groups, movement toward Zion, sacrificial imagery, and a glorified house. That combination matters because it makes the page more than a lexical coincidence or a bare tribal note. At the same time, the wider chapter is a Zion-restoration scene. That keeps the page in secondary rank. Its contribution is overlap and support, not stand-alone identification.
 
 ## Local Significance
-Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
+Locally, this passage gives the Arabian-support line a public-worship dimension. The page is useful because it links the Kedar field to sanctuary and communal honor, not because it pretends to settle the thesis from one pair of verses.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Arabian Servant And Kedar](../../../../../arguments/arabian-servant-and-kedar/summary.md), [Ishmaelite Line And Brethren](../../../../../arguments/ishmaelite-line-and-brethren/summary.md), and [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
+This page strengthens [Arabian Servant And Kedar](../../../../../arguments/arabian-servant-and-kedar/summary.md) by showing that Kedar support can widen into public worship and sanctuary honor. It also helps [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md) because the widening family gains a concrete Arabian overlap inside a broader public-restoration scene.
 
-## Objection Note
-The main competing reading takes the passage as the range belongs to Zion-restoration imagery in which nations bring tribute and sacrifice to Jerusalem. That sets the page's proper rank, but it does not erase the supporting constraint the passage still contributes to the larger network.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis by adding one more supporting constraint to the cumulative case and by helping the linked higher-order pages narrow or clarify the field.
+Isaiah 60:6-7 strengthens the thesis as a secondary nexus page. It joins Arabian field material to public worship, but it remains a supporting line whose real force emerges only inside the larger narrowing and widening routes.
 
 ## Linked Pages
 - [Arabian Servant And Kedar](../../../../../arguments/arabian-servant-and-kedar/summary.md)
-- [Ishmaelite Line And Brethren](../../../../../arguments/ishmaelite-line-and-brethren/summary.md)
 - [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md)

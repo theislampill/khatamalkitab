@@ -1,24 +1,23 @@
 # 1 John 4:1-6
 
-`Status:` anchored. `Role:` Paraclete passage anchor or control, governed by range context. `Contribution:` high as a linked-cluster anchor; convergence is not assigned to this verse alone.
+`Status:` anchored. `Role:` discernment control within Johannine Spirit claims. `Contribution:` high-value Gospel-side boundary for later-guide readings.
 
 ## Claim
-This passage contributes testing-the-spirits and true/false witness criteria. It matters as a community-witness control for Paraclete and Spirit claims.
+This passage matters because it shows how competing spiritual claims are supposed to be judged. It does not ask the reader to trust every claim that arrives with spiritual language. It requires testing, ties that testing to confession about Jesus, and distinguishes the spirit of truth from the spirit of error.
 
 ## Reasoning
-The adjacent verses form one local argumentative unit; atomics remain available for verse-specific review. At this level, the page serves as a control that clarifies the limits the larger argument must respect.
+The passage moves in a clear sequence. It first forbids naive acceptance of every spirit. It then gives a criterion centered on confession about Jesus. It ends by contrasting those who speak from the world with those who hear apostolic witness. Read as one movement, the range shows that Johannine spiritual language is public, doctrinal, and accountable. That matters for the larger Paraclete case because later-guidance claims cannot bypass discernment. They have to survive it.
 
 ## Local Significance
-Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
+Locally, this page keeps the Johannine discussion from collapsing into raw charisma. Spiritual force is not treated as self-validating. The true spirit is known by its fidelity to Jesus and by its relation to the truth-bearing witness already entrusted to the community. That makes the passage a real control page, not a generic warning.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Paraclete](../../../../../arguments/paraclete/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
+This page strengthens [Paraclete](../../../../../arguments/paraclete/summary.md) by showing that the Gospel-side line is framed within discernment rather than unchecked enthusiasm. It also helps [Paraclete And Subordination](../../../../../arguments/paraclete-and-subordination/summary.md) because the later guide's role has to remain faithful to Jesus rather than becoming an independent rival voice. The passage therefore contributes more than atmosphere. It supplies the criteria that keep the Johannine line disciplined while still leaving room for a serious later-guide profile.
 
-## Objection Note
-The main competing reading takes the passage as it belongs wholly to intra-Christian discernment. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
+1 John 4:1-6 strengthens the thesis indirectly but substantially. It does not identify the later figure on its own, but it explains how truth, witness, and discernment regulate the Gospel-side case.
 
 ## Linked Pages
 - [Paraclete](../../../../../arguments/paraclete/summary.md)
+- [Paraclete And Subordination](../../../../../arguments/paraclete-and-subordination/summary.md)

@@ -1,24 +1,16 @@
 # 1 John 4:3
 
-`Status:` anchored. `Role:` Paraclete passage anchor or control, governed by range context. `Contribution:` high as a linked-cluster anchor; convergence is not assigned to this verse alone.
+`Status:` anchored.
 
 ## Claim
-This passage contributes testing-the-spirits and true/false witness criteria. It matters as a community-witness control for Paraclete and Spirit claims.
+This verse supplies the negative side of the test: denial of that confession is not from God. It matters because false spiritual speech is treated as a live rival, not as a remote abstraction.
 
 ## Reasoning
-The page therefore works as a control node: it constrains the linked cluster and keeps larger claims proportionate. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. The fuller identification question is therefore handled at cluster or convergence level rather than being forced onto this single page.
-
-## Local Significance
-Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
+John says the spirit of error is already at work in the world. Discernment therefore answers a real historical pressure. The verse keeps the discussion from sounding like a choice between equal spiritual options.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Paraclete](../../../../../arguments/paraclete/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
-
-## Objection Note
-The main competing reading takes the passage as it belongs wholly to intra-Christian discernment. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
-
-## Contribution Summary
-Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
+That strengthens [Paraclete](../../../../../arguments/paraclete/summary.md) and [Paraclete And Subordination](../../../../../arguments/paraclete-and-subordination/summary.md) by showing that any serious later-guide reading has to distinguish itself from active counterfeit claims.
 
 ## Linked Pages
 - [Paraclete](../../../../../arguments/paraclete/summary.md)
+- [Paraclete And Subordination](../../../../../arguments/paraclete-and-subordination/summary.md)

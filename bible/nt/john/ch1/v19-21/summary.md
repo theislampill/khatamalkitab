@@ -1,26 +1,31 @@
 # John 1:19-21
 
-`Status:` anchored. `Role:` context/control for expected-prophet categories. `Contribution:` control; tests or constrains linked clusters.
+`Status:` anchored. `Role:` supporting passage anchor for differentiated expectation. `Contribution:` support; keeps key expectation categories distinct.
 
 ## Claim
-This passage distinguishes Messiah, Elijah, and "the Prophet" in an interrogation scene. It matters because it keeps expected-prophet categories visible in first-century discourse and resists collapsing them into one undifferentiated expectation.
+
+This passage matters because it distinguishes Messiah, Elijah, and "the Prophet" in one interrogation scene. Its value is not that it settles which category is correct. Its value is that it shows first-century expectation language still operating with real differentiation rather than with one exhausted label.
 
 ## Reasoning
-The adjacent verses form one local argumentative unit; atomics remain available for verse-specific review. At this level, the page serves as a control that clarifies the limits the larger argument must respect.
+
+The range gains force by keeping the questions together. The hearers do not ask one broad question about hope in general. They ask about identifiable expectation categories and do not treat them as automatic equivalents. John denies one category after another, which means the scene is actively sorting expectations rather than casually naming them. That is the key local point. The scene therefore does more than provide atmosphere. It shows that expectation remained structured enough for later argument to ask which category, office, or figure is actually in view.
+
+This matters to the larger case because a differentiated expectation field is much more hospitable to serious inquiry than a flattened one. If prophet, Elijah, and messiah language were already collapsed beyond dispute, later arguments would begin under a much heavier burden. This passage helps explain why the field remained open enough for the stronger direct clusters to matter. It also shows that “the Prophet” remained visible as a category in its own right, which is especially important for the Mosaic lane.
 
 ## Local Significance
-Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
+
+Read as a passage, John 1:19-21 gives more than one verse can give by itself. The force lies in the contrast across the questions and denials. The category of "the Prophet" remains visible precisely because it is not simply swallowed by the others. That makes the page a true expectation anchor rather than a thin proof-text.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md), [Messenger Before Arrival](../../../../../arguments/messenger-before-arrival/summary.md), and [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Objection Note
-The main competing reading takes the passage as the scene is fully resolved inside John's witness to Jesus. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
+This range strengthens [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md), [Messenger Before Arrival](../../../../../arguments/messenger-before-arrival/summary.md), and especially [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md). It helps those higher pages explain not only that expectation remained alive, but also that it remained differentiated.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
+
+John 1:19-21 strengthens the thesis by keeping the expectation field textually open and structured. It does not identify the conclusion by itself, but it makes the larger question far harder to dismiss as illegitimate from the outset.
 
 ## Linked Pages
+
 - [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md)
 - [Messenger Before Arrival](../../../../../arguments/messenger-before-arrival/summary.md)
 - [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md)

@@ -1,24 +1,27 @@
 # Isaiah 42:18-21
 
-`Status:` anchored. `Role:` servant-cycle control / objection-sensitive context. `Contribution:` control; tests or constrains linked clusters.
+`Status:` anchored. `Role:` servant-cycle control and context. `Contribution:` control; keeps the servant lane whole rather than selective.
 
 ## Claim
-This passage contributes servant-cycle control material around blindness, hearing, and law magnification. It matters as a restraint on over-simple servant identification.
+
+This passage contributes servant-cycle control material around blindness, hearing, and law magnification. It matters as a restraint on over-simple servant identification, but also as evidence that the servant cycle contains law seriousness and internal tension, not just celebratory mission language.
 
 ## Reasoning
-The adjacent verses form one local argumentative unit; atomics remain available for verse-specific review. At this level, the page serves as a control that clarifies the limits the larger argument must respect.
+
+Taken as a range, the passage interrupts any simplistic reading of Isaiah 42. The servant cycle does not move in one flat line from mission to triumph. It also contains rebuke, deafness, blindness, and concern for magnifying the law. That matters because the wider Arabian-servant argument has to reckon with the whole profile, not merely with the most attractive outward-facing verses. This is therefore a real control passage, not a decorative caution.
+
+The mistake this page prevents is selective reading of the servant cycle. It is tempting to lift the justice, law-to-the-nations, and Kedar-facing material from the first half of the chapter and let those verses bear the whole weight of the argument. Isaiah 42:18-21 refuses that move. It shows that the servant material also carries rebuke, failure of hearing, and intensified law-seriousness. The cluster becomes more credible when it includes that tension rather than hiding it.
 
 ## Local Significance
-Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
+
+Read as a passage, this range has more force than its atom pages read separately because it reveals the internal complexity of the servant material. The local point is not only negative restraint. The passage also keeps law, hearing, and responsibility in view. That deepens the servant cluster even as it disciplines it. The result is a page that both limits overclaim and prevents the earlier servant language from being reduced to vague uplift.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Arabian Servant And Kedar](../../../../../arguments/arabian-servant-and-kedar/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Objection Note
-The main competing reading takes the passage as the servant material remains internal to Israel/servant-cycle interpretation. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
+This page chiefly strengthens [Arabian Servant And Kedar](../../../../../arguments/arabian-servant-and-kedar/summary.md) by forcing that cluster to read the servant cycle as a whole. It also matters for [Candidate-Field Narrowing](../../../../../convergences/candidate-field-narrowing/summary.md), because the narrowing case is more credible when it visibly includes the strongest local controls. The passage therefore keeps the servant lane serious rather than selective.
+
+That strengthening effect is important. A narrowed field built only from the chapter's most outward-facing verses would look opportunistic. A narrowed field that visibly includes the servant cycle's hardest internal tensions sounds far more textually responsible.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
 
-## Linked Pages
-- [Arabian Servant And Kedar](../../../../../arguments/arabian-servant-and-kedar/summary.md)
+Isaiah 42:18-21 strengthens the thesis indirectly by making the servant lane more disciplined and more substantial at the same time. It prevents selective reading while preserving law-bearing seriousness inside the servant profile.

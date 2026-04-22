@@ -1,24 +1,23 @@
 # Malachi 4:4-6
 
-`Status:` anchored. `Role:` expectation support / objection-sensitive. `Contribution:` medium; supports a linked expectation cluster.
+`Status:` anchored. `Role:` Moses-Elijah expectation sequence support. `Contribution:` medium anti-closure and messenger-sequence support.
 
 ## Claim
-This passage joins Moses-memory with Elijah-before-the-day expectation. It matters because it ties law memory and messenger expectation, but remains controlled by the Synoptic Elijah/John readings.
+This passage matters because it joins memory of Moses with Elijah-before-the-day expectation. It therefore binds continuity and preparation together. The page is not merely about Elijah as a label. It is about remembered revelation and coming messenger-sequence appearing in one local unit.
 
 ## Reasoning
-Messenger, covenant, purification, Moses-memory, and Elijah expectation work as local expectation units. At this level, the page contributes a supporting constraint that becomes stronger when it is read inside the linked higher-order pages.
+The range first recalls the law given through Moses, then speaks of Elijah's coming before the great day, and finally describes the turning of hearts. That sequence matters. Preparation is tethered to continuity rather than detached from it. The page therefore gives the expectation family two things at once: forward-looking sequence and backward-looking covenant memory. The Synoptic Elijah and John readings remain the strongest immediate rival, but they do not erase the local force of the sequence itself.
 
 ## Local Significance
-Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
+Locally, Malachi 4:4-6 is one of the clearest places where expectation is shown to be both covenantal and staged. That is why the range matters more than isolated Elijah discussion by itself.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Messenger Before Arrival](../../../../../arguments/messenger-before-arrival/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
+This page strengthens [Messenger Before Arrival](../../../../../arguments/messenger-before-arrival/summary.md) by giving that cluster a stronger sequence of memory, preparation, and turning. It also supports [Anti-Closure Convergence](../../../../../convergences/anti-closure-convergence/summary.md), where messenger logic is most useful when it is visibly tied to continuity rather than treated as a free-floating motif.
 
-## Objection Note
-The main competing reading takes the passage as the Elijah role is John the Baptist or remains Jewish eschatological expectation. That sets the page's proper rank, but it does not erase the supporting constraint the passage still contributes to the larger network.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis by adding one more supporting constraint to the cumulative case and by helping the linked higher-order pages narrow or clarify the field.
+Malachi 4:4-6 strengthens the thesis in support rank. It does not identify the later figure, but it makes the expectation field more coherent by showing that remembered revelation and preparatory sequence belong together.
 
 ## Linked Pages
 - [Messenger Before Arrival](../../../../../arguments/messenger-before-arrival/summary.md)
+- [Anti-Closure Convergence](../../../../../convergences/anti-closure-convergence/summary.md)

@@ -1,24 +1,22 @@
 # John 4:25
 
-`Status:` anchored. `Role:` supporting passage anchor; identification remains cluster-level synthesis. `Contribution:` support; convergence is governed by linked cluster pages.
+`Status:` anchored. `Role:` Samaritan disclosure-expectation anchor within the expectation field. `Contribution:` support for live messianic expectation and anticipated clarification.
 
 ## Claim
-This verse contributes Samaritan messianic expectation and anticipated disclosure. It matters as live-expectation context.
+This verse matters because it preserves an expectation of coming disclosure. The Samaritan woman speaks of the Messiah as one who will come and make things clear. That means the scene is still future-oriented. It is not framed as though all relevant expectation has already been exhausted.
 
 ## Reasoning
-The page therefore works as a supporting anchor inside its governing cluster. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. The fuller identification question is therefore handled at cluster or convergence level rather than being forced onto this single page.
+The verse is important not only because it mentions Messiah, but because it links messianic hope to explanatory disclosure. The expected figure is imagined as one who will settle confusion and tell what needs to be known. That matters in the broader repo because it shows a living connection between expectation and clarification. The field is not just hoping for a title. It is hoping for interpretive resolution.
 
 ## Local Significance
-Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
+Locally, John 4:25 complements [John 4:19](../../../../../bible/nt/john/ch4/v19/summary.md). One verse shows prophetic recognition in the present encounter. This verse shows messianic disclosure still projected into the future. Together they make the conversation a good witness to differentiated expectation in motion.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
+This page strengthens [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md) by showing that future-oriented explanatory hope is still alive alongside other categories. That makes the expectation field look layered and active rather than flat.
 
-## Objection Note
-The main competing reading takes the passage as John immediately centers the expectation on Jesus. That sets the page's proper rank, but it does not erase the supporting constraint the passage still contributes to the larger network.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis by adding one more supporting constraint to the cumulative case and by helping the linked higher-order pages narrow or clarify the field.
+John 4:25 strengthens the thesis in support rank by showing that the field still expects a coming figure who will clarify what is presently unresolved. That gives the broader expectation layer one of its clearest future-facing notes.
 
 ## Linked Pages
 - [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md)

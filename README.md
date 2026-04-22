@@ -1,6 +1,6 @@
 # khatamalkitab: The Prophet (peace be upon him) Fulfilled the Biblical Expectation
 
-> Collaborative research presenting the cumulative case that the Prophet (peace be upon him) fulfills the biblical prophetic expectation through verse pages, passage pages, cluster pages, convergence pages, and cumulative synthesis.
+> Collaborative research presenting the cumulative case that the Prophet (peace be upon him) fulfills biblical prophetic expectation; organised by verse pages, passage pages, cluster pages, convergence pages, and cumulative synthesis.
 
 ## Table of Contents
 - [Overview](#overview)

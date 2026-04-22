@@ -1,24 +1,25 @@
 # Mark 1:2-3
 
-`Status:` anchored. `Role:` Christian-alternative control and expectation support. `Contribution:` control; tests or constrains linked clusters.
+`Status:` anchored. `Role:` Christian-alternative control and expectation support. `Contribution:` control; defines the strongest Gospel closure reading for messenger language.
 
 ## Claim
-This passage contributes the Gospel appropriation of messenger/way-preparation language. It matters as a strong John-the-Baptist/Jesus control for Malachi readings.
+
+This passage contributes the Gospel appropriation of messenger and way-preparation language. It matters as a strong John-the-Baptist and Jesus control for Malachi readings because it shows how the Gospel itself gathers preparation language into an inner-canonical fulfillment pattern.
 
 ## Reasoning
-The adjacent verses form one local argumentative unit; atomics remain available for verse-specific review. At this level, the page serves as a control that clarifies the limits the larger argument must respect.
+
+Taken as a range, the passage does not merely echo a prophecy. It presents the beginning of the Gospel story through messenger and way-preparation language, thereby making John the Baptist the strongest immediate claimant to the preparatory role. That matters because the messenger-before-arrival cluster cannot sound serious unless it grapples directly with this passage. The page therefore functions as a real control, setting the strongest closure reading that the wider sequence argument must face.
+
+It is also useful for a subtler reason. Even while closing strongly toward John, the Gospel organizes its own beginning through preparation and way-making. That means sequence itself is not an alien idea. What remains contested is not whether preparation exists, but whether the entire field is exhausted by the immediate Gospel application.
 
 ## Local Significance
-Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
+
+Read as a passage, this range has more force than its atom pages read separately because messenger, wilderness, and prepared-way language arrive together at the start of the narrative. The local force lies in that compression. The Gospel is telling the reader how it wants John to be seen. That is why the page matters even when it does not support the thesis directly.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Messenger Before Arrival](../../../../../arguments/messenger-before-arrival/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Objection Note
-The main competing reading takes the passage as Malachi/Isaiah preparation is fulfilled in John preparing for Jesus. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
+This page chiefly strengthens [Messenger Before Arrival](../../../../../arguments/messenger-before-arrival/summary.md) by defining the cluster's strongest rival synthesis. It also helps [Anti-Closure Convergence](../../../../../convergences/anti-closure-convergence/summary.md) sound disciplined, because that higher page becomes more persuasive when it openly grants the sharpest inner-canonical closure reading before explaining why sequence pressure still matters.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
 
-## Linked Pages
-- [Messenger Before Arrival](../../../../../arguments/messenger-before-arrival/summary.md)
+Mark 1:2-3 strengthens the thesis indirectly by setting the strongest Gospel-side boundary for messenger and preparation claims while also confirming that preparation-before-arrival is a real scriptural pattern. Facing that boundary openly makes the larger cumulative case more credible.

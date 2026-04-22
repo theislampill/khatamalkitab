@@ -1,24 +1,23 @@
 # John 4:19
 
-`Status:` anchored. `Role:` supporting passage anchor; identification remains cluster-level synthesis. `Contribution:` support; convergence is governed by linked cluster pages.
+`Status:` anchored. `Role:` Samaritan prophetic-recognition anchor within the expectation field. `Contribution:` support for live prophetic expectation without direct identification.
 
 ## Claim
-This verse contributes Samaritan recognition of Jesus as a prophet. It matters as expectation context, not as later-prophet identification.
+This verse matters because the Samaritan woman immediately reaches for the category of prophet. That response shows that prophetic recognition is still a live interpretive category in the scene. The verse does not identify a later prophet, but it does show that prophecy remains a meaningful lens rather than a dead relic.
 
 ## Reasoning
-The page therefore works as a supporting anchor inside its governing cluster. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. The fuller identification question is therefore handled at cluster or convergence level rather than being forced onto this single page.
+The force of the verse lies in its immediacy. Jesus' disclosure about her life leads not to a generic statement that he is holy or remarkable, but to the specific recognition that he is a prophet. That matters because the conversation is not yet finished. Prophetic recognition appears before the later explicit statement about Messiah, which means the scene is moving through differentiated categories rather than jumping straight to one exhausted label.
 
 ## Local Significance
-Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
+Locally, this verse gives the expectation layer a concrete example of prophetic language still functioning at ground level. The scene does not treat prophetic recognition as obsolete or redundant. It uses it as the first intelligible category for explaining what has just happened.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
+This page strengthens [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md) by showing that prophetic expectation remains available in lived encounter, not only in formal debates like [John 1:19-21](../../../../../bible/nt/john/ch1/v19-21/summary.md). It also prepares [John 4:25](../../../../../bible/nt/john/ch4/v25/summary.md), where the conversation moves from prophetic recognition toward explicit messianic expectation without erasing the earlier category.
 
-## Objection Note
-The main competing reading takes the passage as the scene is wholly about Jesus' identity. That sets the page's proper rank, but it does not erase the supporting constraint the passage still contributes to the larger network.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis by adding one more supporting constraint to the cumulative case and by helping the linked higher-order pages narrow or clarify the field.
+John 4:19 strengthens the thesis in support rank by showing prophetic expectation still operating as a real category within the field. That keeps the expectation layer concrete rather than abstract.
 
 ## Linked Pages
 - [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md)
+- [John 4:25](../../../../../bible/nt/john/ch4/v25/summary.md)

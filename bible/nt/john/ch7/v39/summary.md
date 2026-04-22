@@ -1,24 +1,22 @@
 # John 7:39
 
-`Status:` anchored. `Role:` Paraclete passage anchor or control, governed by range context. `Contribution:` high as a linked-cluster anchor; convergence is not assigned to this verse alone.
+`Status:` anchored. `Role:` Johannine timing hinge for Spirit-giving. `Contribution:` high-value chronology control for the Gospel-side line.
 
 ## Claim
-This verse contributes the "Spirit not yet given" timing control. It matters because the Paraclete reading must account for John's own Spirit chronology.
+This verse matters because it ties Spirit-giving to Jesus' future glorification. The Paraclete discussion therefore belongs to a deliberate Johannine chronology rather than to an undefined spiritual atmosphere.
 
 ## Reasoning
-The page therefore works as a control node: it constrains the linked cluster and keeps larger claims proportionate. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. The fuller identification question is therefore handled at cluster or convergence level rather than being forced onto this single page.
+John's narrator explains that the Spirit was not yet given because Jesus was not yet glorified. That explanatory comment matters because it establishes a hinge in the Gospel's own timeline. Later-guide language is not free-floating; it is anchored to a not-yet that becomes meaningful only after Jesus' glorification. This is why the verse works as a timing control rather than as an isolated slogan about the Spirit.
 
 ## Local Significance
-Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
+Locally, the verse gives the Gospel-side case a chronological backbone. It tells the reader that timing is not accidental to the way John's Spirit language works.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Paraclete](../../../../../arguments/paraclete/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
+This page strengthens [Paraclete](../../../../../arguments/paraclete/summary.md) by making the laterness of the Johannine promise textually explicit. It helps keep the cluster's timing argument disciplined and prevents later-guide language from being detached from John's own chronology.
 
-## Objection Note
-The main competing reading takes the passage as this points directly to the Holy Spirit rather than a later human messenger. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
+John 7:39 strengthens the thesis indirectly by giving the Gospel-side line a clear temporal hinge. The later-guide profile is more persuasive when its timing is shown to arise from the Gospel itself.
 
 ## Linked Pages
 - [Paraclete](../../../../../arguments/paraclete/summary.md)

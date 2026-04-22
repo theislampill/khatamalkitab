@@ -1,24 +1,15 @@
 # Acts 2:2
 
-`Status:` anchored. `Role:` Paraclete control anchor / Pentecost manifestation. `Contribution:` control; range-governed Pentecost event feature.
+`Status:` anchored.
 
 ## Claim
-This verse contributes the sudden wind-like manifestation that fills the house. It matters because Pentecost is presented as an overt divine event, not a merely conceptual continuation.
+This verse adds the sudden heavenly sound that fills the house. It matters because Pentecost is presented as a decisive interruption from above, not as an inward shift that could describe almost anything.
 
 ## Reasoning
-This page functions as a control anchor within the Pentecost range. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. Identification of the Prophet (peace be upon him) from this verse is not a verse-level claim.
-
-## Local Significance
-Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
+The sensory force of the event is part of why Acts 2 is such a serious rival reading. The sound fills the gathered place and makes the episode unmistakably evental. Later-guide readings therefore have to answer a concrete manifestation, not a vague Spirit theme.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Paraclete](../../../../../arguments/paraclete/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
-
-## Objection Note
-The main competing reading takes the passage as this verse belongs wholly to early Christian Spirit-empowerment fulfillment. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
-
-## Contribution Summary
-Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
+This strengthens [Paraclete](../../../../../arguments/paraclete/summary.md) by sharpening the Pentecost control into a public occurrence rather than a merely theological backdrop.
 
 ## Linked Pages
 - [Paraclete](../../../../../arguments/paraclete/summary.md)

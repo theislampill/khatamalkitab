@@ -1,24 +1,23 @@
 # John 16:8-11
 
-`Status:` anchored. `Role:` conviction triad / world-facing pressure. `Contribution:` direct sub-unit within the primary Paraclete range.
+`Status:` anchored. `Role:` world-facing conviction unit within the core Paraclete range. `Contribution:` direct public predicate for the Gospel-side profile.
 
 ## Claim
-This range contributes the conviction triad: the world is convicted concerning sin, righteousness, and judgment. It matters because the Paraclete sequence is publicly forensic and adversarial, not only inwardly consoling or mnemonic.
+This range matters because it gives the later-guide material a public and forensic shape. The guide's work is not only inward comfort or private reminder. It includes exposing the world concerning sin, righteousness, and judgment.
 
 ## Reasoning
-`v.8` announces conviction and `vv.9-11` specify the three predicates that define it. Split apart, the triad loses its local argumentative shape. At this level, the page secures a direct local predicate that later cluster and convergence pages can build upon without forcing the verse or range to carry the whole thesis alone.
+`v.8` announces conviction, and `vv.9-11` explain what that conviction means. Sin is tied to unbelief. Righteousness is tied to Jesus' vindication in going to the Father. Judgment is tied to the ruler of this world being judged. Read together, the range shows that the later guide interprets the meaning of Jesus publicly and morally. The figure under discussion confronts a world in error; he is not described as a merely private devotional aid.
 
 ## Local Significance
-Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
+Locally, this page gives the Johannine sequence its sharpest world-facing edge. The guide's role reaches beyond a circle of disciples. It presses outward into moral exposure, vindication, and judgment. That is why this small range carries more force than a generic description of spiritual consolation.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Paraclete](../../../../../arguments/paraclete/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
+This page strengthens [Paraclete](../../../../../arguments/paraclete/summary.md) by showing that the Gospel-side line is public, argumentative, and truth-exposing. It also matters to [Public Guidance Convergence](../../../../../convergences/public-guidance-convergence/summary.md) because it helps explain why the later-guide profile can widen toward public consequence rather than remaining inward and private.
 
-## Objection Note
-The main competing reading takes the passage as Jesus is describing the Holy Spirit's convicting work through the disciples and early church. That objection belongs here as a real boundary, but the page still contributes its direct local profile while the larger question is tested at higher levels.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis by securing a direct local predicate that later passages, clusters, and convergences can accumulate into a larger constructive case.
+John 16:8-11 strengthens the thesis by securing the public side of the later-guide profile. The Gospel line does not end in memory alone; it includes confrontation, vindication, and judgment in relation to the world.
 
 ## Linked Pages
 - [Paraclete](../../../../../arguments/paraclete/summary.md)
+- [Public Guidance Convergence](../../../../../convergences/public-guidance-convergence/summary.md)

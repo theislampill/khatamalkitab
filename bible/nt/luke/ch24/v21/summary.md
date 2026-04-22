@@ -1,24 +1,23 @@
 # Luke 24:21
 
-`Status:` anchored. `Role:` supporting passage anchor; identification remains cluster-level synthesis. `Contribution:` support; convergence is governed by linked cluster pages.
+`Status:` anchored. `Role:` post-crucifixion redemption-expectation anchor. `Contribution:` support for live restoration hope under disappointment.
 
 ## Claim
-This verse contributes redemption/restoration expectation around Jesus. It matters as expectation context rather than later-prophet proof.
+This verse matters because it shows that redemption hope is still being voiced after the crucifixion. The disciples speak as people whose expectation has been shaken, not erased. That makes the verse a strong witness to surviving restorative expectation.
 
 ## Reasoning
-The page therefore works as a supporting anchor inside its governing cluster. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. The fuller identification question is therefore handled at cluster or convergence level rather than being forced onto this single page.
+The local weight lies in the sentence's tension. "We had hoped" records disappointment, but it also reveals what the live expectation had actually been: redemption for Israel. That matters because it keeps restoration language visible inside the very moment when the disciples are forced to reconsider events. Hope is under strain here, but it is still the language by which they describe the question.
 
 ## Local Significance
-Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
+Locally, Luke 24:21 shows that the field was not composed only of abstract theological ideas. It included concrete hopes about Israel's redemption. That makes this verse an important bridge between expectation language and later restoration discussions such as [Acts 1:6](../../../../../bible/nt/acts/ch1/v6/summary.md).
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
+This page strengthens [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md) by showing that redemptive expectation remains present even in disappointed recollection. Together with [Luke 24:19](../../../../../bible/nt/luke/ch24/v19/summary.md) and [Acts 1:6](../../../../../bible/nt/acts/ch1/v6/summary.md), it helps the cluster show continuity between prophetic recognition and restoration hope.
 
-## Objection Note
-The main competing reading is Luke's Jesus-centered resolution. That sets the page's proper rank, but it does not erase the supporting constraint the passage still contributes to the larger network.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis by adding one more supporting constraint to the cumulative case and by helping the linked higher-order pages narrow or clarify the field.
+Luke 24:21 strengthens the thesis in support rank by preserving redemptive expectation at a point where the narrative could easily have flattened it into mere retrospect.
 
 ## Linked Pages
 - [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md)
+- [Acts 1:6](../../../../../bible/nt/acts/ch1/v6/summary.md)

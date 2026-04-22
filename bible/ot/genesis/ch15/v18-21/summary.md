@@ -1,24 +1,23 @@
 # Genesis 15:18-21
 
-`Status:` anchored. `Role:` supporting passage anchor; identification remains cluster-level synthesis. `Contribution:` support; convergence is governed by linked cluster pages.
+`Status:` anchored. `Role:` covenantal inheritance widening control. `Contribution:` support for a bounded public-order horizon.
 
 ## Claim
-This passage contributes covenantal land and people-boundary material to the broad kingdom-transfer frame. Its pressure is territorial and covenantal, not direct prophecy identification.
+This passage matters because it gives the widening line covenantal and territorial seriousness. The scene is not about vague future greatness. It is about bounded inheritance, named peoples, and public order under covenant.
 
 ## Reasoning
-The adjacent verses form one local argumentative unit; atomics remain available for verse-specific review. At this level, the page contributes a supporting constraint that becomes stronger when it is read inside the linked higher-order pages.
+God cuts covenant with Abram, names a land horizon, and lists the peoples within it. That means the passage speaks in terms of ordered inheritance rather than free-floating spiritual destiny. It does not identify a later prophet, but it does show that biblical culmination language often carries communal, territorial, and covenantal consequence. That is why the widening family needs this page as a boundary against abstract world-history rhetoric.
 
 ## Local Significance
-Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
+Locally, Genesis 15:18-21 gives the later widening pages something concrete to inherit: covenant, land, and peoples belong together. That makes the public-order line more serious and more bounded than a generic claim about eventual expansion.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
+This page strengthens [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md) by grounding that cluster in covenantal inheritance rather than in atmosphere alone. It also matters to [KHALAS](../../../../../KHALAS.md) indirectly because the final widening claim is stronger when public consequence remains tied to covenantal seriousness.
 
-## Objection Note
-The main competing reading takes the passage as it remains Abrahamic land-promise context without later Arabian application. That sets the page's proper rank, but it does not erase the supporting constraint the passage still contributes to the larger network.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis by adding one more supporting constraint to the cumulative case and by helping the linked higher-order pages narrow or clarify the field.
+Genesis 15:18-21 strengthens the thesis late and indirectly. It does not narrow the candidate field, but it keeps the widening line public, bounded, and covenant-conscious.
 
 ## Linked Pages
 - [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md)
+- [KHALAS](../../../../../KHALAS.md)

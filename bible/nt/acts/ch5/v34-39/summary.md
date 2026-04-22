@@ -1,24 +1,30 @@
 # Acts 5:34-39
 
-`Status:` anchored. `Role:` supporting passage anchor; identification remains cluster-level synthesis. `Contribution:` support; convergence is governed by linked cluster pages.
+`Status:` anchored. `Role:` supporting passage anchor for movement discernment. `Contribution:` support; strengthens the anti-closure field.
 
 ## Claim
-This passage contributes Gamaliel's caution about failed movements and divine validation. It matters as live-expectation and movement-discernment context, not direct prophecy.
+
+This passage contributes Gamaliel's principle of cautious movement-discernment. It is not direct prophecy. Its value lies in showing that the right response to a disputed religious claim is not always instant closure. The possibility that a work may prove to be from God remains part of the scene.
 
 ## Reasoning
-The adjacent verses form one local argumentative unit; atomics remain available for verse-specific review. At this level, the page contributes a supporting constraint that becomes stronger when it is read inside the linked higher-order pages.
+
+The range matters because it does more than offer a private opinion. It places restraint, patience, and the possibility of divine validation into a public discernment setting. That does not identify a later figure, but it does reinforce an important methodological point: not every contested movement should be dismissed before its character is tested. In the cumulative case, that pressure belongs naturally alongside expectation material rather than alongside direct proof texts.
+
+This is what makes the passage different from the other expectation pages. John 1, John 4, Luke 24, and Acts 1 preserve categories and hopes. Acts 5 contributes a rule for how those hopes and claims should be handled once a movement becomes contested in public life. It therefore adds methodological openness rather than another expectation category.
 
 ## Local Significance
-Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
+
+Read as a passage, Acts 5:34-39 gives a fuller unit than a single verse can provide. The force lies in the logic of waiting and testing. A movement may fail if it is merely human, but it may also prove resistant to suppression if it is from God. That is the exact feature later anti-closure pages inherit.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Objection Note
-The main competing reading takes the passage as it is prudential narrative, not prophecy. That sets the page's proper rank, but it does not erase the supporting constraint the passage still contributes to the larger network.
+This passage chiefly strengthens [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md) and, through that cluster, [Anti-Closure Convergence](../../../../../convergences/anti-closure-convergence/summary.md). It helps the cumulative case sound more disciplined because it supports openness to testing rather than premature dismissal.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis by adding one more supporting constraint to the cumulative case and by helping the linked higher-order pages narrow or clarify the field.
+
+Acts 5:34-39 strengthens the thesis indirectly by adding movement-discernment pressure to the anti-closure layer. It does not prove the conclusion, but it helps justify why the conclusion should not be ruled out in advance and why testing is more responsible than premature dismissal.
 
 ## Linked Pages
+
 - [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md)
+- [Anti-Closure Convergence](../../../../../convergences/anti-closure-convergence/summary.md)

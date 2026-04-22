@@ -1,24 +1,15 @@
 # Acts 2:3
 
-`Status:` anchored. `Role:` Paraclete control anchor / Pentecost sign imagery. `Contribution:` control; range-governed Pentecost event feature.
+`Status:` anchored.
 
 ## Claim
-This verse contributes the divided tongues-as-of-fire imagery resting on the disciples. It matters because the Pentecost control includes visible and corporate signs of Spirit bestowal.
+This verse introduces the visible sign of divided tongues as of fire resting on each disciple. It matters because the Pentecost rival is not only heard but also seen as a distributed communal empowerment.
 
 ## Reasoning
-This page functions as a control anchor within the Pentecost range. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. Identification of the Prophet (peace be upon him) from this verse is not a verse-level claim.
-
-## Local Significance
-Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
+The imagery keeps the event from being reduced to one person's inward experience. Pentecost is shared, visible, and concrete. That is why this verse helps make Acts 2 the sharpest internal Spirit-event control on later-guide readings.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Paraclete](../../../../../arguments/paraclete/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
-
-## Objection Note
-The main competing reading takes the passage as this verse belongs wholly to early Christian Spirit-empowerment fulfillment. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
-
-## Contribution Summary
-Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
+This supports [Paraclete](../../../../../arguments/paraclete/summary.md) by preserving the visible, communal side of the Pentecost event that the higher pages still have to reckon with.
 
 ## Linked Pages
 - [Paraclete](../../../../../arguments/paraclete/summary.md)

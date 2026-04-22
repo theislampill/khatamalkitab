@@ -12,13 +12,11 @@ This page functions as a control anchor for comparison, not as proof for the the
 Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Arabian Servant And Kedar](../../../../../arguments/arabian-servant-and-kedar/summary.md) and [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
+In the larger case, this page chiefly strengthens [Arabian Servant And Kedar](../../../../../arguments/arabian-servant-and-kedar/summary.md) and [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Objection Note
-The main competing reading takes the passage as "not of this world" describes source rather than public historical effect. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
+The page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
 
 ## Linked Pages
 - [Arabian Servant And Kedar](../../../../../arguments/arabian-servant-and-kedar/summary.md)

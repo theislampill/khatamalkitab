@@ -1,24 +1,23 @@
 # Acts 2:1-4
 
-`Status:` anchored. `Role:` Paraclete control anchor / Pentecost event. `Contribution:` control; primary Pentecost fulfillment test.
+`Status:` anchored. `Role:` Pentecost event control for Paraclete closure readings. `Contribution:` primary Spirit-event rival anchor.
 
 ## Claim
-This range contributes the core Pentecost event sequence: gathered disciples, wind-like manifestation, tongues-as-of-fire, Spirit-filling, and speech as the Spirit gives utterance. It matters as the clearest event-level control on the claim that John 14-16 was fulfilled by the Holy Spirit in the disciples and early community.
+This range matters because it supplies the clearest event-level rival to later-guide readings of John 14-16. Gathered disciples, manifest signs, Spirit-filling, and speech as the Spirit gives utterance form a concrete Pentecost sequence that any Johannine argument has to face directly.
 
 ## Reasoning
-The Pentecost control is not one detail but one event sequence. At this level, the page serves as a control that clarifies the limits the larger argument must respect.
+The control here is not one symbol taken alone. It is the event as a whole: waiting disciples, the sound like wind, tongues as of fire, Spirit-filling, and empowered speech. That concreteness is exactly why the page matters. It supplies the strongest internal closure reading for the Paraclete material. At the same time, the event itself does not automatically reproduce every Johannine predicate of teaching, witness, received speech, truth-guidance, and future disclosure. That is why the page functions as a serious control rather than as an automatic collapse of the later-guide line.
 
 ## Local Significance
-Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
+Locally, Acts 2:1-4 is the New Testament's sharpest Spirit-event anchor. It makes the rival reading concrete instead of diffuse. That strengthens the larger case because it forces the repo to answer a real event sequence rather than a vague theological shortcut.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Paraclete](../../../../../arguments/paraclete/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
+This page strengthens [Paraclete](../../../../../arguments/paraclete/summary.md) by clarifying the strongest internal rival that cluster must outlast. It also supports [Paraclete And Subordination](../../../../../arguments/paraclete-and-subordination/summary.md) indirectly, since the Gospel-side case becomes more persuasive when Pentecost is treated as a real control rather than brushed aside.
 
-## Objection Note
-The main competing reading takes the passage as Pentecost is a real Spirit fulfillment event without necessarily exhausting every feature of the Johannine Paraclete sequence. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
+Acts 2:1-4 strengthens the thesis indirectly but materially. It does so by making the main rival reading concrete and therefore forcing the Gospel-side argument to become more precise.
 
 ## Linked Pages
 - [Paraclete](../../../../../arguments/paraclete/summary.md)
+- [Paraclete And Subordination](../../../../../arguments/paraclete-and-subordination/summary.md)

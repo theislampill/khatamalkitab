@@ -1,24 +1,28 @@
 # John 15:26
 
-`Status:` anchored. `Role:` Paraclete passage anchor or control, governed by range context. `Contribution:` high as a linked-cluster anchor; convergence is not assigned to this verse alone.
+`Status:` anchored. `Role:` supporting verse anchor inside the Paraclete sequence. `Contribution:` support; sharpens witness-to-Jesus inside the later-guide profile.
 
 ## Claim
-This verse contributes Paraclete witness from the Father concerning Jesus. It matters because witness-to-Jesus is central to the Gospel-side profile.
+
+This verse matters because it places witness to Jesus at the center of the Paraclete sequence. Whatever larger identification question is asked later, the verse makes one thing clear locally: the later figure's role is not detached from Jesus but bound to bearing witness about him.
 
 ## Reasoning
-The page therefore works as a control node: it constrains the linked cluster and keeps larger claims proportionate. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. The fuller identification question is therefore handled at cluster or convergence level rather than being forced onto this single page.
+
+That point is more important than it first appears. The later-guide profile in John is not simply about help, comfort, or inward inspiration. It is also about relation. The later figure is defined in part by how he stands with respect to Jesus. John 15:26 is one of the key local places where that relational feature is made explicit. That is why the verse is reusable in higher pages even though it does not, by itself, settle the whole identification question.
 
 ## Local Significance
-Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
+
+At local level, the verse adds a decisive narrowing trait inside the Johannine material. A later guide who does not bear witness to Jesus would not satisfy the local profile the passage is building.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Paraclete](../../../../../arguments/paraclete/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Objection Note
-The main competing reading is Holy Spirit witness in the Christian community. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
+In the larger case, this verse chiefly strengthens [Paraclete](../../../../../arguments/paraclete/summary.md) and, through that cluster, [Primary Profile Convergence](../../../../../convergences/primary-profile-convergence/summary.md). It helps ensure that the Gospel-side direct line is not treated as a free-floating guidance claim.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
+
+John 15:26 strengthens the thesis by sharpening the witness-to-Jesus feature inside the later-guide profile. It helps the larger case explain not only that a later guide is in view, but also how that guide must relate to Jesus.
 
 ## Linked Pages
+
 - [Paraclete](../../../../../arguments/paraclete/summary.md)
+- [Primary Profile Convergence](../../../../../convergences/primary-profile-convergence/summary.md)

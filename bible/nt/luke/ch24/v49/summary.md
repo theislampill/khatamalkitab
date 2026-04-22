@@ -1,24 +1,22 @@
 # Luke 24:49
 
-`Status:` anchored. `Role:` Paraclete passage anchor or control, governed by range context. `Contribution:` high as a linked-cluster anchor; convergence is not assigned to this verse alone.
+`Status:` anchored. `Role:` waiting-for-power transition control. `Contribution:` Spirit-event and late-expectation support.
 
 ## Claim
-This verse contributes the promised power-from-on-high control. It matters as a Spirit/Pentecost boundary for Paraclete readings.
+This verse matters because it keeps the disciples waiting for power that is still ahead even after the resurrection. It therefore supports the Spirit-event horizon behind Pentecost while also showing that forward-looking expectation remains active very late in the narrative.
 
 ## Reasoning
-The page therefore works as a control node: it constrains the linked cluster and keeps larger claims proportionate. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. The fuller identification question is therefore handled at cluster or convergence level rather than being forced onto this single page.
+Jesus tells the disciples to remain until they are clothed with power from on high. That instruction matters because it preserves a real not-yet. The scene is not only retrospective celebration; it still points forward. This makes the verse useful in two directions at once: it supports the strongest event-level closure reading for Spirit fulfillment, and it also reinforces the broader point that expectation does not vanish as soon as Jesus rises.
 
 ## Local Significance
-Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
+Locally, Luke 24:49 is a transition verse with real argumentative value. It is one of the clearest places where resurrection and remaining expectation stand together.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md) and [Paraclete](../../../../../arguments/paraclete/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
+This page strengthens [Paraclete](../../../../../arguments/paraclete/summary.md) by sharpening the Spirit-event boundary that later-guide readings must face. It also supports [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md), because the verse preserves a forward-looking horizon even after the resurrection.
 
-## Objection Note
-The main competing reading is fulfillment in early Christian Spirit empowerment. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
+Luke 24:49 strengthens the thesis indirectly but usefully. It keeps expectation and control together, which is exactly what the larger case needs at this stage.
 
 ## Linked Pages
 - [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md)

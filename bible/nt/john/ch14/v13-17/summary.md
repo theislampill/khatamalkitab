@@ -1,24 +1,27 @@
 # John 14:13-17
 
-`Status:` anchored. `Role:` context/control; not direct identification by itself. `Contribution:` control; tests or constrains linked clusters.
+`Status:` anchored. `Role:` context and control; not direct identification by itself. `Contribution:` control; sets the strongest local boundary for later-guide readings.
 
 ## Claim
-This passage introduces "another" helper and Spirit-of-truth language. It matters as the opening Paraclete promise, but also as the strongest Spirit-reading anchor.
+
+This passage introduces "another" helper and Spirit-of-truth language. It matters as the opening Paraclete promise, but it also matters as the strongest Spirit-reading anchor. Any larger argument about the later-guide material has to begin here because this is where consolation, obedience, gift, and indwelling language sit closest together.
 
 ## Reasoning
-The adjacent verses form one local argumentative unit; atomics remain available for verse-specific review. At this level, the page serves as a control that clarifies the limits the larger argument must respect.
+
+Taken as a range, the passage does more than mention a future helper. It ties that promise to love for Jesus, obedience to command, the Father's giving, and the world's inability to receive what is being promised. Read locally, the passage therefore presses strongly toward an intimate and community-facing reading. That is why it functions as a control page as much as a positive anchor. The larger Paraclete argument must explain why John can sound so immediate and inward here before it tries to widen the profile through later passages.
+
+This is the overclaim the page prevents: treating the opening Paraclete promise as though it were already a self-sufficient later-prophet proof. That temptation is understandable because the promise is striking and future-oriented. But the local setting also pushes hard in the other direction, toward consolation, indwelling, and immediate discipleship. The control is valuable because it forces the larger argument to begin with the strongest local Spirit reading rather than sneaking past it.
 
 ## Local Significance
-Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
+
+Read as a passage, this range has more force than its atom pages read separately because the promise is framed by a whole pastoral movement. Jesus is preparing the disciples for absence, linking obedience to love, and presenting divine help as a real continuation of care. That movement matters because it defines the first and strongest local rival to any later-guide reading. The promise cannot be treated as though it were detached from the disciples' immediate need and from Johannine Spirit language.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Paraclete](../../../../../arguments/paraclete/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Objection Note
-The main competing reading is the Holy Spirit abiding with or in the disciples. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
+This page chiefly strengthens [Paraclete](../../../../../arguments/paraclete/summary.md) by setting the boundary that later synthesis must respect. It also supports [Paraclete And Subordination](../../../../../arguments/paraclete-and-subordination/summary.md), because the passage shows that the Gospel-side case begins inside John's own discourse of obedience, gift, and dependence. The contribution is therefore double: it preserves the opening promise that makes the later-guide line possible, and it defines the local constraint that keeps the cluster from becoming careless.
+
+That is why this control strengthens rather than weakens the case. A Gospel-side argument that cannot survive John 14:13-17 will never become persuasive. A Gospel-side argument that begins here and still retains force will sound much more serious when it later widens through John 14:26 and John 16.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
 
-## Linked Pages
-- [Paraclete](../../../../../arguments/paraclete/summary.md)
+John 14:13-17 strengthens the thesis indirectly but importantly by supplying the opening Paraclete anchor and by forcing the larger case to stay honest about the strongest Spirit-centered reading of that anchor.

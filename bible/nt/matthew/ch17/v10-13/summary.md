@@ -1,25 +1,25 @@
 # Matthew 17:10-13
 
-`Status:` anchored. `Role:` Christian-alternative control and expectation support. `Contribution:` control; tests or constrains linked clusters.
+`Status:` anchored. `Role:` Christian-alternative control and expectation support. `Contribution:` control; one of the sharpest inner-canonical closure pages in the sequence family.
 
 ## Claim
-This passage contributes the Elijah-must-come question and the disciples' John-the-Baptist interpretation. It matters as a direct control on Malachi/Elijah expectation.
+
+This passage contributes the Elijah-must-come question and the disciples' John-the-Baptist interpretation. It matters as a direct control on Malachi and Elijah expectation because it stages the closure question explicitly instead of leaving it implicit.
 
 ## Reasoning
-The adjacent verses form one local argumentative unit; atomics remain available for verse-specific review. At this level, the page serves as a control that clarifies the limits the larger argument must respect.
+
+Taken as a range, the passage shows the disciples raising the expectation problem directly and receiving an answer that links restoration language to John. That makes this one of the clearest inner-canonical closure texts in the whole messenger sequence family. It therefore defines the real limit the wider repo must respect when it discusses preparatory themes. At the same time, the very presence of the question shows that Elijah expectation remained active enough to require explicit handling.
+
+That combination is exactly why the page matters to the anti-closure layer. The convergence does not survive by denying closure texts like this one. It survives by showing that even the closure texts witness to a field whose categories and sequence logic are still being argued over in explicit terms.
 
 ## Local Significance
-Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
+
+Read as a passage, this range has more force than its atom pages read separately because the question, the answer, and the disciples' conclusion all belong to one interpretive act. The local significance lies in that act of closure. This is not merely an allusion. It is a narrated resolution from within the Gospel itself.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Messenger Before Arrival](../../../../../arguments/messenger-before-arrival/summary.md) and [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Objection Note
-The main competing reading takes the passage as the expected Elijah role is fulfilled in John. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
+This page chiefly strengthens [Messenger Before Arrival](../../../../../arguments/messenger-before-arrival/summary.md) by setting one of its sharpest controls. It also feeds [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md), because the passage demonstrates that expectation categories were still being interpreted in active dispute rather than functioning as inert labels.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
 
-## Linked Pages
-- [Messenger Before Arrival](../../../../../arguments/messenger-before-arrival/summary.md)
-- [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md)
+Matthew 17:10-13 strengthens the thesis indirectly by supplying one of the strongest closure boundaries the anti-closure layer must answer. That makes the wider sequence argument more disciplined and more credible, because it cannot hide from the sharpest inner-canonical resolution scene.

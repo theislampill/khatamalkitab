@@ -1,24 +1,22 @@
 # Haggai 2:6-9
 
-`Status:` anchored. `Role:` supporting passage anchor; identification remains cluster-level synthesis. `Contribution:` support; convergence is governed by linked cluster pages.
+`Status:` anchored. `Role:` sanctuary-culmination widening support. `Contribution:` bounded temple-glory-and-peace support in the late widening layer.
 
 ## Claim
-This passage contributes shaking, desire/treasure/glory, and temple-peace motifs. It matters as lexical or sanctuary resonance only, not direct prophecy.
+This passage matters because it presents a sanctuary-culmination sequence: nations are shaken, glory fills the house, and peace is promised there. Its force is broader than one disputed lexical detail. It belongs to the widening line as late temple-and-order support.
 
 ## Reasoning
-The adjacent verses form one local argumentative unit; atomics remain available for verse-specific review. At this level, the page contributes a supporting constraint that becomes stronger when it is read inside the linked higher-order pages.
+The passage moves from cosmic shaking to movement among the nations, then to the enrichment and glorification of the house, and finally to promised peace. Read as a whole, it describes reordered public worship rather than a stray lexical coincidence. That is why the page can support the later widening case without being asked to function as direct identification.
 
 ## Local Significance
-Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
+Locally, Haggai 2:6-9 protects this lane from becoming wordplay. The range is about culmination, sanctified public order, and the house's future honor. Those features are what make the page useful.
 
 ## Networked Significance
-Within the wider repository, this page chiefly strengthens [Mahmad And Praised One](../../../../../arguments/mahmad-and-praised-one/summary.md) and [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
+This page strengthens [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md) by giving the widening family a temple-and-peace horizon rather than only transfer language. It also supports [Mahmad And Praised One](../../../../../arguments/mahmad-and-praised-one/summary.md) secondarily, but the lexical lane remains subordinate to the larger sanctuary sequence.
 
-## Objection Note
-The main competing reading is Second Temple glory or nations' treasures. That sets the page's proper rank, but it does not erase the supporting constraint the passage still contributes to the larger network.
 
 ## Contribution Summary
-Used this way, the page strengthens the thesis by adding one more supporting constraint to the cumulative case and by helping the linked higher-order pages narrow or clarify the field.
+Haggai 2:6-9 strengthens the thesis as bounded widening support. It does not name the later figure, but it helps the cumulative case describe public culmination and sanctified order more concretely.
 
 ## Linked Pages
 - [Mahmad And Praised One](../../../../../arguments/mahmad-and-praised-one/summary.md)
