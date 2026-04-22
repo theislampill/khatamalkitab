@@ -3,7 +3,7 @@
 ## Thesis
 This repository is organized to present, test, and develop the cumulative case that the Prophet (peace be upon him) fulfills the biblical prophetic expectation. Its public-facing pages are meant to help a reader move from local passage force, to coherent passage groups, to higher-order clusters, to true convergence, and finally to cumulative judgment.
 
-The project therefore does not ask one verse to carry the entire thesis. It builds a ranked case in which direct profile, candidate-field narrowing, convergence, and cumulative synthesis each do their own kind of work.
+The project therefore does not ask one verse to carry the entire thesis. It builds a ranked case in which direct profile, candidate-field narrowing, convergence, and cumulative synthesis each do their own kind of work, and in which `KHALAS.md` serves as the capstone public essay that gathers those layers into one continuous argument.
 
 ## Governing Epistemic Method
 The repository follows a disciplined but constructive method:
@@ -149,6 +149,6 @@ The strongest current cluster families include:
 
 ## Governance Files
 - `METHOD.md` explains the research method used for promotion, clustering, convergence, and cumulative synthesis.
-- `KHALAS.md` records the ranked cumulative case and final thesis judgment.
+- `KHALAS.md` presents the integrative cumulative case and final thesis judgment.
 - `SORTING_AUDIT.md` records how the working corpus was sorted.
 - `BIBLE_ARGUMENT_INDEX.md` routes passage pages, cluster pages, and convergence pages.
