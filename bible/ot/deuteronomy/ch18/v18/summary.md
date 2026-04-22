@@ -4,9 +4,9 @@
 Atomic passage page
 
 ## Passage-Specific Contribution
-- This passage supplies the core prophet-like-Moses profile: a prophet raised by God, received divine speech, and accountability for rejecting the message.
-- The argumentative pressure is strongest in the promise unit, especially the likeness-to-Moses and words-in-the-mouth features.
-- It matters because the repository tests whether this profile can remain open beyond Israelite succession and beyond the Acts 3 Jesus reading.
+- This verse supplies the core promise profile: a prophet raised by God, like Moses, with divine words put in his mouth.
+- The argumentative pressure is strongest in the likeness-to-Moses and words-in-the-mouth features.
+- It matters because it is the shortest reusable direct statement of the mediated-speech profile later tested at cluster level.
 
 ## Epistemic Classification
 - Status: anchored

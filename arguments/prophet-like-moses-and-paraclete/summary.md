@@ -6,8 +6,10 @@
 ## Why These Passages Belong Together
 [Deuteronomy 18:18](../../bible/ot/deuteronomy/ch18/v18/summary.md) says the prophet speaks words given by God. [John 16:13](../../bible/nt/john/ch16/v13/summary.md) says the guide does not speak from himself but speaks what he hears and discloses what is to come. The shared pressure is mediated speech under divine authorization.
 
+The explanatory value is not merely verbal overlap. If both parent clusters remain live after their own controls are applied, Deuteronomy clarifies the prophetic structure of non-self-originating speech, while John clarifies how a later figure could function after Jesus. That is why this page tests coherence between the parent clusters rather than supplying a third proof.
+
 ## Shared And Non-Shared Predicates
-Shared predicates: received speech, guidance, accountability to divine message, and a mission that comes after a prior revelation context. Non-shared predicates: Deuteronomy 18 is framed in Torah and Israel's prophetic office, while John 16 is framed in Jesus' farewell discourse and Paraclete language. The synthesis is strongest when it respects both settings instead of flattening them.
+Shared predicates: received or non-self-originated speech under divine authorization. Non-shared predicates: Deuteronomy 18 adds Moses-likeness and covenantal accountability, while John 16 adds departure-conditioned coming, witness to Jesus, and future disclosure. The synthesis is strongest when it remains a narrow speech-profile bridge rather than building a third composite figure out of everything in both parent clusters.
 
 ## Anchored Passages And Parent Clusters
 - [Deuteronomy 18:18](../../bible/ot/deuteronomy/ch18/v18/summary.md)

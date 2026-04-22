@@ -8,12 +8,13 @@ The project conclusion is cumulative: individual verses are not forced to carry 
 ## Governing Epistemic Method
 The repository follows the daee-epistemics protocol for public-facing claims:
 
-- mark source status: `[anchored]`, `[synthesis]`, `[inference]`, or `[speculative]`
+- mark source status: `[anchored]`, `[synthesis]`, `[inference]`, `[speculative]`, or `[control]`
 - distinguish evidence, interpretation, synthesis, and rhetorical framing
 - prefer multi-passage convergence over isolated proof texts
 - keep alternate readings visible
 - downgrade weak or lexical claims instead of inflating them
 - record failure modes where an argument can be overused
+- distinguish direct anchors, support, controls, dependent syntheses, and corroborative material
 
 ## Bible Spine
 The base structure follows the canon/book/chapter/verse spine:
@@ -44,6 +45,7 @@ Each atomic page should include:
 - what is being argued
 - epistemic classification
 - anchored findings
+- control role where applicable
 - synthesis role
 - inference boundary
 - alternate readings
@@ -63,6 +65,7 @@ Each argument page should include:
 - central thesis
 - anchored passages
 - supporting passages
+- control passages where applicable
 - dependency graph
 - competing interpretations
 - inference boundary
@@ -78,11 +81,11 @@ Each argument page should include:
 - Do not treat prior page existence as proof that the route is valid.
 
 ## Working-Material Rule
-The files under `input/` are local working material only. They are used for classification, synthesis, and routing, but they are not repository deliverables.
+The files under `input/md/` are local working material only. They are used for classification, synthesis, and routing, but they are not repository deliverables.
 
 That means:
 
-- do not quote-dump `input/*.md` into the repo
+- do not quote-dump `input/md/*.md` into the repo
 - do not build public-facing citation apparatus from those files
 - do not treat those files as canonical sources inside the repo
 - do not move those files into the Bible spine
@@ -109,7 +112,7 @@ The full corpus sweep currently supports these promoted families:
 
 ## Governance Files
 - `METHOD.md` explains the research method used for promotion, convergence, and probability language.
-- `KHALAS.md` records the current findings ledger and cumulative synthesis.
+- `KHALAS.md` records the current findings ledger and ranked cumulative argument.
 - `SORTING_AUDIT.md` records how the working corpus was sorted.
 - `BIBLE_ARGUMENT_INDEX.md` routes passage pages and argument pages.
 

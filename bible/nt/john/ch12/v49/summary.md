@@ -5,7 +5,7 @@ Atomic passage page
 
 ## Passage-Specific Contribution
 - This verse contributes received-command and received-speech language in Jesus' own mission.
-- It matters as a mediated-speech control for Johannine agency.
+- It matters as an internal Johannine precedent for mediated speech before any comparison is made to Deuteronomy 18 or the Paraclete.
 - The strongest alternative is that this belongs to Jesus' divine mission within Christian theology.
 
 ## Epistemic Classification
@@ -22,6 +22,7 @@ Atomic passage page
 - The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
 
 ## Dependency Links
+- [arguments/paraclete/summary.md](../../../../../arguments/paraclete/summary.md)
 - [arguments/paraclete-and-subordination/summary.md](../../../../../arguments/paraclete-and-subordination/summary.md)
 
 ## Failure Modes

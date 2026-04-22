@@ -5,7 +5,7 @@ Local combined passage page
 
 ## Passage-Specific Contribution
 - This passage applies Deuteronomy 18 in Peter's speech and therefore preserves the strongest Christian counter-reading.
-- It matters as both evidence that Deuteronomy 18 was live and a control against Muslim overclaiming.
+- It matters as both evidence that Deuteronomy 18 was live and a control against Muslim overclaiming, especially when read with Acts 3:21's future-restoration frame.
 - The strongest alternative is direct fulfillment in Jesus.
 
 ## Why This Range Matters
@@ -25,6 +25,7 @@ Local combined passage page
 - The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
 
 ## Dependency Links
+- [bible/nt/acts/ch3/v21/summary.md](../../../../../bible/nt/acts/ch3/v21/summary.md)
 - [arguments/prophet-like-moses/summary.md](../../../../../arguments/prophet-like-moses/summary.md)
 
 ## Failure Modes

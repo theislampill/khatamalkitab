@@ -4,20 +4,20 @@
 Local combined passage page
 
 ## Passage-Specific Contribution
-- This passage supplies the core prophet-like-Moses profile: a prophet raised by God, received divine speech, and accountability for rejecting the message.
-- The argumentative pressure is strongest in the promise unit, especially the likeness-to-Moses and words-in-the-mouth features.
+- This passage supplies the core prophet-like-Moses profile: a prophet raised by God, words placed in the prophet's mouth, and accountability for rejecting that message.
+- The argumentative pressure is strongest in the full sequence: `vv.15-19` give the promise, `vv.16-17` ground it in Horeb's demand for mediated revelation, and `vv.20-22` police the office against presumption.
 - It matters because the repository tests whether this profile can remain open beyond Israelite succession and beyond the Acts 3 Jesus reading.
 
 ## Why This Range Matters
-- The range matters because the promise unit and the false-prophet test belong together: profile and criterion must not be separated.
+- The range matters because the promise unit, Horeb background, and false-prophet test belong together: mediated office and criterion must not be separated.
 
 ## Epistemic Classification
 - Status: anchored
-- Passage contribution: control; tests or constrains linked clusters
-- Role: criterion / prophetic-test context
+- Passage contribution: direct anchor with embedded criterion/control context
+- Role: primary prophet-like-Moses range; promise plus test frame
 
 ## Argumentative Use
-- Use this range to hold the promise and the test together: the prophet-like-Moses profile cannot be separated from true/false prophecy criteria.
+- Use this range as the primary combined Deuteronomy 18 anchor: the prophet-like-Moses profile and the prophetic-test frame belong together.
 - The range feeds [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md) by giving both the positive expectation and the safeguards against presumption.
 - Identification of the Prophet ﷺ from this passage remains cluster-level synthesis, not a bare range-level conclusion.
 

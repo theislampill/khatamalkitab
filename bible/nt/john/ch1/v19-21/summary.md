@@ -5,7 +5,7 @@ Local combined passage page
 
 ## Passage-Specific Contribution
 - This passage distinguishes Messiah, Elijah, and "the Prophet" in an interrogation scene.
-- It matters because it keeps expected-prophet categories visible in first-century discourse.
+- It matters because it keeps expected-prophet categories visible in first-century discourse and resists collapsing them into one undifferentiated expectation.
 - The strongest alternative is that the scene is fully resolved inside John's witness to Jesus.
 
 ## Why This Range Matters
@@ -17,7 +17,7 @@ Local combined passage page
 - Role: context/control for expected-prophet categories
 
 ## Argumentative Use
-- This page functions according to the role above; when used as a control, it constrains the linked cluster rather than proving it.
+- Use this page to show that Messiah, Elijah, and "the Prophet" can still function as differentiated categories within the Gospel's own horizon.
 - It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
 - Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
 

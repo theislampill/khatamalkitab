@@ -9,7 +9,7 @@ Local combined passage page
 - It matters because the repository tests whether this profile can remain open beyond Israelite succession and beyond the Acts 3 Jesus reading.
 
 ## Why This Range Matters
-- The range matters because the promise unit and the false-prophet test belong together: profile and criterion must not be separated.
+- The range matters because the promise and the accountability-for-response language belong together.
 
 ## Epistemic Classification
 - Status: anchored

@@ -4,22 +4,22 @@
 Atomic passage page
 
 ## Passage-Specific Contribution
-- This passage supplies the core prophet-like-Moses profile: a prophet raised by God, received divine speech, and accountability for rejecting the message.
-- The argumentative pressure is strongest in the promise unit, especially the likeness-to-Moses and words-in-the-mouth features.
-- It matters because the repository tests whether this profile can remain open beyond Israelite succession and beyond the Acts 3 Jesus reading.
+- This verse records God's approval of the Horeb request: “They are right in what they have spoken.”
+- Its argumentative pressure is divine ratification of mediated revelation. The later prophet promise is not merely tolerated; it answers a request God endorses.
+- It matters because it strengthens the logic behind the Moses-like office without independently identifying the candidate.
 
 ## Epistemic Classification
 - Status: anchored
-- Passage contribution: high as a linked-cluster anchor; convergence is not assigned to this verse alone
-- Role: direct passage anchor, governed by Deuteronomy 18 range
+- Passage contribution: support within the primary direct range
+- Role: divine ratification of Horeb mediation
 
 ## Argumentative Use
-- This page functions as direct anchor, governed by its cluster.
+- Use this verse to show that the prophet promise answers a divinely affirmed need for mediation.
 - It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
 - Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
 
 ## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+- The strongest local alternative is that this verse is only a narrative bridge between Sinai/Horeb memory and ordinary Israelite prophecy, not a meaningful part of an open later-prophet horizon.
 
 ## Dependency Links
 - [arguments/prophet-like-moses/summary.md](../../../../../arguments/prophet-like-moses/summary.md)

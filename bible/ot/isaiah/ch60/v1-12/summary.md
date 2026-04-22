@@ -4,12 +4,12 @@
 Local combined passage page
 
 ## Passage-Specific Contribution
-- This passage contributes light, gathering, wealth, and Zion/restoration imagery to kingdom and pilgrimage support.
-- It matters as broad motif support, not direct prophecy.
+- This passage contributes the broader Zion-restoration frame of light, gathering, tribute, and restored prominence.
+- It matters as broad motif support, not direct prophecy, and it must be distinguished from the narrower Arabian/Kedar overlap concentrated in `vv.6-7`.
 - The strongest alternative is that the passage is Zion-restoration language rather than Arabian fulfillment.
 
 ## Why This Range Matters
-- The range matters because the adjacent verses form one local argumentative unit; atomics remain available for verse-specific review.
+- The range matters because the chapter-level restoration scene provides the context within which `vv.6-7` must be kept secondary rather than allowed to govern the whole argument.
 
 ## Epistemic Classification
 - Status: anchored

@@ -4,9 +4,9 @@
 Atomic passage page
 
 ## Passage-Specific Contribution
-- This passage contributes departure, advantage, conviction, guidance into truth, future disclosure, and received speech.
-- It matters as the densest Paraclete range and the strongest bridge to Deuteronomy 18.
-- The strongest alternative is that Jesus is describing the Holy Spirit's post-resurrection/Pentecost work.
+- This verse contributes deferred disclosure: Jesus has more to say, but the disciples cannot yet bear it.
+- It matters because the Paraclete sequence includes a later stage of guidance rather than mere repetition of what has already been said.
+- The strongest alternative is that Jesus is describing the Holy Spirit's later explanation of Jesus' own teaching within the early church.
 
 ## Epistemic Classification
 - Status: anchored

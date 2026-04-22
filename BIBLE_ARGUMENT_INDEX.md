@@ -13,6 +13,12 @@ This routing index links promoted Bible-spine nodes and cross-passage argument c
 | nt | 1 John | 4 | 5 | atomic | Paraclete control anchor / Spirit-Pentecost test | [bible/nt/1-john/ch4/v5/summary.md](bible/nt/1-john/ch4/v5/summary.md) |
 | nt | 1 John | 4 | 6 | atomic | Paraclete control anchor / Spirit-Pentecost test | [bible/nt/1-john/ch4/v6/summary.md](bible/nt/1-john/ch4/v6/summary.md) |
 | nt | Acts | 1 | 6 | atomic | expectation context / movement-discernment control | [bible/nt/acts/ch1/v6/summary.md](bible/nt/acts/ch1/v6/summary.md) |
+| nt | Acts | 2 | 1 | atomic | Paraclete control anchor / Pentecost setting | [bible/nt/acts/ch2/v1/summary.md](bible/nt/acts/ch2/v1/summary.md) |
+| nt | Acts | 2 | 1-4 | combined | Paraclete control anchor / Pentecost event | [bible/nt/acts/ch2/v1-4/summary.md](bible/nt/acts/ch2/v1-4/summary.md) |
+| nt | Acts | 2 | 2 | atomic | Paraclete control anchor / Pentecost manifestation | [bible/nt/acts/ch2/v2/summary.md](bible/nt/acts/ch2/v2/summary.md) |
+| nt | Acts | 2 | 3 | atomic | Paraclete control anchor / Pentecost sign imagery | [bible/nt/acts/ch2/v3/summary.md](bible/nt/acts/ch2/v3/summary.md) |
+| nt | Acts | 2 | 4 | atomic | Paraclete control anchor / Spirit-speaking event | [bible/nt/acts/ch2/v4/summary.md](bible/nt/acts/ch2/v4/summary.md) |
+| nt | Acts | 3 | 21 | atomic | Christian Deuteronomy 18 control / future-restoration frame | [bible/nt/acts/ch3/v21/summary.md](bible/nt/acts/ch3/v21/summary.md) |
 | nt | Acts | 21 | 20 | atomic | law-continuity control / not prophecy evidence | [bible/nt/acts/ch21/v20/summary.md](bible/nt/acts/ch21/v20/summary.md) |
 | nt | Acts | 21 | 20-26 | combined | law-continuity control / not prophecy evidence | [bible/nt/acts/ch21/v20-26/summary.md](bible/nt/acts/ch21/v20-26/summary.md) |
 | nt | Acts | 21 | 21 | atomic | law-continuity control / not prophecy evidence | [bible/nt/acts/ch21/v21/summary.md](bible/nt/acts/ch21/v21/summary.md) |
@@ -36,7 +42,7 @@ This routing index links promoted Bible-spine nodes and cross-passage argument c
 | nt | John | 1 | 19-21 | combined | expectation context / not fulfillment proof | [bible/nt/john/ch1/v19-21/summary.md](bible/nt/john/ch1/v19-21/summary.md) |
 | nt | John | 1 | 20 | atomic | expectation context / not fulfillment proof | [bible/nt/john/ch1/v20/summary.md](bible/nt/john/ch1/v20/summary.md) |
 | nt | John | 1 | 21 | atomic | expectation context / not fulfillment proof | [bible/nt/john/ch1/v21/summary.md](bible/nt/john/ch1/v21/summary.md) |
-| nt | John | 12 | 49 | atomic | Christology/subordination control / not direct prophecy | [bible/nt/john/ch12/v49/summary.md](bible/nt/john/ch12/v49/summary.md) |
+| nt | John | 12 | 49 | atomic | Johannine speech-profile control / Paraclete and subordination | [bible/nt/john/ch12/v49/summary.md](bible/nt/john/ch12/v49/summary.md) |
 | nt | John | 14 | 13 | atomic | support/control node / see linked cluster | [bible/nt/john/ch14/v13/summary.md](bible/nt/john/ch14/v13/summary.md) |
 | nt | John | 14 | 13-17 | combined | primary Gospel direct anchor / Spirit-reading controlled | [bible/nt/john/ch14/v13-17/summary.md](bible/nt/john/ch14/v13-17/summary.md) |
 | nt | John | 14 | 14 | atomic | support/control node / see linked cluster | [bible/nt/john/ch14/v14/summary.md](bible/nt/john/ch14/v14/summary.md) |
@@ -61,9 +67,11 @@ This routing index links promoted Bible-spine nodes and cross-passage argument c
 | nt | John | 16 | 7 | atomic | primary Gospel direct anchor / Spirit-reading controlled | [bible/nt/john/ch16/v7/summary.md](bible/nt/john/ch16/v7/summary.md) |
 | nt | John | 16 | 7-13 | combined | primary Gospel direct anchor / Spirit-reading controlled | [bible/nt/john/ch16/v7-13/summary.md](bible/nt/john/ch16/v7-13/summary.md) |
 | nt | John | 16 | 8 | atomic | primary Gospel direct anchor / Spirit-reading controlled | [bible/nt/john/ch16/v8/summary.md](bible/nt/john/ch16/v8/summary.md) |
+| nt | John | 16 | 8-11 | combined | primary Gospel direct sub-unit / conviction-triad pressure | [bible/nt/john/ch16/v8-11/summary.md](bible/nt/john/ch16/v8-11/summary.md) |
 | nt | John | 16 | 9 | atomic | primary Gospel direct anchor / Spirit-reading controlled | [bible/nt/john/ch16/v9/summary.md](bible/nt/john/ch16/v9/summary.md) |
 | nt | John | 17 | 3 | atomic | Christology/subordination control / not direct prophecy | [bible/nt/john/ch17/v3/summary.md](bible/nt/john/ch17/v3/summary.md) |
 | nt | John | 17 | 5 | atomic | Christology/subordination control / not direct prophecy | [bible/nt/john/ch17/v5/summary.md](bible/nt/john/ch17/v5/summary.md) |
+| nt | John | 18 | 36 | atomic | Isaiah 42 comparison control / kingdom-scope calibration | [bible/nt/john/ch18/v36/summary.md](bible/nt/john/ch18/v36/summary.md) |
 | nt | John | 20 | 17 | atomic | Christology/subordination control / not direct prophecy | [bible/nt/john/ch20/v17/summary.md](bible/nt/john/ch20/v17/summary.md) |
 | nt | John | 20 | 22 | atomic | Paraclete control anchor / Spirit-Pentecost test | [bible/nt/john/ch20/v22/summary.md](bible/nt/john/ch20/v22/summary.md) |
 | nt | John | 4 | 19 | atomic | expectation context / not fulfillment proof | [bible/nt/john/ch4/v19/summary.md](bible/nt/john/ch4/v19/summary.md) |
@@ -86,6 +94,7 @@ This routing index links promoted Bible-spine nodes and cross-passage argument c
 | nt | Matthew | 11 | 13 | atomic | messenger/Elijah expectation context / John-Baptist control | [bible/nt/matthew/ch11/v13/summary.md](bible/nt/matthew/ch11/v13/summary.md) |
 | nt | Matthew | 11 | 14 | atomic | messenger/Elijah expectation context / John-Baptist control | [bible/nt/matthew/ch11/v14/summary.md](bible/nt/matthew/ch11/v14/summary.md) |
 | nt | Matthew | 11 | 15 | atomic | messenger/Elijah expectation context / John-Baptist control | [bible/nt/matthew/ch11/v15/summary.md](bible/nt/matthew/ch11/v15/summary.md) |
+| nt | Matthew | 15 | 24 | atomic | Isaiah 42 comparison control / Jesus-mission scope | [bible/nt/matthew/ch15/v24/summary.md](bible/nt/matthew/ch15/v24/summary.md) |
 | nt | Matthew | 17 | 10 | atomic | messenger/Elijah expectation context / John-Baptist control | [bible/nt/matthew/ch17/v10/summary.md](bible/nt/matthew/ch17/v10/summary.md) |
 | nt | Matthew | 17 | 10-13 | combined | messenger/Elijah expectation context / John-Baptist control | [bible/nt/matthew/ch17/v10-13/summary.md](bible/nt/matthew/ch17/v10-13/summary.md) |
 | nt | Matthew | 17 | 11 | atomic | messenger/Elijah expectation context / John-Baptist control | [bible/nt/matthew/ch17/v11/summary.md](bible/nt/matthew/ch17/v11/summary.md) |
@@ -201,8 +210,9 @@ This routing index links promoted Bible-spine nodes and cross-passage argument c
 | ot | Isaiah | 60 | 3 | atomic | dependent kingdom-transfer synthesis / broad motif control | [bible/ot/isaiah/ch60/v3/summary.md](bible/ot/isaiah/ch60/v3/summary.md) |
 | ot | Isaiah | 60 | 4 | atomic | dependent kingdom-transfer synthesis / broad motif control | [bible/ot/isaiah/ch60/v4/summary.md](bible/ot/isaiah/ch60/v4/summary.md) |
 | ot | Isaiah | 60 | 5 | atomic | dependent kingdom-transfer synthesis / broad motif control | [bible/ot/isaiah/ch60/v5/summary.md](bible/ot/isaiah/ch60/v5/summary.md) |
-| ot | Isaiah | 60 | 6 | atomic | dependent kingdom-transfer synthesis / broad motif control | [bible/ot/isaiah/ch60/v6/summary.md](bible/ot/isaiah/ch60/v6/summary.md) |
-| ot | Isaiah | 60 | 7 | atomic | dependent kingdom-transfer synthesis / broad motif control | [bible/ot/isaiah/ch60/v7/summary.md](bible/ot/isaiah/ch60/v7/summary.md) |
+| ot | Isaiah | 60 | 6 | atomic | candidate-field sanctuary support / Arabian traffic motif | [bible/ot/isaiah/ch60/v6/summary.md](bible/ot/isaiah/ch60/v6/summary.md) |
+| ot | Isaiah | 60 | 6-7 | combined | candidate-field sanctuary support / Kedar-Nebaioth secondary | [bible/ot/isaiah/ch60/v6-7/summary.md](bible/ot/isaiah/ch60/v6-7/summary.md) |
+| ot | Isaiah | 60 | 7 | atomic | candidate-field sanctuary support / Kedar-Nebaioth secondary | [bible/ot/isaiah/ch60/v7/summary.md](bible/ot/isaiah/ch60/v7/summary.md) |
 | ot | Isaiah | 60 | 8 | atomic | dependent kingdom-transfer synthesis / broad motif control | [bible/ot/isaiah/ch60/v8/summary.md](bible/ot/isaiah/ch60/v8/summary.md) |
 | ot | Isaiah | 60 | 9 | atomic | dependent kingdom-transfer synthesis / broad motif control | [bible/ot/isaiah/ch60/v9/summary.md](bible/ot/isaiah/ch60/v9/summary.md) |
 | ot | Malachi | 3 | 1 | atomic | messenger/Elijah expectation context / John-Baptist control | [bible/ot/malachi/ch3/v1/summary.md](bible/ot/malachi/ch3/v1/summary.md) |
@@ -238,7 +248,7 @@ This routing index links promoted Bible-spine nodes and cross-passage argument c
 ## Argument Pages
 | Page Type | Claim Label | Destination |
 | --- | --- | --- |
-| cross-passage | servant/Kedar mixed direct-support cluster / servant-cycle controlled | [arguments/arabian-servant-and-kedar/summary.md](arguments/arabian-servant-and-kedar/summary.md) |
+| cross-passage | servant/Kedar secondary narrowing cluster / servant-cycle controlled | [arguments/arabian-servant-and-kedar/summary.md](arguments/arabian-servant-and-kedar/summary.md) |
 | cross-passage | tentative sacred-geography resonance / non-load-bearing | [arguments/baca-and-pilgrimage/summary.md](arguments/baca-and-pilgrimage/summary.md) |
 | cross-passage | candidate-field lineage support / eligibility not proof | [arguments/ishmaelite-line-and-brethren/summary.md](arguments/ishmaelite-line-and-brethren/summary.md) |
 | cross-passage | dependent kingdom-transfer synthesis / non-decisive motif control | [arguments/kingdom-transfer/summary.md](arguments/kingdom-transfer/summary.md) |

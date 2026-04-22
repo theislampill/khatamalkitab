@@ -4,8 +4,8 @@
 Atomic passage page
 
 ## Passage-Specific Contribution
-- This passage contributes glorifying Jesus and receiving what belongs to Jesus.
-- It matters as a boundary: any Paraclete reading must preserve witness to Jesus.
+- This verse says the coming figure or agency glorifies Jesus by taking what is his and declaring it.
+- It matters because the verse excludes readings that negate Jesus rather than bear witness to him.
 - The strongest alternative is intra-Christian Spirit witness rather than later-prophet mission.
 
 ## Epistemic Classification
@@ -14,7 +14,7 @@ Atomic passage page
 - Role: Paraclete passage anchor or control, governed by range context
 
 ## Argumentative Use
-- This page functions according to the role above; when used as a control, it constrains the linked cluster rather than proving it.
+- Use this verse as a boundary condition on Paraclete interpretation: continuity with Jesus is required.
 - It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
 - Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
 

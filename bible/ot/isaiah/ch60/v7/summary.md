@@ -4,8 +4,8 @@
 Atomic passage page
 
 ## Passage-Specific Contribution
-- This passage contributes light, gathering, wealth, and Zion/restoration imagery to kingdom and pilgrimage support.
-- It matters as broad motif support, not direct prophecy.
+- This passage contributes Kedar, Nebaioth, altar, and house-of-glory language.
+- It matters as secondary Kedar/sanctuary support, not direct prophecy.
 - The strongest alternative is that the passage is Zion-restoration language rather than Arabian fulfillment.
 
 ## Epistemic Classification
@@ -22,6 +22,9 @@ Atomic passage page
 - The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
 
 ## Dependency Links
+- [bible/ot/isaiah/ch60/v6-7/summary.md](../../../../../bible/ot/isaiah/ch60/v6-7/summary.md)
+- [arguments/arabian-servant-and-kedar/summary.md](../../../../../arguments/arabian-servant-and-kedar/summary.md)
+- [arguments/ishmaelite-line-and-brethren/summary.md](../../../../../arguments/ishmaelite-line-and-brethren/summary.md)
 - [arguments/kingdom-transfer/summary.md](../../../../../arguments/kingdom-transfer/summary.md)
 - [arguments/baca-and-pilgrimage/summary.md](../../../../../arguments/baca-and-pilgrimage/summary.md)
 

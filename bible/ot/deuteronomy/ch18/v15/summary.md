@@ -4,22 +4,22 @@
 Atomic passage page
 
 ## Passage-Specific Contribution
-- This passage supplies the core prophet-like-Moses profile: a prophet raised by God, received divine speech, and accountability for rejecting the message.
-- The argumentative pressure is strongest in the promise unit, especially the likeness-to-Moses and words-in-the-mouth features.
-- It matters because the repository tests whether this profile can remain open beyond Israelite succession and beyond the Acts 3 Jesus reading.
+- This verse introduces the promise itself: God will raise up a prophet like Moses from among the people's brothers.
+- Its argumentative pressure lies in the opening claimant filter and the command to listen to that figure.
+- It matters because the cluster's later narrowing work begins from this verse's combination of likeness, kinship language, and required heed.
 
 ## Epistemic Classification
 - Status: anchored
-- Passage contribution: high as a linked-cluster anchor; convergence is not assigned to this verse alone
-- Role: direct passage anchor, governed by Deuteronomy 18 range
+- Passage contribution: direct verse anchor within the Deuteronomy 18 range
+- Role: opening prophet-like-Moses promise
 
 ## Argumentative Use
-- This page functions as direct anchor, governed by its cluster.
+- Use this verse for the opening prophet-like-Moses claim and for the brothers/listen pressure that later cluster work must interpret.
 - It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
 - Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
 
 ## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+- The strongest local alternative is that this verse opens a succession promise for prophets within Israel rather than a singled-out later figure beyond Israel's ordinary prophetic line.
 
 ## Dependency Links
 - [arguments/prophet-like-moses/summary.md](../../../../../arguments/prophet-like-moses/summary.md)

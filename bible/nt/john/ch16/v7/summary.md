@@ -4,22 +4,22 @@
 Atomic passage page
 
 ## Passage-Specific Contribution
-- This passage contributes departure, advantage, conviction, guidance into truth, future disclosure, and received speech.
-- It matters as the densest Paraclete range and the strongest bridge to Deuteronomy 18.
+- This verse states the threshold condition of the sequence: Jesus' departure is said to make the coming of the Paraclete possible and advantageous.
+- It matters because timing is one of the cluster's strongest filters. The promised figure or agency is explicitly post-departure.
 - The strongest alternative is that Jesus is describing the Holy Spirit's post-resurrection/Pentecost work.
 
 ## Epistemic Classification
 - Status: anchored
-- Passage contribution: high as a linked-cluster anchor; convergence is not assigned to this verse alone
-- Role: Paraclete passage anchor or control, governed by range context
+- Passage contribution: direct verse anchor within the Paraclete range
+- Role: departure-conditioned coming
 
 ## Argumentative Use
-- This page functions according to the role above; when used as a control, it constrains the linked cluster rather than proving it.
+- Use this verse for the departure-conditioned coming and advantage claim, not for the whole Paraclete profile by itself.
 - It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
 - Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
 
 ## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+- The strongest local alternative is that Jesus is simply promising the Holy Spirit's post-resurrection coming to the disciples, with no later human-messenger remainder.
 
 ## Dependency Links
 - [arguments/paraclete/summary.md](../../../../../arguments/paraclete/summary.md)

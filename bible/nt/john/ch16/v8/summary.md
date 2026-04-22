@@ -4,9 +4,9 @@
 Atomic passage page
 
 ## Passage-Specific Contribution
-- This passage contributes departure, advantage, conviction, guidance into truth, future disclosure, and received speech.
-- It matters as the densest Paraclete range and the strongest bridge to Deuteronomy 18.
-- The strongest alternative is that Jesus is describing the Holy Spirit's post-resurrection/Pentecost work.
+- This verse contributes world-facing conviction or exposure concerning sin, righteousness, and judgment.
+- It matters because the Paraclete's work is presented here as public and adversarial, not merely inward consolation.
+- The strongest alternative is that Jesus is describing the Holy Spirit's convicting work through the disciples and early Christian community.
 
 ## Epistemic Classification
 - Status: anchored

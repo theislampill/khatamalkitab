@@ -4,12 +4,12 @@
 Local combined passage page
 
 ## Passage-Specific Contribution
-- This passage contributes glorifying Jesus and receiving what belongs to Jesus.
-- It matters as a boundary: any Paraclete reading must preserve witness to Jesus.
+- This range contributes glorifying Jesus by receiving and declaring what belongs to him.
+- It matters as a boundary: any Paraclete reading must preserve continuity with Jesus and witness to him rather than displace him.
 - The strongest alternative is intra-Christian Spirit witness rather than later-prophet mission.
 
 ## Why This Range Matters
-- The range matters because the adjacent verses form one local argumentative unit; atomics remain available for verse-specific review.
+- The range matters because glorification, reception, and declaration belong to one local unit of mediated continuity.
 
 ## Epistemic Classification
 - Status: anchored

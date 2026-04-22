@@ -4,8 +4,8 @@
 Atomic passage page
 
 ## Passage-Specific Contribution
-- This passage contributes departure, advantage, conviction, guidance into truth, future disclosure, and received speech.
-- It matters as the densest Paraclete range and the strongest bridge to Deuteronomy 18.
+- This verse specifies the first element of the conviction triad: the world is convicted concerning sin because it does not believe in Jesus.
+- It matters because the Paraclete sequence is not just inward comfort; it publicly exposes unbelief in relation to Jesus.
 - The strongest alternative is that Jesus is describing the Holy Spirit's post-resurrection/Pentecost work.
 
 ## Epistemic Classification
@@ -14,12 +14,12 @@ Atomic passage page
 - Role: context/control; not direct identification by itself
 
 ## Argumentative Use
-- This page functions according to the role above; when used as a control, it constrains the linked cluster rather than proving it.
+- Use this verse for the sin/unbelief predicate within the conviction triad.
 - It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
 - Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
 
 ## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+- The strongest local alternative is that this conviction occurs through the Holy Spirit's work in the disciples and early community rather than through any later prophetic mission.
 
 ## Dependency Links
 - [arguments/paraclete/summary.md](../../../../../arguments/paraclete/summary.md)

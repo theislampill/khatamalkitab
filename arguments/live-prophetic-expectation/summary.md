@@ -15,7 +15,6 @@ The convergence does not name the Prophet ﷺ; it keeps the expectation field fr
 - [John 4:25](../../bible/nt/john/ch4/v25/summary.md)
 - [Luke 24:19](../../bible/nt/luke/ch24/v19/summary.md)
 - [Luke 24:21](../../bible/nt/luke/ch24/v21/summary.md)
-- [Luke 24:49](../../bible/nt/luke/ch24/v49/summary.md)
 - [Acts 1:6](../../bible/nt/acts/ch1/v6/summary.md)
 - [Acts 5:34-39](../../bible/nt/acts/ch5/v34-39/summary.md)
 

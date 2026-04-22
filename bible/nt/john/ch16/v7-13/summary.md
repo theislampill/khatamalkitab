@@ -4,20 +4,20 @@
 Local combined passage page
 
 ## Passage-Specific Contribution
-- This passage contributes departure, advantage, conviction, guidance into truth, future disclosure, and received speech.
+- This passage contributes departure, advantage, the conviction triad of `vv.8-11`, guidance into truth, future disclosure, and received speech.
 - It matters as the densest Paraclete range and the strongest bridge to Deuteronomy 18.
 - The strongest alternative is that Jesus is describing the Holy Spirit's post-resurrection/Pentecost work.
 
 ## Why This Range Matters
-- The range matters because departure, advantage, conviction, guidance, future disclosure, and received speech form one Paraclete argument sequence.
+- The range matters because departure, advantage, the conviction triad, guidance, future disclosure, and received speech form one Paraclete argument sequence.
 
 ## Epistemic Classification
 - Status: anchored
-- Passage contribution: control; tests or constrains linked clusters
-- Role: context/control; not direct identification by itself
+- Passage contribution: direct anchor with embedded Spirit/Pentecost control context
+- Role: primary Paraclete range; direct profile with internal control pressure
 
 ## Argumentative Use
-- Use this range as the densest Paraclete profile: Jesus' departure, the coming guide, guidance into truth, future disclosure, and received speech belong to one sequence.
+- Use this range as the primary combined Paraclete anchor: Jesus' departure, the coming guide, guidance into truth, future disclosure, and received speech belong to one sequence.
 - The range feeds [Paraclete](../../../../../arguments/paraclete/summary.md) and [Prophet Like Moses And Paraclete](../../../../../arguments/prophet-like-moses-and-paraclete/summary.md) by supplying the Gospel-side mediated-speech pressure.
 - Identification of the Prophet ﷺ remains cluster-level synthesis and must pass the Spirit/Pentecost controls.
 
