@@ -1,0 +1,3 @@
+# Local-only raw corpus and private extraction workspace
+input/
+.local/

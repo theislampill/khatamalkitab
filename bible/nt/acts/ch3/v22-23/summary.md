@@ -1,36 +1,25 @@
-﻿# Acts 3:22-23
+# Acts 3:22-23
 
-## Page Type
-Local combined passage page
+`Status:` anchored. `Role:` control / Christian alternate-reading anchor. `Contribution:` control; tests or constrains linked clusters.
 
-## Passage-Specific Contribution
-- This passage applies Deuteronomy 18 in Peter's speech and therefore preserves the strongest Christian counter-reading.
-- It matters as both evidence that Deuteronomy 18 was live and a control against Muslim overclaiming, especially when read with Acts 3:21's future-restoration frame.
-- The strongest alternative is direct fulfillment in Jesus.
+## Claim
+This passage applies Deuteronomy 18 in Peter's speech and therefore preserves the strongest Christian counter-reading. It matters as both evidence that Deuteronomy 18 was live and a control against Muslim overclaiming, especially when read with Acts 3:21's future-restoration frame.
 
-## Why This Range Matters
-- The range matters because the adjacent verses form one local argumentative unit; atomics remain available for verse-specific review.
+## Reasoning
+The adjacent verses form one local argumentative unit; atomics remain available for verse-specific review. At this level, the page serves as a control that clarifies the limits the larger argument must respect.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: control; tests or constrains linked clusters
-- Role: control / Christian alternate-reading anchor
+## Local Significance
+Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
 
-## Argumentative Use
-- This page functions according to the role above; when used as a control, it constrains the linked cluster rather than proving it.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+## Networked Significance
+Within the wider repository, this page chiefly strengthens [V21](../../../../../bible/nt/acts/ch3/v21/summary.md) and [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+## Objection Note
+The main competing reading is direct fulfillment in Jesus. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
 
-## Dependency Links
-- [bible/nt/acts/ch3/v21/summary.md](../../../../../bible/nt/acts/ch3/v21/summary.md)
-- [arguments/prophet-like-moses/summary.md](../../../../../arguments/prophet-like-moses/summary.md)
+## Contribution Summary
+Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
-
-
+## Linked Pages
+- [V21](../../../../../bible/nt/acts/ch3/v21/summary.md)
+- [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md)

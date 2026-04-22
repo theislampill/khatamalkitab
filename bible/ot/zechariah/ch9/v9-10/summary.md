@@ -1,35 +1,24 @@
-﻿# Zechariah 9:9-10
+# Zechariah 9:9-10
 
-## Page Type
-Local combined passage page
+`Status:` anchored. `Role:` supporting passage anchor; identification remains cluster-level synthesis. `Contribution:` support; convergence is governed by linked cluster pages.
 
-## Passage-Specific Contribution
-- This passage contributes king, peace, and rule-to-the-nations language.
-- It matters as kingdom-transfer support only.
-- The strongest alternative is messianic or Zion-restoration fulfillment centered on Jesus or Israel.
+## Claim
+This passage contributes king, peace, and rule-to-the-nations language. It matters as kingdom-transfer support only.
 
-## Why This Range Matters
-- The range matters because the adjacent verses form one local argumentative unit; atomics remain available for verse-specific review.
+## Reasoning
+The adjacent verses form one local argumentative unit; atomics remain available for verse-specific review. At this level, the page contributes a supporting constraint that becomes stronger when it is read inside the linked higher-order pages.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: support; convergence is governed by linked cluster pages
-- Role: supporting passage anchor; identification remains cluster-level synthesis
+## Local Significance
+Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
 
-## Argumentative Use
-- This page functions as supportive anchor, governed by its cluster.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+## Networked Significance
+Within the wider repository, this page chiefly strengthens [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+## Objection Note
+The main competing reading is messianic or Zion-restoration fulfillment centered on Jesus or Israel. That sets the page's proper rank, but it does not erase the supporting constraint the passage still contributes to the larger network.
 
-## Dependency Links
-- [arguments/kingdom-transfer/summary.md](../../../../../arguments/kingdom-transfer/summary.md)
+## Contribution Summary
+Used this way, the page strengthens the thesis by adding one more supporting constraint to the cumulative case and by helping the linked higher-order pages narrow or clarify the field.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
-
-
+## Linked Pages
+- [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md)

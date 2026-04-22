@@ -1,36 +1,25 @@
-﻿# John 16:14-15
+# John 16:14-15
 
-## Page Type
-Local combined passage page
+`Status:` anchored. `Role:` Paraclete passage anchor or control, governed by range context. `Contribution:` high as a linked-cluster anchor; convergence is not assigned to this verse alone.
 
-## Passage-Specific Contribution
-- This range contributes glorifying Jesus by receiving and declaring what belongs to him.
-- It matters as a boundary: any Paraclete reading must preserve continuity with Jesus and witness to him rather than displace him.
-- The strongest alternative is intra-Christian Spirit witness rather than later-prophet mission.
+## Claim
+This range contributes glorifying Jesus by receiving and declaring what belongs to him. It matters as a boundary: any Paraclete reading must preserve continuity with Jesus and witness to him rather than displace him.
 
-## Why This Range Matters
-- The range matters because glorification, reception, and declaration belong to one local unit of mediated continuity.
+## Reasoning
+Glorification, reception, and declaration belong to one local unit of mediated continuity. At this level, the page serves as a control that clarifies the limits the larger argument must respect.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: high as a linked-cluster anchor; convergence is not assigned to this verse alone
-- Role: Paraclete passage anchor or control, governed by range context
+## Local Significance
+Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
 
-## Argumentative Use
-- This page functions according to the role above; when used as a control, it constrains the linked cluster rather than proving it.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+## Networked Significance
+Within the wider repository, this page chiefly strengthens [Paraclete](../../../../../arguments/paraclete/summary.md) and [Paraclete And Subordination](../../../../../arguments/paraclete-and-subordination/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+## Objection Note
+The main competing reading is intra-Christian Spirit witness rather than later-prophet mission. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
 
-## Dependency Links
-- [arguments/paraclete/summary.md](../../../../../arguments/paraclete/summary.md)
-- [arguments/paraclete-and-subordination/summary.md](../../../../../arguments/paraclete-and-subordination/summary.md)
+## Contribution Summary
+Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
-
-
+## Linked Pages
+- [Paraclete](../../../../../arguments/paraclete/summary.md)
+- [Paraclete And Subordination](../../../../../arguments/paraclete-and-subordination/summary.md)

@@ -1,31 +1,32 @@
-﻿# Mahmad And Praised-One
+# Mahmad And Praised-One
 
-## Central Thesis
-[speculative] This cluster records lexical/name resonance only. It asks whether praise/desire language can corroborate the thesis after stronger clusters stand, while keeping ordinary usage, context, and textual-critical controls in front.
+`Status:` [speculative] + [inference]. `Rank:` corroborative and review-heavy.
 
-## Why These Passages Belong Together
-[Haggai 2:7](../../bible/ot/haggai/ch2/v7/summary.md) contributes “desire/treasure/glory” type language in a temple context. [Song of Songs 5:16](../../bible/ot/song-of-songs/ch5/v16/summary.md) contributes beloved/praise language. [Isaiah 42:1](../../bible/ot/isaiah/ch42/v1/summary.md) is included only because some claims attach Ahmad/manuscript arguments to servant language; those claims require independent textual review.
+## Cluster Claim
+This cluster records the repo's lexical or praise-name resonance line. Its value is tightly limited. It can add a small confirmatory note once the stronger clusters and convergences are already standing, but it cannot govern the case and should never substitute for direct or convergent reasoning.
 
-## Actual Test
-The cluster can only add resonance after the main case is already standing. It survives review if lexical form, ordinary usage, local context, and manuscript or translation evidence leave a real proper-name or praise-title opening; it fails if the words are adequately explained as temple glory, beloved-language, ordinary desire, or unstable textual claims. At present it does not pass those tests strongly enough to be load-bearing.
+## Why This Cluster Matters
+[Haggai 2:7](../../bible/ot/haggai/ch2/v7/summary.md), [Song of Songs 5:16](../../bible/ot/song-of-songs/ch5/v16/summary.md), and [Isaiah 42:1](../../bible/ot/isaiah/ch42/v1/summary.md) appear here because some readings attach praise-language, name-form, or manuscript-sensitive claims to them. The repo keeps that material visible so it can be ranked honestly rather than smuggled into stronger pages. That is the constructive value of the cluster: it gives the line a place without allowing it to distort the main architecture.
 
-## Anchored Passages
+## Distinctive Force
+The cluster's force, where it has any, is not identificatory in itself. It is corroborative resonance. Once the main case has already become persuasive on other grounds, lexical or praise-name echoes can make the overall direction feel more intelligible. That is as far as the repo should take it.
+
+## Networked Significance
+This cluster belongs at the far end of cumulative synthesis, alongside other low-rank corroborative material such as [Baca And Pilgrimage](../baca-and-pilgrimage/summary.md) and [Unlettered Prophet](../unlettered-prophet/summary.md). Its best use is in a bounded closing synthesis that distinguishes governing evidence from secondary fit.
+
+## Objection Note
+Ordinary lexical usage, temple or beloved-language context, and text-critical instability remain the main constraints. That is why the cluster must stay review-heavy and non-load-bearing. Preserved at that rank, it can still have a legitimate place in the repo.
+
+## Contribution Summary
+This cluster strengthens the thesis only as a minor corroborative line. Its real contribution is architectural honesty: the repo keeps the line visible, ranked, and firmly subordinate to the direct and convergent core.
+
+## Core Passages
 - [Haggai 2:7](../../bible/ot/haggai/ch2/v7/summary.md)
 - [Haggai 2:6-9](../../bible/ot/haggai/ch2/v6-9/summary.md)
 - [Song of Songs 5:16](../../bible/ot/song-of-songs/ch5/v16/summary.md)
 - [Isaiah 42:1](../../bible/ot/isaiah/ch42/v1/summary.md)
 
-## Strongest Alternative Synthesis
-The language may be ordinary desire, beauty, praise, beloved description, temple glory, or nations' treasures rather than a proper-name prophecy. Textual-critical claims may fail manuscript scrutiny.
-
-## Inference Boundary
-[speculative] Lexical resemblance is not proof. [inference] Any value is corroborative and depends on established convergence elsewhere.
-
-## Load-Bearing Status
-Corroborative, speculative-edged, and non-load-bearing.
-
-## Failure Modes
-- Do not substitute wordplay for argument.
-- Do not cite textual-critical claims as settled without review.
-- Do not let this cluster govern KHALAS.
-
+## Related Links
+- [Unlettered Prophet](../unlettered-prophet/summary.md)
+- [Baca And Pilgrimage](../baca-and-pilgrimage/summary.md)
+- [KHALAS](../../KHALAS.md)

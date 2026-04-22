@@ -1,35 +1,24 @@
-﻿# Malachi 4:4-6
+# Malachi 4:4-6
 
-## Page Type
-Local combined passage page
+`Status:` anchored. `Role:` expectation support / objection-sensitive. `Contribution:` medium; supports a linked expectation cluster.
 
-## Passage-Specific Contribution
-- This passage joins Moses-memory with Elijah-before-the-day expectation.
-- It matters because it ties law memory and messenger expectation, but remains controlled by the Synoptic Elijah/John readings.
-- The strongest alternative is that the Elijah role is John the Baptist or remains Jewish eschatological expectation.
+## Claim
+This passage joins Moses-memory with Elijah-before-the-day expectation. It matters because it ties law memory and messenger expectation, but remains controlled by the Synoptic Elijah/John readings.
 
-## Why This Range Matters
-- The range matters because messenger, covenant, purification, Moses-memory, and Elijah expectation work as local expectation units.
+## Reasoning
+Messenger, covenant, purification, Moses-memory, and Elijah expectation work as local expectation units. At this level, the page contributes a supporting constraint that becomes stronger when it is read inside the linked higher-order pages.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: medium; supports a linked expectation cluster
-- Role: expectation support / objection-sensitive
+## Local Significance
+Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
 
-## Argumentative Use
-- This page functions as expectation-context support.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+## Networked Significance
+Within the wider repository, this page chiefly strengthens [Messenger Before Arrival](../../../../../arguments/messenger-before-arrival/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+## Objection Note
+The main competing reading takes the passage as the Elijah role is John the Baptist or remains Jewish eschatological expectation. That sets the page's proper rank, but it does not erase the supporting constraint the passage still contributes to the larger network.
 
-## Dependency Links
-- [arguments/messenger-before-arrival/summary.md](../../../../../arguments/messenger-before-arrival/summary.md)
+## Contribution Summary
+Used this way, the page strengthens the thesis by adding one more supporting constraint to the cumulative case and by helping the linked higher-order pages narrow or clarify the field.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
-
-
+## Linked Pages
+- [Messenger Before Arrival](../../../../../arguments/messenger-before-arrival/summary.md)

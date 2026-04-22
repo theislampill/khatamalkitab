@@ -1,15 +1,26 @@
-﻿# Live Prophetic Expectation
+# Live Prophetic Expectation
 
-## Central Thesis
-[synthesis] This cluster shows that prophetic, messianic, restoration, and validation categories remained live in first-century discourse. Its job is contextual: it prevents Deuteronomy 18, Malachi, and Paraclete material from being read as dead background, but it does not identify the Prophet ﷺ.
+`Status:` [synthesis]. `Rank:` anti-closure support cluster.
 
-## Why These Passages Belong Together
-[John 1:19-21](../../bible/nt/john/ch1/v19-21/summary.md) distinguishes Messiah, Elijah, and “the Prophet.” [John 4:19](../../bible/nt/john/ch4/v19/summary.md) and [John 4:25](../../bible/nt/john/ch4/v25/summary.md) preserve Samaritan prophet/Messiah recognition. [Luke 24:19](../../bible/nt/luke/ch24/v19/summary.md) and [Luke 24:21](../../bible/nt/luke/ch24/v21/summary.md) show prophet and redemption expectation around Jesus. [Acts 1:6](../../bible/nt/acts/ch1/v6/summary.md) shows restoration expectation, while [Acts 5:34-39](../../bible/nt/acts/ch5/v34-39/summary.md) supplies a divine-validation caution.
+## Cluster Claim
+This cluster keeps the expectation field open. It does not identify the Prophet (peace be upon him) directly, and it is not meant to. Its constructive role is to show that prophetic, messianic, restorative, and movement-testing categories remained alive enough that the direct clusters are not being read against a dead background.
 
-## Cumulative Profile
-The convergence does not name the Prophet ﷺ; it keeps the expectation field from being treated as closed or irrelevant. John 1 preserves distinct categories, John 4 and Luke 24 show prophet/Messiah/redemption expectation in motion, and Acts keeps restoration and divine-validation questions alive. This context strengthens the reader route into Deuteronomy 18, Malachi, and Paraclete, while still allowing Jesus-centered readings to remain serious.
+## Why This Cluster Matters
+[John 1:19-21](../../bible/nt/john/ch1/v19-21/summary.md) distinguishes Messiah, Elijah, and "the Prophet," which is important because it shows that expectation language had not yet been collapsed into one category. [John 4:19](../../bible/nt/john/ch4/v19/summary.md) and [John 4:25](../../bible/nt/john/ch4/v25/summary.md) preserve prophet- and Messiah-expectation in motion. [Luke 24:19](../../bible/nt/luke/ch24/v19/summary.md) and [Luke 24:21](../../bible/nt/luke/ch24/v21/summary.md) show that redemption and prophetic categories remained active around Jesus. [Acts 1:6](../../bible/nt/acts/ch1/v6/summary.md) keeps restoration expectation visible, while [Acts 5:34-39](../../bible/nt/acts/ch5/v34-39/summary.md) adds a principle of cautious movement-discernment.
 
-## Anchored Passages
+## Distinctive Force
+This cluster does one job especially well: it resists premature closure. Without it, the repo could too easily look as though it is importing later possibilities into a field already settled beyond dispute. With it, the argument can say something more measured and more persuasive: these expectation categories were still active, differentiated, and contested, which means the reader is not forced to treat later cluster work as inherently illegitimate.
+
+## Networked Significance
+This cluster is a major member of [Anti-Closure Convergence](../../convergences/anti-closure-convergence/summary.md), where it works alongside [Messenger Before Arrival](../messenger-before-arrival/summary.md) and [Law Continuity Control](../law-continuity-control/summary.md). It therefore strengthens the cumulative case indirectly but materially: it makes room for the stronger direct and narrowing clusters to be heard instead of being dismissed before the argument even begins.
+
+## Objection Note
+The main rival reading is obvious: these passages may remain wholly within Jewish, Samaritan, or early Christian expectation centered on Jesus. That is true, and the cluster does not try to deny it. Its point is narrower and more constructive. Even under those rival readings, the passages still show that the field of expectation remained alive enough that the later question cannot be ruled out in advance.
+
+## Contribution Summary
+This cluster strengthens the thesis by preserving the interpretive openness the cumulative argument needs. It is not fulfillment. It is not a substitute for the primary clusters. It is the anti-closure layer that keeps the direct argument from being pre-empted too early.
+
+## Core Passages
 - [John 1:19-21](../../bible/nt/john/ch1/v19-21/summary.md)
 - [John 4:19](../../bible/nt/john/ch4/v19/summary.md)
 - [John 4:25](../../bible/nt/john/ch4/v25/summary.md)
@@ -18,17 +29,6 @@ The convergence does not name the Prophet ﷺ; it keeps the expectation field fr
 - [Acts 1:6](../../bible/nt/acts/ch1/v6/summary.md)
 - [Acts 5:34-39](../../bible/nt/acts/ch5/v34-39/summary.md)
 
-## Strongest Alternative Synthesis
-These passages may be fully contained within Jewish messianic, Samaritan, restoration, or early Christian expectations centered on Jesus. Expectation-context is not fulfillment.
-
-## Inference Boundary
-[anchored] The expectation categories exist. [synthesis] They support the plausibility of reading Deuteronomy 18 and related clusters as live. [inference] Any later fulfillment application depends on stronger clusters.
-
-## Load-Bearing Status
-Contextual support. It supports the reader route but cannot bear direct proof.
-
-## Failure Modes
-- Do not treat expectation as fulfillment.
-- Do not make all first-century hopes point to one figure without argument.
-- Do not bypass Jesus-centered readings of Luke and Acts.
-
+## Related Convergences
+- [Anti-Closure Convergence](../../convergences/anti-closure-convergence/summary.md)
+- [KHALAS](../../KHALAS.md)

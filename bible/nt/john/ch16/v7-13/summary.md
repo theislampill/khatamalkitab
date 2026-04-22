@@ -1,37 +1,27 @@
-﻿# John 16:7-13
+# John 16:7-13
 
-## Page Type
-Local combined passage page
+`Status:` anchored. `Role:` primary Paraclete range; direct profile with internal control pressure. `Contribution:` direct anchor with embedded Spirit/Pentecost comparison.
 
-## Passage-Specific Contribution
-- This passage contributes departure, advantage, the conviction triad of `vv.8-11`, guidance into truth, future disclosure, and received speech.
-- It matters as the densest Paraclete range and the strongest bridge to Deuteronomy 18.
-- The strongest alternative is that Jesus is describing the Holy Spirit's post-resurrection/Pentecost work.
+## Claim
+This passage is the densest Gospel-side statement of the later-guide profile. It gathers Jesus' departure, the coming of the promised figure, public conviction or exposure, guidance into truth, future disclosure, and speech that is received rather than self-originated. Read as a range, it becomes the most important local unit in the Paraclete material.
 
-## Why This Range Matters
-- The range matters because departure, advantage, the conviction triad, guidance, future disclosure, and received speech form one Paraclete argument sequence.
+## Reasoning
+The range has force because its elements form one sequence instead of a loose list. Jesus' departure creates the timing frame. `vv.8-11` add a world-facing public function rather than a merely inward one. `vv.12-13` add deferred disclosure, guidance into truth, and non-autonomous speech. Taken together, those features explain why the repository treats this passage as a major direct anchor rather than as an incidental support text. At the same time, the passage remains the key place where Spirit and Pentecost closure readings must be tested.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: direct anchor with embedded Spirit/Pentecost control context
-- Role: primary Paraclete range; direct profile with internal control pressure
+## Local Significance
+At local level, John 16:7-13 does more than repeat the earlier Paraclete sayings. It concentrates the features that make the range uniquely important: later arrival, public effect, fuller guidance, future disclosure, and received speech. That is what makes it the strongest Gospel-side bridge to broader received-speech and later-guide reasoning in the repo.
 
-## Argumentative Use
-- Use this range as the primary combined Paraclete anchor: Jesus' departure, the coming guide, guidance into truth, future disclosure, and received speech belong to one sequence.
-- The range feeds [Paraclete](../../../../../arguments/paraclete/summary.md) and [Prophet Like Moses And Paraclete](../../../../../arguments/prophet-like-moses-and-paraclete/summary.md) by supplying the Gospel-side mediated-speech pressure.
-- Identification of the Prophet ﷺ remains cluster-level synthesis and must pass the Spirit/Pentecost controls.
+## Networked Significance
+Within the wider repository, this range anchors [Paraclete](../../../../../arguments/paraclete/summary.md), feeds [Primary Profile Convergence](../../../../../convergences/primary-profile-convergence/summary.md), and supports the dependent bridge in [Prophet Like Moses And Paraclete](../../../../../arguments/prophet-like-moses-and-paraclete/summary.md). It also remains important to [Paraclete And Subordination](../../../../../arguments/paraclete-and-subordination/summary.md), where Johannine speech and dependence categories are kept visible.
 
-## Strongest Local Alternative
-- The strongest local alternative is that Jesus is describing the Holy Spirit's post-resurrection and Pentecost work in the disciples and early community. If that reading fully explains departure, guidance, and received speech, the human-messenger reading loses direct force.
+## Objection Note
+The main competing reading is that this range describes the Holy Spirit's post-resurrection and Pentecost work among the disciples and early community. That reading is the most serious internal rival and belongs here. Even so, the passage still contributes a major constructive profile because the dispute turns on whether the whole later-guide sequence is exhausted by that reading, not on whether the range has any direct force at all.
 
-## Dependency Links
-- [arguments/paraclete/summary.md](../../../../../arguments/paraclete/summary.md)
-- [arguments/prophet-like-moses-and-paraclete/summary.md](../../../../../arguments/prophet-like-moses-and-paraclete/summary.md)
-- [arguments/paraclete-and-subordination/summary.md](../../../../../arguments/paraclete-and-subordination/summary.md)
+## Contribution Summary
+Used this way, John 16:7-13 strengthens the thesis by securing the repository's strongest Gospel-side later-guide profile. It gives the cumulative case a second direct anchor before the argument moves into convergence and candidate-field narrowing.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
-
-
+## Linked Pages
+- [Paraclete](../../../../../arguments/paraclete/summary.md)
+- [Prophet Like Moses And Paraclete](../../../../../arguments/prophet-like-moses-and-paraclete/summary.md)
+- [Paraclete And Subordination](../../../../../arguments/paraclete-and-subordination/summary.md)
+- [Primary Profile Convergence](../../../../../convergences/primary-profile-convergence/summary.md)

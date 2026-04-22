@@ -1,160 +1,163 @@
-﻿# Method
+# Method
 
 ## Purpose
-This repository does not treat "Muhammad in the Bible" as one undifferentiated claim. It breaks the topic into verse-level, range-level, and cross-passage units so each argument can be reviewed at the smallest justified scale.
+This repository does not treat "Muhammad in the Bible" as one undifferentiated claim. It breaks the topic into verse-level, range-level, cluster-level, convergence-level, and cumulative units so that each page can do the kind of argumentative work appropriate to its level.
 
-## Epistemic Grounding
-This method is grounded in the local daee-epistemics skill executed during corpus processing, especially its emphasis on:
-
-- diagnose before rebutting
-- keep the claim-type clean
-- prefer convergence over isolated proof-fragments
-- mark where inference begins
-- audit coverage instead of assuming it
-
-In repo terms, that means we do not simply collect proof texts. We classify what kind of claim a passage is carrying, how much inferential weight it can bear, and what other passages it depends on.
-
-This file is grounded against the daee-epistemics skill, but it is not a duplicate of it. The skill is a general epistemic and diagnostic architecture. This repository method adapts those principles to a collaborative text-research workflow around biblical passages, prophetic argument clusters, and corpus-level convergence.
+The method is disciplined, but its public-facing goal is constructive presentation. A reader should be able to see what each page contributes, why it contributes it, and how it strengthens the larger thesis.
 
 ## Non-Negotiable Commitments
-### 1. Diagnose before promoting
-A passage is not promoted into the repo merely because it appears in a source text. We first ask:
+### 1. Build the case from the smallest justified unit
+A verse should do verse work. A local range should do passage work. A cluster should do cluster work. A convergence should do genuinely convergent work. The final synthesis should gather force rather than rehearse fragments.
 
-- is it being used as a direct prophecy claim?
-- as a supporting identity or geography claim?
-- as a control passage against an objection or alternate reading?
-- or only as incidental quotation noise?
+### 2. Present positive force before objections
+Every public-facing page should lead with what the passage, cluster, or convergence contributes. Objection notes remain important, but they are secondary and should clarify limits rather than govern the page.
 
-Only then do we route it into the Bible tree.
+### 3. Preserve rank
+The method distinguishes:
 
-### 2. Use the narrowest justified unit
-If one verse carries reusable argumentative value, it gets its own page.
+- direct anchors
+- supporting constraints
+- control nodes
+- dependent syntheses
+- corroborative lines
 
-If a local range is required to make sense of the claim, the range gets its own combined page.
+This prevents weak or review-heavy material from silently taking the place of stronger lines.
 
-If the claim only becomes persuasive when multiple distant passages are read together, it gets an argument-cluster page under `arguments/`.
+### 4. Prefer convergence over isolated proof-texting
+The repository is strongest when different lines add different constraints. Repetition does not count as convergence. A later page should answer a specific question the earlier page could not answer by itself.
 
-### 3. Every promoted verse gets its own page
-If a passage is promoted into the repository as a real finding, each individual verse in the promoted range must have its own `summary.md`.
+### 5. Keep inference boundaries visible without making them the voice
+The repository still uses source-status markers:
 
-This avoids two common failures:
+- `[anchored]`
+- `[synthesis]`
+- `[inference]`
+- `[speculative]`
+- `[control]`
 
-- hiding difficult verses inside broad chapter summaries
-- forcing collaborators to edit only at the range level
+These markers discipline the argument. They do not replace argument paragraphs.
 
-### 4. Convergence matters more than proof-text isolation
-Following the convergence discipline reflected in the daee-epistemics material, the repository privileges non-collusive convergence:
+## Page Architecture
+### Verse Atoms
+Use an atomic page when a single verse has standalone argumentative value or functions as a reusable control node.
 
-- repeated appearance across multiple corpus works
-- recurrence across multiple argument clusters
-- agreement between direct claim passages and supporting geography / lineage / reception passages
-- stable fit without excessive lexical rescue or forced reassignment
+An atom page should cover:
 
-Every argument cluster should also pass a simple convergence test: what does passage B add that passage A did not already supply, and how does that added detail narrow the candidate profile? If the answer is only "same theme again," the cluster should be downgraded or treated as contextual support.
+- the thesis-relevant claim
+- the local reasoning
+- the verse's local significance
+- the verse's networked significance
+- an optional brief objection note
+- the contribution summary
 
-### 5. Inference boundaries must stay visible
-The repository distinguishes four source-status levels, adapted from the skill's inference-boundary discipline:
+An atom should not try to settle the whole thesis.
 
-- `[anchored]`: directly promoted from corpus findings into a passage or range page
-- `[synthesis]`: requires combining multiple promoted pages without adding a new thesis
-- `[inference]`: a reasoned extension beyond what any one passage page states
-- `[speculative]`: interesting but too thin or too unstable to govern the project
+### Local Combined Passages
+Use a combined page when nearby verses make one local movement that should be understood together before being promoted.
 
-These markers should appear in promoted verse pages, combined passage pages, `KHALAS.md`, argument clusters, and contributor decisions.
+A combined page should show:
+
+- why the passage belongs together
+- what additional force appears at range level
+- what the local movement establishes
+- how the passage feeds higher-order clustering
+
+### Cluster Pages
+Use a cluster page when multiple passages do the same inferential job.
+
+A cluster page should show:
+
+- the cluster claim
+- why the members belong together
+- what distinct force the cluster adds
+- how it differs from adjacent clusters
+- how it supports convergence and cumulative synthesis
+
+### Convergence Pages
+Use a convergence page when distinct clusters reinforce one another.
+
+A convergence page should show:
+
+- the lines being combined
+- the new force created by their combination
+- why this is not redundancy
+- what objections weaken at the convergent level
+
+### Cumulative Synthesis
+Use a cumulative page when the ranked architecture itself becomes the argument.
+
+A cumulative page should show:
+
+- the order of force
+- the load-bearing versus corroborative distinction
+- how the case accumulates
+- why weaker lines do not govern the conclusion
+
+## Constructive Order
+Public-facing argument pages should normally follow this order:
+
+1. thesis-relevant claim
+2. reasoning
+3. local significance
+4. networked significance
+5. optional objection note
+6. contribution summary
+
+This order may be adapted for control pages, but the page must still explain positively why the control matters.
 
 ## Passage Classification
-Each thesis-relevant biblical passage is classified into one of four working roles.
+Each thesis-relevant biblical passage can still be classified into one or more working roles:
 
-### Direct
-The passage is used as a candidate prophecy, announcement, or strong anticipatory description.
+- direct
+- support
+- control
+- tentative
 
-Examples:
-
-- Deuteronomy 18:15-22
-- John 16:7-15
-- Isaiah 42:1-21
-
-### Support
-The passage does not by itself identify Muhammad, but it stabilizes lineage, geography, law, nationhood, or scope.
-
-Examples:
-
-- Genesis 17:20
-- Genesis 25:13
-- Ezekiel 27:21
-
-### Control
-The passage is used to test or challenge a competing reading.
-
-Examples:
-
-- Deuteronomy 34:10
-- John 7:39
-- John 20:22
-- 1 John 4:1-6
-
-### Tentative
-The passage appears in the corpus and may matter, but its current assignment is thin, highly lexical, or still too disputed to carry major project weight on its own.
+These roles guide rank. They do not determine tone.
 
 ## Probability Tiers
-The repo uses probability language in a research sense, not as a mathematical theorem.
+The repo continues to use research-style probability language:
 
-### High-convergence
-Use this when:
+- high-convergence
+- medium-convergence
+- tentative
+- control
 
-- the passage recurs across multiple working files
-- its role is stable across those files
-- it connects cleanly to other promoted passages
-- it does not rely mainly on a fragile lexical or geographic leap
-- each added passage contributes a distinct constraint rather than merely repeating a theme
-
-### Medium-convergence
-Use this when:
-
-- the passage is clearly thesis-relevant
-- but it depends more heavily on a supporting chain
-- or is concentrated in fewer works
-- or carries a larger interpretive step
-
-### Tentative
-Use this when:
-
-- the passage is real corpus material
-- but verse assignment, lexical argument, or claimed fulfillment remains unstable
-
-### Control
-Use this when the verse helps govern objections, alternate readings, or internal consistency tests rather than serving as the main prophecy claim.
+These labels describe current strength. They should not turn public pages into defensive summaries.
 
 ## Promotion Workflow
 ### 1. Extract
-Identify every thesis-relevant biblical reference from the working corpus.
+Identify every thesis-relevant biblical reference from working material.
 
 ### 2. Normalize
-Normalize canon, book slug, chapter, and verse or range.
+Normalize canon, book, chapter, and verse or range.
 
 ### 3. Classify
-Assign the passage one or more roles: direct, support, control, tentative.
+Assign roles such as direct, support, control, or tentative.
 
 ### 4. Promote narrowly
 Create:
 
 - the individual verse page
 - the local combined page if needed
-- the higher-order argument page if the claim crosses passages
+- the cluster page if the claim crosses passages
+- the convergence page if another cluster adds a distinct constraint
 
 ### 5. Record
 Update:
 
 - `BIBLE_ARGUMENT_INDEX.md`
 - `KHALAS.md`
+- `PROJECT_THESIS_AND_STRUCTURE.md` or `METHOD.md` where the architecture changes materially
 - `SORTING_AUDIT.md` when the corpus-routing picture changes materially
 
-### 6. State objections
-Every major combined or argument page should distinguish:
+### 6. Place objections at the right level
+Objection handling should match the level of the claim:
 
-- what the passage is being used to argue
-- what the main alternate readings are
-- what related clusters it depends on
+- local-context objections at verse or passage level
+- cluster rival readings at cluster level
+- redundancy versus reinforcement at convergence level
+- whole-case rival synthesis at cumulative level
 
 ## Corpus Integration Rule
 The local corpus under `input/` is working material only.
@@ -168,15 +171,16 @@ It is not:
 - a provenance apparatus
 - a substitute for structured passage pages
 
-The repository should show the distilled argumentative structure that the corpus points toward, not the raw corpus itself.
+The repository should present source-neutral argument structure and disciplined prose, not raw extraction.
 
 ## Contributor Standard
 A contribution is method-complete when it:
 
 - promotes the narrowest justified verse pages
-- adds or updates the needed combined range page
-- adds or updates any required argument cluster
+- adds the needed combined passage page where local coherence matters
+- adds or updates the required cluster page
+- adds or updates the required convergence page where distinct lines reinforce each other
 - updates `KHALAS.md`
 - updates `BIBLE_ARGUMENT_INDEX.md`
-- does not dump raw source corpus into the repo
-
+- keeps the prose constructive, developed, and thesis-serving
+- does not copy working material into the repo

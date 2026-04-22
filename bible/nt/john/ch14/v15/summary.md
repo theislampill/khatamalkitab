@@ -1,32 +1,21 @@
-﻿# John 14:15
+# John 14:15
 
-## Page Type
-Atomic passage page
+`Status:` anchored. `Role:` review-only / not currently promoted. `Contribution:` low / audit only.
 
-## Passage-Specific Contribution
-- This passage contributes a specific john 14:15 support or control node already routed by the repository.
-- Its argumentative value is governed by the linked cluster, not by isolated citation.
-- The strongest alternative is the local canonical reading preserved in the linked cluster page.
+## Claim
+This passage contributes a specific john 14:15 support or control node already routed by the repository. Its argumentative value is governed by the linked cluster, not by isolated citation.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: low / audit only
-- Role: review-only / not currently promoted
+## Reasoning
+This page functions as tentative or review-heavy. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. The fuller identification question is therefore handled at cluster or convergence level rather than being forced onto this single page.
 
-## Argumentative Use
-- This page functions as tentative or review-heavy.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+## Local Significance
+Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
 
-## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+## Networked Significance
+Within the wider repository, this page matters because it keeps the larger case anchored to a specific local textual contribution rather than to free-floating summary.
 
-## Dependency Links
-- No cross-passage cluster assigned yet.
+## Objection Note
+The main competing reading is the local canonical reading preserved in the linked cluster page. That objection belongs here as a real boundary, but the page still contributes its direct local profile while the larger question is tested at higher levels.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
-
-
+## Contribution Summary
+Used this way, the page strengthens the thesis by securing a direct local predicate that later passages, clusters, and convergences can accumulate into a larger constructive case.

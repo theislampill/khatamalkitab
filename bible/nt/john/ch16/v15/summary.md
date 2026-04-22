@@ -1,33 +1,25 @@
-﻿# John 16:15
+# John 16:15
 
-## Page Type
-Atomic passage page
+`Status:` anchored. `Role:` Paraclete passage anchor or control, governed by range context. `Contribution:` high as a linked-cluster anchor; convergence is not assigned to this verse alone.
 
-## Passage-Specific Contribution
-- This verse explains the logic of the prior claim: what belongs to Jesus comes from the Father, and the coming figure or agency receives from that mediated stream.
-- It matters because any later reading must preserve that chain of dependence rather than detach the Paraclete from Jesus.
-- The strongest alternative is intra-Christian Spirit witness rather than later-prophet mission.
+## Claim
+This verse explains the logic of the prior claim: what belongs to Jesus comes from the Father, and the coming figure or agency receives from that mediated stream. It matters because any later reading must preserve that chain of dependence rather than detach the Paraclete from Jesus.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: high as a linked-cluster anchor; convergence is not assigned to this verse alone
-- Role: Paraclete passage anchor or control, governed by range context
+## Reasoning
+Use this verse to define the mediated continuity required by the Paraclete cluster. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. The fuller identification question is therefore handled at cluster or convergence level rather than being forced onto this single page.
 
-## Argumentative Use
-- Use this verse to define the mediated continuity required by the Paraclete cluster.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+## Local Significance
+Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
 
-## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+## Networked Significance
+Within the wider repository, this page chiefly strengthens [Paraclete](../../../../../arguments/paraclete/summary.md) and [Paraclete And Subordination](../../../../../arguments/paraclete-and-subordination/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Dependency Links
-- [arguments/paraclete/summary.md](../../../../../arguments/paraclete/summary.md)
-- [arguments/paraclete-and-subordination/summary.md](../../../../../arguments/paraclete-and-subordination/summary.md)
+## Objection Note
+The main competing reading is intra-Christian Spirit witness rather than later-prophet mission. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
+## Contribution Summary
+Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
 
-
+## Linked Pages
+- [Paraclete](../../../../../arguments/paraclete/summary.md)
+- [Paraclete And Subordination](../../../../../arguments/paraclete-and-subordination/summary.md)

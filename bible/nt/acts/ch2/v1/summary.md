@@ -1,30 +1,24 @@
 # Acts 2:1
 
-## Page Type
-Atomic passage page
+`Status:` anchored. `Role:` Paraclete control anchor / Pentecost setting. `Contribution:` control; range-governed Pentecost event context.
 
-## Passage-Specific Contribution
-- This verse contributes the Pentecost setting: the disciples are gathered together when the event begins.
-- It matters as the opening event-context for the strongest Spirit/Pentecost control on Paraclete readings.
-- The strongest alternative is that the verse is only narrative setup unless read with the surrounding event sequence.
+## Claim
+This verse contributes the Pentecost setting: the disciples are gathered together when the event begins. It matters as the opening event-context for the strongest Spirit/Pentecost control on Paraclete readings.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: control; range-governed Pentecost event context
-- Role: Paraclete control anchor / Pentecost setting
+## Reasoning
+This page functions as a control anchor, governed by the Pentecost range. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. Identification of the Prophet (peace be upon him) from this verse is not a verse-level claim.
 
-## Argumentative Use
-- This page functions as a control anchor, governed by the Pentecost range.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this verse is not a verse-level claim.
+## Local Significance
+Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
 
-## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be treated as narrative setup within the Pentecost control.
+## Networked Significance
+Within the wider repository, this page chiefly strengthens [Paraclete](../../../../../arguments/paraclete/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Dependency Links
-- [arguments/paraclete/summary.md](../../../../../arguments/paraclete/summary.md)
+## Objection Note
+The main competing reading takes the passage as the verse is only narrative setup unless read with the surrounding event sequence. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
 
-## Failure Modes
-- Do not use this verse as an isolated proof text.
-- Do not detach it from the Pentecost event sequence.
-- Do not hide the Spirit/Pentecost control role when using the linked cluster.
+## Contribution Summary
+Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
+
+## Linked Pages
+- [Paraclete](../../../../../arguments/paraclete/summary.md)

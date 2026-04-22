@@ -1,37 +1,26 @@
-﻿# John 1:19-21
+# John 1:19-21
 
-## Page Type
-Local combined passage page
+`Status:` anchored. `Role:` context/control for expected-prophet categories. `Contribution:` control; tests or constrains linked clusters.
 
-## Passage-Specific Contribution
-- This passage distinguishes Messiah, Elijah, and "the Prophet" in an interrogation scene.
-- It matters because it keeps expected-prophet categories visible in first-century discourse and resists collapsing them into one undifferentiated expectation.
-- The strongest alternative is that the scene is fully resolved inside John's witness to Jesus.
+## Claim
+This passage distinguishes Messiah, Elijah, and "the Prophet" in an interrogation scene. It matters because it keeps expected-prophet categories visible in first-century discourse and resists collapsing them into one undifferentiated expectation.
 
-## Why This Range Matters
-- The range matters because the adjacent verses form one local argumentative unit; atomics remain available for verse-specific review.
+## Reasoning
+The adjacent verses form one local argumentative unit; atomics remain available for verse-specific review. At this level, the page serves as a control that clarifies the limits the larger argument must respect.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: control; tests or constrains linked clusters
-- Role: context/control for expected-prophet categories
+## Local Significance
+Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
 
-## Argumentative Use
-- Use this page to show that Messiah, Elijah, and "the Prophet" can still function as differentiated categories within the Gospel's own horizon.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+## Networked Significance
+Within the wider repository, this page chiefly strengthens [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md), [Messenger Before Arrival](../../../../../arguments/messenger-before-arrival/summary.md), and [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+## Objection Note
+The main competing reading takes the passage as the scene is fully resolved inside John's witness to Jesus. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
 
-## Dependency Links
-- [arguments/prophet-like-moses/summary.md](../../../../../arguments/prophet-like-moses/summary.md)
-- [arguments/messenger-before-arrival/summary.md](../../../../../arguments/messenger-before-arrival/summary.md)
-- [arguments/live-prophetic-expectation/summary.md](../../../../../arguments/live-prophetic-expectation/summary.md)
+## Contribution Summary
+Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
-
-
+## Linked Pages
+- [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md)
+- [Messenger Before Arrival](../../../../../arguments/messenger-before-arrival/summary.md)
+- [Live Prophetic Expectation](../../../../../arguments/live-prophetic-expectation/summary.md)

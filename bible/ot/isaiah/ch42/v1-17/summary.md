@@ -1,38 +1,28 @@
-﻿# Isaiah 42:1-17
+# Isaiah 42:1-17
 
-## Page Type
-Local combined passage page
+`Status:` anchored. `Role:` supporting passage anchor for the servant/Kedar mission profile. `Contribution:` support; major member of the narrowing complex.
 
-## Passage-Specific Contribution
-- This verse introduces the chosen servant profile that governs the Isaiah 42 cluster.
-- It matters because later servant, law, nations, Kedar, and victory details must be read as a sequence rather than isolated words.
-- The strongest alternatives are corporate Israel, Jesus, or a servant-cycle figure.
+## Claim
+This passage is the local center of the servant/Kedar argument. Its importance lies in the fact that servant language, justice, law to the nations, anti-idolatry contrast, new praise, Kedar/Sela references, and victory imagery occur within one passage movement rather than as disconnected proof fragments. That makes the range a major support anchor for the repo's narrowing complex.
 
-## Why This Range Matters
-- The range matters because servant profile, law to nations, anti-idolatry, new song, Kedar/Sela, and victory language accumulate inside one local unit.
+## Reasoning
+The passage matters because its features accumulate inside one unit. The servant is presented publicly, not privately. Law and justice are pushed outward toward the nations. New praise and Kedar/Sela language appear within the same local movement. Victory and anti-idolatry pressure frame the mission in public rather than purely devotional terms. That is why the repository uses this range to build a mission-shaped narrowing argument instead of relying on a single place-name or isolated servant phrase.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: support; convergence is governed by linked cluster pages
-- Role: supporting passage anchor; identification remains cluster-level synthesis
+## Local Significance
+At local level, Isaiah 42:1-17 shows that the servant profile and the Kedar-facing material belong to the same literary field. The passage therefore keeps later discussion honest: if Kedar is going to matter, it must matter within a broader servant and mission sequence, not as a detached lexical cue. That local integrity is what gives the page its real value.
 
-## Argumentative Use
-- Use this range to keep the servant argument local before it becomes cross-passage synthesis: servant, justice, law to nations, anti-idolatry, new song, Kedar/Sela, and victory must be evaluated together.
-- The range feeds [Arabian Servant And Kedar](../../../../../arguments/arabian-servant-and-kedar/summary.md) by joining mission profile with Arabian/Kedar geography, not by letting Kedar alone identify the servant.
-- Identification of the Prophet ﷺ remains cluster-level synthesis and must survive servant-cycle, Israel, and Jesus readings.
+## Networked Significance
+Within the wider repository, this range anchors [Arabian Servant And Kedar](../../../../../arguments/arabian-servant-and-kedar/summary.md) and supports [Candidate-Field Narrowing](../../../../../convergences/candidate-field-narrowing/summary.md) and [Public Guidance Convergence](../../../../../convergences/public-guidance-convergence/summary.md). It also interacts with [Paran And Arabia](../../../../../arguments/paran-and-arabia/summary.md), because the servant profile becomes historically directional when its Kedar-facing material meets the wider Arabian field.
 
-## Strongest Local Alternative
-- The strongest local alternative is that Isaiah 42 belongs to the servant-cycle: Israel, an ideal servant, or Jesus can explain the mission language, while Kedar/Sela may mark nations joining praise rather than the servant's identity.
+## Objection Note
+The strongest alternatives remain substantial: the servant may be read as Israel, an ideal servant, or Jesus, and the Kedar/Sela language may be read as a praise horizon rather than as candidate narrowing. Those readings keep the passage in support rank. Even so, the range remains one of the repo's most important secondary anchors because it joins public mission-profile material to the Arabian field in a way few other passages do.
 
-## Dependency Links
-- [arguments/arabian-servant-and-kedar/summary.md](../../../../../arguments/arabian-servant-and-kedar/summary.md)
-- [arguments/paran-and-arabia/summary.md](../../../../../arguments/paran-and-arabia/summary.md)
-- [arguments/ishmaelite-line-and-brethren/summary.md](../../../../../arguments/ishmaelite-line-and-brethren/summary.md)
-- [arguments/mahmad-and-praised-one/summary.md](../../../../../arguments/mahmad-and-praised-one/summary.md)
+## Contribution Summary
+Used this way, Isaiah 42:1-17 strengthens the thesis by supplying the mission-shaped narrowing pressure the cumulative case needs after the primary profile is already in place.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
-
-
+## Linked Pages
+- [Arabian Servant And Kedar](../../../../../arguments/arabian-servant-and-kedar/summary.md)
+- [Paran And Arabia](../../../../../arguments/paran-and-arabia/summary.md)
+- [Ishmaelite Line And Brethren](../../../../../arguments/ishmaelite-line-and-brethren/summary.md)
+- [Candidate-Field Narrowing](../../../../../convergences/candidate-field-narrowing/summary.md)
+- [Public Guidance Convergence](../../../../../convergences/public-guidance-convergence/summary.md)

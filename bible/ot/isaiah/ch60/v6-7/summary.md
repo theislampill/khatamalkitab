@@ -1,35 +1,26 @@
 # Isaiah 60:6-7
 
-## Page Type
-Local combined passage page
+`Status:` anchored. `Role:` candidate-field support; identification remains cluster-level synthesis. `Contribution:` support; secondary Kedar/sanctuary narrowing support.
 
-## Passage-Specific Contribution
-- This range contributes Arabian-associated caravan and flock imagery together with Kedar, Nebaioth, altar, and house-of-glory language.
-- It matters as secondary sanctuary/Kedar support within the wider Arabian candidate-field discussion.
-- The strongest alternative is that the range belongs to Zion-restoration imagery in which nations bring tribute and sacrifice to Jerusalem.
+## Claim
+This range contributes Arabian-associated caravan and flock imagery together with Kedar, Nebaioth, altar, and house-of-glory language. It matters as secondary sanctuary/Kedar support within the wider Arabian candidate-field discussion.
 
-## Why This Range Matters
-- The range matters because Arabian traffic and Kedar/Nebaioth sanctuary language work together here rather than as separate scattered motifs.
+## Reasoning
+Arabian traffic and Kedar/Nebaioth sanctuary language work together here rather than as separate scattered motifs. At this level, the page contributes a supporting constraint that becomes stronger when it is read inside the linked higher-order pages.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: support; secondary Kedar/sanctuary narrowing support
-- Role: candidate-field support; identification remains cluster-level synthesis
+## Local Significance
+Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
 
-## Argumentative Use
-- Use this range as secondary support for Arabian/Kedar and Ishmaelite narrowing, not as an independent proof.
-- The range feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage remains cluster-level synthesis unless the linked cluster explicitly states a narrower claim.
+## Networked Significance
+Within the wider repository, this page chiefly strengthens [Arabian Servant And Kedar](../../../../../arguments/arabian-servant-and-kedar/summary.md), [Ishmaelite Line And Brethren](../../../../../arguments/ishmaelite-line-and-brethren/summary.md), and [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if Zion-restoration and nations-bringing-tribute fully explain the range, it should remain subordinate support only.
+## Objection Note
+The main competing reading takes the passage as the range belongs to Zion-restoration imagery in which nations bring tribute and sacrifice to Jerusalem. That sets the page's proper rank, but it does not erase the supporting constraint the passage still contributes to the larger network.
 
-## Dependency Links
-- [arguments/arabian-servant-and-kedar/summary.md](../../../../../arguments/arabian-servant-and-kedar/summary.md)
-- [arguments/ishmaelite-line-and-brethren/summary.md](../../../../../arguments/ishmaelite-line-and-brethren/summary.md)
-- [arguments/kingdom-transfer/summary.md](../../../../../arguments/kingdom-transfer/summary.md)
+## Contribution Summary
+Used this way, the page strengthens the thesis by adding one more supporting constraint to the cumulative case and by helping the linked higher-order pages narrow or clarify the field.
 
-## Failure Modes
-- Do not use Kedar/Nebaioth alone as direct proof.
-- Do not detach altar and house-of-glory language from the Zion-restoration context.
-- Do not let this range outrank Isaiah 42 in the Arabian/Kedar architecture.
+## Linked Pages
+- [Arabian Servant And Kedar](../../../../../arguments/arabian-servant-and-kedar/summary.md)
+- [Ishmaelite Line And Brethren](../../../../../arguments/ishmaelite-line-and-brethren/summary.md)
+- [Kingdom Transfer](../../../../../arguments/kingdom-transfer/summary.md)

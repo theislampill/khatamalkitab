@@ -1,33 +1,25 @@
-﻿# John 12:49
+# John 12:49
 
-## Page Type
-Atomic passage page
+`Status:` anchored. `Role:` control / constraint. `Contribution:` control; tests or constrains linked clusters.
 
-## Passage-Specific Contribution
-- This verse contributes received-command and received-speech language in Jesus' own mission.
-- It matters as an internal Johannine precedent for mediated speech before any comparison is made to Deuteronomy 18 or the Paraclete.
-- The strongest alternative is that this belongs to Jesus' divine mission within Christian theology.
+## Claim
+This verse contributes received-command and received-speech language in Jesus' own mission. It matters as an internal Johannine precedent for mediated speech before any comparison is made to Deuteronomy 18 or the Paraclete.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: control; tests or constrains linked clusters
-- Role: control / constraint
+## Reasoning
+The page therefore works as a control node: it constrains the linked cluster and keeps larger claims proportionate. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. The fuller identification question is therefore handled at cluster or convergence level rather than being forced onto this single page.
 
-## Argumentative Use
-- This page functions according to the role above; when used as a control, it constrains the linked cluster rather than proving it.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+## Local Significance
+Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
 
-## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+## Networked Significance
+Within the wider repository, this page chiefly strengthens [Paraclete](../../../../../arguments/paraclete/summary.md) and [Paraclete And Subordination](../../../../../arguments/paraclete-and-subordination/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Dependency Links
-- [arguments/paraclete/summary.md](../../../../../arguments/paraclete/summary.md)
-- [arguments/paraclete-and-subordination/summary.md](../../../../../arguments/paraclete-and-subordination/summary.md)
+## Objection Note
+The main competing reading takes the passage as this belongs to Jesus' divine mission within Christian theology. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
+## Contribution Summary
+Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
 
-
+## Linked Pages
+- [Paraclete](../../../../../arguments/paraclete/summary.md)
+- [Paraclete And Subordination](../../../../../arguments/paraclete-and-subordination/summary.md)

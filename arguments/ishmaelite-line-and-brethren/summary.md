@@ -1,36 +1,34 @@
-﻿# Ishmaelite Line And Brethren
+# Ishmaelite Line And Brethren
 
-## Central Thesis
-[synthesis] This cluster tests eligibility and candidate-field routing. Ishmael, Kedar, and regional-brethren material can make an Ishmaelite candidate plausible within the Deuteronomy 18 “brothers/brethren” question, but it does not prove prophethood by itself.
+`Status:` [anchored] + [synthesis]. `Rank:` secondary, candidate-eligibility cluster.
 
-## Why These Passages Belong Together
-[Genesis 16:12](../../bible/ot/genesis/ch16/v12/summary.md) presents Ishmael as a distinct, free-standing line in relation to his brothers. [Genesis 17:20](../../bible/ot/genesis/ch17/v20/summary.md) gives blessing, multiplication, and twelve-prince nationhood. [Genesis 21:13-21](../../bible/ot/genesis/ch21/v13-21/summary.md) preserves divine care, survival, nationhood, and wilderness/Paran setting. [Genesis 25:13](../../bible/ot/genesis/ch25/v13/summary.md) names Kedar in the Ishmaelite line, and [Genesis 25:18](../../bible/ot/genesis/ch25/v18/summary.md) gives regional relation to brethren.
+## Cluster Claim
+This cluster secures candidate-field eligibility. Its role is not to prove prophethood by genealogy. Its role is to show that an Ishmaelite line, a Kedar branch, and a brethren relation remain textually available enough that the cumulative case does not have to exclude that field before the main prophet-profile is even considered.
 
-## Cumulative Profile
-The cluster supports a candidate field by blocking premature exclusion. Ishmael has a divinely preserved line, Kedar belongs to that line, and later Kedar/Arabia passages can connect to it. That does not identify a prophet, but it does keep an Ishmaelite candidate from being ruled out before the Deuteronomy 18 profile is even tested. This is eligibility pressure, not direct prediction.
+## Why This Cluster Matters
+[Genesis 16:12](../../bible/ot/genesis/ch16/v12/summary.md) presents Ishmael as a distinct line living in relation to his brothers. [Genesis 17:20](../../bible/ot/genesis/ch17/v20/summary.md) adds blessing, multiplication, and nationhood. [Genesis 21:13-21](../../bible/ot/genesis/ch21/v13-21/summary.md) preserves divine care, survival, and Paran settlement. [Genesis 25:13](../../bible/ot/genesis/ch25/v13/summary.md) names Kedar within the Ishmaelite line, while [Genesis 25:18](../../bible/ot/genesis/ch25/v18/summary.md) gives the regional relation to brethren. Taken together, these passages do not identify the Prophet (peace be upon him), but they prevent the later argument from pretending that lineage and candidate-field questions never arise.
 
-## Anchored Passages
+## Distinctive Force
+This cluster adds a very specific kind of force: eligibility. Without it, the cumulative case would have to jump from a prophet-profile directly to a historically identified candidate with no textual bridge for that candidate field. With it, the case can say something more disciplined: the field remains textually open enough that an Ishmaelite route cannot simply be ruled out in advance. That is why this cluster matters even though it is not a direct proof cluster.
+
+## Networked Significance
+This cluster works most powerfully inside [Candidate-Field Narrowing](../../convergences/candidate-field-narrowing/summary.md). There it combines with [Arabian Servant And Kedar](../arabian-servant-and-kedar/summary.md) and [Paran And Arabia](../paran-and-arabia/summary.md) to create a braided narrowing complex. It also matters to [Prophet Like Moses](../prophet-like-moses/summary.md), because the question of "brethren" becomes materially important only once a real later prophet-profile is already on the table.
+
+## Objection Note
+The main rival reading is straightforward: these texts can be read as genealogy and geography only, while "brethren" in Deuteronomy 18 remains Israelite. That objection keeps the cluster in its proper rank. It does not remove the cluster's value. Even if lineage alone proves nothing, it still performs a necessary architectural job by keeping the candidate field open rather than prematurely closed.
+
+## Contribution Summary
+This cluster strengthens the thesis by preventing a false narrowing of the field. It keeps lineage and kinship questions textually live so that the later cumulative case can move from office-profile to candidate-field with a real intermediate step.
+
+## Core Passages
 - [Genesis 16:12](../../bible/ot/genesis/ch16/v12/summary.md)
 - [Genesis 17:20](../../bible/ot/genesis/ch17/v20/summary.md)
 - [Genesis 21:13-21](../../bible/ot/genesis/ch21/v13-21/summary.md)
 - [Genesis 25:13](../../bible/ot/genesis/ch25/v13/summary.md)
 - [Genesis 25:18](../../bible/ot/genesis/ch25/v18/summary.md)
 
-## Supporting Bridge Passages
+## Supporting Bridge Links
 - [Ezekiel 27:21](../../bible/ot/ezekiel/ch27/v21/summary.md)
 - [Isaiah 42:11](../../bible/ot/isaiah/ch42/v11/summary.md)
-
-## Strongest Alternative Synthesis
-The rival reading treats these texts as genealogy and geography only. “Brethren” in Deuteronomy may remain Israelite, and Kedar may be background geography rather than a prophetic route.
-
-## Inference Boundary
-[anchored] Ishmael, Kedar, and brethren-line data are real textual anchors. [synthesis] Their relevance depends on Deuteronomy 18 and the Arabian/Kedar clusters. [inference] Later lineage applications remain candidate-field reasoning, not verse-level proof.
-
-## Load-Bearing Status
-Supportive constraint. It is load-bearing for candidate eligibility, not for prophecy identification.
-
-## Failure Modes
-- Do not make genealogy substitute for prophecy.
-- Do not hide the Israelite-only reading of “brethren.”
-- Do not use external lineage claims as if they were canonical verse content.
-
+- [Candidate-Field Narrowing](../../convergences/candidate-field-narrowing/summary.md)
+- [Prophet Like Moses](../prophet-like-moses/summary.md)

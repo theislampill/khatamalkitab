@@ -1,35 +1,24 @@
-﻿# Acts 21:20-26
+# Acts 21:20-26
 
-## Page Type
-Local combined passage page
+`Status:` anchored. `Role:` law-continuity control. `Contribution:` control; tests or constrains linked clusters.
 
-## Passage-Specific Contribution
-- This passage contributes early Jewish-Christian Torah observance and communal perception pressure.
-- It matters as law-continuity control, not as prophecy support.
-- The strongest alternative is pastoral accommodation within Acts rather than a general law-continuity rule.
+## Claim
+This passage contributes early Jewish-Christian Torah observance and communal perception pressure. It matters as law-continuity control, not as prophecy support.
 
-## Why This Range Matters
-- The range matters because the law-continuity control depends on the whole scene of Jewish believers, reputation, and public observance.
+## Reasoning
+The law-continuity control depends on the whole scene of Jewish believers, reputation, and public observance. At this level, the page serves as a control that clarifies the limits the larger argument must respect.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: control; tests or constrains linked clusters
-- Role: law-continuity control
+## Local Significance
+Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
 
-## Argumentative Use
-- This page functions according to the role above; when used as a control, it constrains the linked cluster rather than proving it.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+## Networked Significance
+Within the wider repository, this page chiefly strengthens [Law Continuity Control](../../../../../arguments/law-continuity-control/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+## Objection Note
+The main competing reading is pastoral accommodation within Acts rather than a general law-continuity rule. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
 
-## Dependency Links
-- [arguments/law-continuity-control/summary.md](../../../../../arguments/law-continuity-control/summary.md)
+## Contribution Summary
+Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
-
-
+## Linked Pages
+- [Law Continuity Control](../../../../../arguments/law-continuity-control/summary.md)

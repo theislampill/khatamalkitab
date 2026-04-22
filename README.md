@@ -1,6 +1,6 @@
-﻿# khatamalkitab: The Prophet ﷺ Fulfilled the Biblical Expectation
+# khatamalkitab: The Prophet (peace be upon him) Fulfilled the Biblical Expectation
 
-> Collaborative research presenting the cumulative, decisive case that the Prophet ﷺ fulfills the Biblical prophetic expectation, organised by canon, book, chapter, verse, and argument cluster.
+> Collaborative research presenting the cumulative case that the Prophet (peace be upon him) fulfills the biblical prophetic expectation through verse pages, passage pages, cluster pages, convergence pages, and cumulative synthesis.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -8,23 +8,17 @@
 - [Corpus Integration](#corpus-integration)
 - [Repository Structure](#repository-structure)
 - [Method](#method)
-- [Current Findings](#current-findings)
+- [Current Architecture](#current-architecture)
 - [Working Material Policy](#working-material-policy)
 - [Contributing](#contributing)
 
 ## Overview
-This repository is for collaborative research on the Prophet ﷺ in the Bible. Its governing conclusion is that the Prophet ﷺ fulfilled the Biblical prophetic expectation, and that this conclusion is properly known, conclusive, and decisive when the passage families are read cumulatively.
+This repository is a structured research workspace for presenting and refining the case that the Prophet (peace be upon him) fulfills the biblical prophetic expectation. Its argument is cumulative by design: the strongest pages do not force one verse to prove everything, but instead let local findings rise into coherent passages, clusters, convergences, and a final synthesis.
 
-The repository is structured so contributors can work at verse level, local passage level, and higher-order argument-cluster level without flattening the thesis into one document.
-
-The repo is intentionally not a transcription archive. It is a structured research workspace.
+The goal is not merely to catalogue candidate texts. The goal is to show, clearly and constructively, what each passage contributes, why it matters, and how the larger case accumulates.
 
 ## Project Status
-This project is vibe-coded and actively in progress. Treat the current structure and findings as reviewable scaffolding, not final editorial authority.
-
-That status concerns the repository's organization, coverage, and presentation. It is not a retreat from the governing thesis that the Prophet ﷺ decisively fulfills the Biblical expectation.
-
-Contributors and maintainers are welcome, especially people who can improve passage routing, tighten argument clusters, review methodology, or bring careful prior research into the per-verse structure.
+The repository remains actively in progress. That status concerns coverage, routing, and editorial refinement. It does not retreat from the governing thesis. Instead, it means the project is being shaped into a clearer and more persuasive architecture so contributors can strengthen the case at the right level.
 
 ## Corpus Integration
 The local corpus is integrated into the repository by distillation, classification, and routing, not by republication.
@@ -33,62 +27,48 @@ In practice that means:
 
 - working materials are read from local `input/` files
 - thesis-relevant findings are normalized into `bible/<canon>/<book>/ch<chapter>/v<verse>/`
-- adjacent verses that function together also get local combined pages
-- multi-passage claims are routed into `arguments/`
-- findings status and methodological notes are tracked in top-level docs
+- adjacent verses that function together also receive local combined pages
+- recurring inferential families are routed into `arguments/`
+- distinct reinforcing families are promoted into `convergences/`
+- cumulative synthesis is gathered in `KHALAS.md`
 
-The repository exposes the substance of corpus integration through the page structure itself:
-
-- verse pages for atomic discussion
-- range pages for local coherence
-- argument pages for cumulative reasoning
-- `KHALAS.md` for the current findings ledger
-- `METHOD.md` for the governing research method
-
-This keeps the project transparent for collaborators while avoiding source-dump behavior. Explicit citations of corpus working materials should not be presented in public-facing pages; contributors should preserve the substance through structured routing and synthesis.
+This keeps the project source-neutral and public-facing while still preserving the reasoning pressure discovered in the working corpus.
 
 ## Repository Structure
 - `bible/ot/`, `bible/nt/`, `bible/apoc/`: canon spine
 - `bible/<canon>/<book>/ch<chapter>/v<verse>/summary.md`: atomic verse pages
 - `bible/<canon>/<book>/ch<chapter>/v<start>-<end>/summary.md`: local combined passage pages
-- `arguments/`: higher-order cross-passage synthesis pages
+- `arguments/`: higher-order cluster pages
+- `convergences/`: higher-order convergence pages
 - `BIBLE_ARGUMENT_INDEX.md`: routing index of current page nodes
-- `PROJECT_THESIS_AND_STRUCTURE.md`: project thesis and structure
+- `PROJECT_THESIS_AND_STRUCTURE.md`: project thesis and architecture
 - `SORTING_AUDIT.md`: corpus sorting audit
-- `KHALAS.md`: current findings ledger
+- `KHALAS.md`: cumulative findings ledger and final synthesis
 - `METHOD.md`: methodological framework
-- `CONTRIBUTE.md`: pull request expectations
+- `CONTRIBUTE.md`: contribution expectations
 
 ## Method
 The working method is described in [METHOD.md](METHOD.md).
 
 In short:
 
-- diagnose the role of a passage before promoting it
 - promote the narrowest justified verse or range
-- keep direct claims, support claims, and control passages distinct
+- keep direct anchors, support, controls, dependent syntheses, and corroborative lines distinct
+- present positive force before objections
 - use convergence rather than isolated proof-texting
-- mark inference boundaries honestly
-- preserve serious alternate readings and failure modes
+- preserve serious rival readings without letting them dominate framing
+- keep cumulative synthesis ranked and disciplined
 
-## Current Findings
-The current findings ledger is in [KHALAS.md](KHALAS.md).
+## Current Architecture
+The repo's current architecture is strongest when read in this order:
 
-The present repository structure includes verse-level pages, combined local range pages, and argument-cluster pages for:
+1. primary profile clusters such as Prophet Like Moses and Paraclete
+2. candidate-field narrowing clusters such as Arabian Servant And Kedar, Ishmaelite Line And Brethren, and Paran And Arabia
+3. anti-closure and control clusters such as Live Prophetic Expectation and Law Continuity Control
+4. convergence pages that show how distinct lines reinforce one another
+5. `KHALAS.md` as the cumulative synthesis
 
-- Prophet Like Moses
-- Paraclete
-- Messenger Before Arrival
-- Ishmaelite Line And Brethren
-- Paran And Arabia
-- Arabian Servant And Kedar
-- Live Prophetic Expectation
-- Law Continuity Control
-- Kingdom Transfer
-- Unlettered Prophet
-- Baca And Pilgrimage
-- Mahmad And Praised-One
-- related control and synthesis clusters
+This lets the reader move from local argument to broader force without flattening the case into one proof text or one summary page.
 
 ## Working Material Policy
 Files under `input/` are working material only.
@@ -98,12 +78,11 @@ They are used to:
 - identify passages
 - compare argument patterns
 - decide routing
-- expand or narrow the repository structure
+- refine the repo's architecture
 
-They are not repository deliverables and should not be copied into the public repo structure as raw transcription content.
+They are not repository deliverables and should not be copied into public-facing pages as raw transcription content.
 
 ## Contributing
 Contribution expectations are in [CONTRIBUTE.md](CONTRIBUTE.md).
 
-If you are opening a PR based on your own paper, notes, reading, or missing passages you noticed in another corpus, start there first.
-
+The best contributions strengthen the constructive case at the correct level: verse, passage, cluster, convergence, or cumulative synthesis.

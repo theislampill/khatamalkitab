@@ -1,36 +1,26 @@
-﻿# Genesis 21:13-21
+# Genesis 21:13-21
 
-## Page Type
-Local combined passage page
+`Status:` anchored. `Role:` supporting passage anchor for lineage and geography. `Contribution:` support; key bridge in the narrowing complex.
 
-## Passage-Specific Contribution
-- This passage contributes Ishmael's survival, divine care, nationhood promise, wilderness setting, and Paran settlement.
-- It matters because it joins lineage with geography before the later Kedar/Arabia support pages are considered.
-- The strongest alternative is that the passage narrates Ishmael's preservation without predicting a later prophet.
+## Claim
+This passage joins several elements the later argument needs kept together: Ishmael's preservation, divine care, nationhood, wilderness setting, and Paran settlement. Its importance lies in combining lineage and geography in one narrative unit before later Kedar and Arabian passages are added.
 
-## Why This Range Matters
-- The range matters because Ishmael's preservation, nationhood, divine care, and Paran settlement are one narrative support unit.
+## Reasoning
+The range matters because its parts interpret one another. Ishmael is not merely mentioned and then dropped. The passage preserves him as a divinely seen and preserved line, joins that preservation to nationhood, and locates the outcome in Paran. That does not identify a later prophet by itself, but it creates a real bridge between genealogical material and geographic narrowing, which is exactly the sort of step the cumulative case needs.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: support; convergence is governed by linked cluster pages
-- Role: supporting passage anchor; identification remains cluster-level synthesis
+## Local Significance
+At local level, Genesis 21:13-21 prevents the lineage argument from becoming abstract. The passage gives a narrative form to the later eligibility and geography discussions by showing that survival, blessing, and settlement belong to one movement. That is why the repo treats the range as stronger than any one verse inside it read in isolation.
 
-## Argumentative Use
-- Use this range as lineage-and-geography support: Ishmael is preserved, promised nationhood, and placed into the wilderness/Paran setting.
-- The range feeds [Ishmaelite Line And Brethren](../../../../../arguments/ishmaelite-line-and-brethren/summary.md) and [Paran And Arabia](../../../../../arguments/paran-and-arabia/summary.md) by connecting person-line and place-field before later Kedar passages are invoked.
-- Identification of the Prophet ﷺ remains cluster-level synthesis; this narrative does not itself announce a later prophet.
+## Networked Significance
+Within the wider repository, this range strengthens [Ishmaelite Line And Brethren](../../../../../arguments/ishmaelite-line-and-brethren/summary.md), [Paran And Arabia](../../../../../arguments/paran-and-arabia/summary.md), and the broader [Candidate-Field Narrowing](../../../../../convergences/candidate-field-narrowing/summary.md). It is one of the pages that allows the repo to move from office-profile to historically directional field without leaping over the middle steps.
 
-## Strongest Local Alternative
-- The strongest local alternative is that Genesis 21 narrates Ishmael's preservation and settlement without predictive force. If so, the passage remains background lineage/geography rather than prophecy support.
+## Objection Note
+The main competing reading is that the passage narrates Ishmael's preservation and settlement without predicting a later prophet. That objection sets the page's rank correctly. It does not erase the page's contribution, because the repo is not using the passage as direct identification proof. It is using it to secure a lineage-and-geography bridge inside the narrowing complex.
 
-## Dependency Links
-- [arguments/ishmaelite-line-and-brethren/summary.md](../../../../../arguments/ishmaelite-line-and-brethren/summary.md)
-- [arguments/paran-and-arabia/summary.md](../../../../../arguments/paran-and-arabia/summary.md)
+## Contribution Summary
+Used this way, Genesis 21:13-21 strengthens the thesis by giving the cumulative case a concrete transition from eligibility to region, which later Kedar and Arabian passages can then reinforce.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
-
-
+## Linked Pages
+- [Ishmaelite Line And Brethren](../../../../../arguments/ishmaelite-line-and-brethren/summary.md)
+- [Paran And Arabia](../../../../../arguments/paran-and-arabia/summary.md)
+- [Candidate-Field Narrowing](../../../../../convergences/candidate-field-narrowing/summary.md)

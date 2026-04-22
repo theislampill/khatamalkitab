@@ -1,32 +1,24 @@
-﻿# John 16:7
+# John 16:7
 
-## Page Type
-Atomic passage page
+`Status:` anchored. `Role:` departure-conditioned coming. `Contribution:` direct verse anchor within the Paraclete range.
 
-## Passage-Specific Contribution
-- This verse states the threshold condition of the sequence: Jesus' departure is said to make the coming of the Paraclete possible and advantageous.
-- It matters because timing is one of the cluster's strongest filters. The promised figure or agency is explicitly post-departure.
-- The strongest alternative is that Jesus is describing the Holy Spirit's post-resurrection/Pentecost work.
+## Claim
+This verse states the threshold condition of the sequence: Jesus' departure is said to make the coming of the Paraclete possible and advantageous. It matters because timing is one of the cluster's strongest filters. The promised figure or agency is explicitly post-departure.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: direct verse anchor within the Paraclete range
-- Role: departure-conditioned coming
+## Reasoning
+Use this verse for the departure-conditioned coming and advantage claim, not for the whole Paraclete profile by itself. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. The fuller identification question is therefore handled at cluster or convergence level rather than being forced onto this single page.
 
-## Argumentative Use
-- Use this verse for the departure-conditioned coming and advantage claim, not for the whole Paraclete profile by itself.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+## Local Significance
+Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
 
-## Strongest Local Alternative
-- The strongest local alternative is that Jesus is simply promising the Holy Spirit's post-resurrection coming to the disciples, with no later human-messenger remainder.
+## Networked Significance
+Within the wider repository, this page chiefly strengthens [Paraclete](../../../../../arguments/paraclete/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Dependency Links
-- [arguments/paraclete/summary.md](../../../../../arguments/paraclete/summary.md)
+## Objection Note
+The main competing reading takes the passage as Jesus is describing the Holy Spirit's post-resurrection/Pentecost work. That objection belongs here as a real boundary, but the page still contributes its direct local profile while the larger question is tested at higher levels.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
+## Contribution Summary
+Used this way, the page strengthens the thesis by securing a direct local predicate that later passages, clusters, and convergences can accumulate into a larger constructive case.
 
-
+## Linked Pages
+- [Paraclete](../../../../../arguments/paraclete/summary.md)

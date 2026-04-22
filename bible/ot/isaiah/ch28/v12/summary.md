@@ -1,32 +1,24 @@
-﻿# Isaiah 28:12
+# Isaiah 28:12
 
-## Page Type
-Atomic passage page
+`Status:` anchored. `Role:` supporting passage anchor; identification remains cluster-level synthesis. `Contribution:` support; convergence is governed by linked cluster pages.
 
-## Passage-Specific Contribution
-- This passage contributes strange-speech and rest/refusal motifs to the lower secondary unlettered/received-speech line.
-- It matters only as resonance after direct clusters stand.
-- The strongest alternative is Isaiah's local judgment context involving foreign speech and unreceptive hearers.
+## Claim
+This passage contributes strange-speech and rest/refusal motifs to the lower secondary unlettered/received-speech line. It matters only as resonance after direct clusters stand.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: support; convergence is governed by linked cluster pages
-- Role: supporting passage anchor; identification remains cluster-level synthesis
+## Reasoning
+The page therefore works as a supporting anchor inside its governing cluster. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. The fuller identification question is therefore handled at cluster or convergence level rather than being forced onto this single page.
 
-## Argumentative Use
-- This page functions as supportive anchor, governed by its cluster.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+## Local Significance
+Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
 
-## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+## Networked Significance
+Within the wider repository, this page chiefly strengthens [Unlettered Prophet](../../../../../arguments/unlettered-prophet/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Dependency Links
-- [arguments/unlettered-prophet/summary.md](../../../../../arguments/unlettered-prophet/summary.md)
+## Objection Note
+The main competing reading is Isaiah's local judgment context involving foreign speech and unreceptive hearers. That sets the page's proper rank, but it does not erase the supporting constraint the passage still contributes to the larger network.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
+## Contribution Summary
+Used this way, the page strengthens the thesis by adding one more supporting constraint to the cumulative case and by helping the linked higher-order pages narrow or clarify the field.
 
-
+## Linked Pages
+- [Unlettered Prophet](../../../../../arguments/unlettered-prophet/summary.md)

@@ -1,33 +1,31 @@
-﻿# Baca And Pilgrimage
+# Baca And Pilgrimage
 
-## Central Thesis
-[inference] This is sacred-geography resonance, not direct proof. Psalm 84's Baca and pilgrimage-to-house-of-God imagery can matter only after the Arabian geography cluster is already established.
+`Status:` [inference]. `Rank:` corroborative and tentative.
 
-## Why These Passages Belong Together
-[Psalms 84:4-10](../../bible/ot/psalms/ch84/v4-10/summary.md) supplies pilgrimage longing, blessed travel, Baca, and house-of-God language. [Psalms 84:6](../../bible/ot/psalms/ch84/v6/summary.md) is the atomic Baca node. [Isaiah 60:1-12](../../bible/ot/isaiah/ch60/v1-12/summary.md) and [Song of Songs 6:2](../../bible/ot/song-of-songs/ch6/v2/summary.md) are included only as secondary atmosphere around sacred location, gathering, and garden/pasture imagery.
+## Cluster Claim
+This cluster preserves the repo's sacred-geography resonance line. It is not meant to function as a direct proof or as a decisive geography argument. Its proper use is later and cumulative: once the primary profile and the main narrowing complex are already in place, pilgrimage and sanctuary imagery may add a secondary sense of fit around sacred location and gathered devotion.
 
-## Actual Pressure
-The convergence does not prove a location; it asks whether pilgrimage longing, a valley named Baca, and house-of-God devotion can coherently resonate with an Arabian sanctuary once Paran/Arabia has already narrowed the field. It fails as support if Baca is figurative, local, unknown, or Zion-centered, because then the cluster becomes devotional atmosphere rather than geographic corroboration.
+## Why This Cluster Matters
+[Psalms 84:4-10](../../bible/ot/psalms/ch84/v4-10/summary.md) and [Psalms 84:6](../../bible/ot/psalms/ch84/v6/summary.md) provide the core Baca and pilgrimage language. [Isaiah 60:1-12](../../bible/ot/isaiah/ch60/v1-12/summary.md) and [Song of Songs 6:2](../../bible/ot/song-of-songs/ch6/v2/summary.md) matter only as secondary atmosphere around gathering, sanctuary, or sacred-location imagery. The cluster should therefore remain deliberately narrow and carefully ranked.
 
-## Anchored Passages
+## Distinctive Force
+This line contributes not by proving a destination but by adding sacred-geography resonance once an Arabian field has already been made plausible elsewhere. That distinction matters. The cluster is useful precisely when it is not being asked to do more than it can carry.
+
+## Networked Significance
+This page belongs near the end of the route, after [Candidate-Field Narrowing](../../convergences/candidate-field-narrowing/summary.md) and not before it. It is best read as a corroborative companion to [Paran And Arabia](../paran-and-arabia/summary.md) rather than as an independent geographic engine.
+
+## Objection Note
+The main rival readings are familiar and strong: Baca may be figurative, local, unknown, or wholly Zion-centered. That is why the cluster remains tentative. Even so, the repo can still preserve the line as a later resonance without pretending it governs the final conclusion.
+
+## Contribution Summary
+This cluster strengthens the thesis only at the corroborative layer. Its proper value is to intensify cumulative fit once stronger lines have already done the essential argumentative work.
+
+## Core Passages
 - [Psalms 84:4-10](../../bible/ot/psalms/ch84/v4-10/summary.md)
 - [Psalms 84:6](../../bible/ot/psalms/ch84/v6/summary.md)
 
-## Supporting Passages
+## Supporting Links
 - [Isaiah 60:1-12](../../bible/ot/isaiah/ch60/v1-12/summary.md)
 - [Song of Songs 6:2](../../bible/ot/song-of-songs/ch6/v2/summary.md)
-
-## Strongest Alternative Synthesis
-Baca may be figurative, local, unknown, or Zion-centered. Pilgrimage imagery may belong entirely to Israel's temple worship and not to Makkah.
-
-## Inference Boundary
-[anchored] Psalm 84 contains Baca/pilgrimage language. [inference] Makkah-oriented use is tentative and dependent.
-
-## Load-Bearing Status
-Corroborative, dependent, and non-load-bearing.
-
-## Failure Modes
-- Do not treat Baca as self-evidently Makkah.
-- Do not let pilgrimage imagery replace direct prophecy arguments.
-- Do not make Isaiah 60 or Song of Songs carry geographic proof.
-
+- [Candidate-Field Narrowing](../../convergences/candidate-field-narrowing/summary.md)
+- [KHALAS](../../KHALAS.md)

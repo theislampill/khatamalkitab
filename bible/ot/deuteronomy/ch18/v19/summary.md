@@ -1,32 +1,21 @@
-﻿# Deuteronomy 18:19
+# Deuteronomy 18:19
 
-## Page Type
-Atomic passage page
+`Status:` anchored. `Role:` accountability and consequence within the promise. `Contribution:` direct verse anchor within the Deuteronomy 18 range.
 
-## Passage-Specific Contribution
-- This verse supplies the accountability edge of the promise: the hearer who refuses the prophet's God-given words must answer to God.
-- Its argumentative pressure is covenantal consequence, not merely verbal similarity to the prior verse.
-- It matters because it shows the promised figure bears an obedience-demanding office, not just inspirational status.
+## Claim
+This verse supplies the accountability edge of the promise: the hearer who refuses the prophet's God-given words must answer to God. Its argumentative pressure is covenantal consequence, not merely verbal similarity to the prior verse. It matters because it shows the promised figure bears an obedience-demanding office, not just inspirational status.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: direct verse anchor within the Deuteronomy 18 range
-- Role: accountability and consequence within the promise
+## Reasoning
+Use this verse when the argument needs the response-liability dimension of the Moses-like office. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. The fuller identification question is therefore handled at cluster or convergence level rather than being forced onto this single page.
 
-## Argumentative Use
-- Use this verse when the argument needs the response-liability dimension of the Moses-like office.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+## Local Significance
+Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
 
-## Strongest Local Alternative
-- The strongest local alternative is that this verse belongs wholly to Israel's internal prophetic order, so the threatened accountability never points beyond that setting.
+## Networked Significance
+Within the wider repository, this page chiefly strengthens [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Dependency Links
-- [arguments/prophet-like-moses/summary.md](../../../../../arguments/prophet-like-moses/summary.md)
+## Contribution Summary
+Used this way, the page strengthens the thesis by securing a direct local predicate that later passages, clusters, and convergences can accumulate into a larger constructive case.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
-
-
+## Linked Pages
+- [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md)

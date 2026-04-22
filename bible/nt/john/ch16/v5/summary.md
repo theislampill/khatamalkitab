@@ -1,32 +1,24 @@
-﻿# John 16:5
+# John 16:5
 
-## Page Type
-Atomic passage page
+`Status:` anchored. `Role:` departure setup / contextual support. `Contribution:` support within the primary Paraclete range.
 
-## Passage-Specific Contribution
-- This verse sets the immediate scene for the Paraclete promise: Jesus is going to the one who sent him, and the disciples are too overwhelmed to ask where he is going.
-- Its argumentative value is preparatory. It explains why departure becomes the threshold condition in the verses that follow.
-- The strongest alternative is the local farewell-discourse reading in which the verse is only narrative setup for the disciples' coming Spirit consolation.
+## Claim
+This verse sets the immediate scene for the Paraclete promise: Jesus is going to the one who sent him, and the disciples are too overwhelmed to ask where he is going. Its argumentative value is preparatory. It explains why departure becomes the threshold condition in the verses that follow.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: support within the primary Paraclete range
-- Role: departure setup / contextual support
+## Reasoning
+Use this verse to explain the immediate departure setting of the Paraclete promise, not as a standalone proof. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. The fuller identification question is therefore handled at cluster or convergence level rather than being forced onto this single page.
 
-## Argumentative Use
-- Use this verse to explain the immediate departure setting of the Paraclete promise, not as a standalone proof.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+## Local Significance
+Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
 
-## Strongest Local Alternative
-- The strongest local alternative is that the verse is only transitional discourse material and carries no separate argumentative pressure beyond its immediate context.
+## Networked Significance
+Within the wider repository, this page chiefly strengthens [Paraclete](../../../../../arguments/paraclete/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Dependency Links
-- [arguments/paraclete/summary.md](../../../../../arguments/paraclete/summary.md)
+## Objection Note
+The main competing reading is the local farewell-discourse reading in which the verse is only narrative setup for the disciples' coming Spirit consolation. That sets the page's proper rank, but it does not erase the supporting constraint the passage still contributes to the larger network.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
+## Contribution Summary
+Used this way, the page strengthens the thesis by adding one more supporting constraint to the cumulative case and by helping the linked higher-order pages narrow or clarify the field.
 
-
+## Linked Pages
+- [Paraclete](../../../../../arguments/paraclete/summary.md)

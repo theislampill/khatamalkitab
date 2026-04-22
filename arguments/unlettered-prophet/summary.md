@@ -1,34 +1,31 @@
-﻿# Unlettered Prophet
+# Unlettered Prophet
 
-## Central Thesis
-[inference] This cluster is a secondary received-revelation support line. Isaiah 28 and Isaiah 29 are not the same argument: one concerns strange/foreign speech, while the other concerns sealed or unread book imagery. Their possible fit with an unlettered/received-recitation profile is dependent and non-load-bearing.
+`Status:` [inference] with anchored motifs. `Rank:` corroborative and non-load-bearing.
 
-## Why These Passages Belong Together
-[Isaiah 28:11-12](../../bible/ot/isaiah/ch28/v11-12/summary.md) contributes strange-speech judgment language. [Isaiah 29:11-12](../../bible/ot/isaiah/ch29/v11-12/summary.md) contributes sealed-book and unread-book imagery. [Deuteronomy 18:18](../../bible/ot/deuteronomy/ch18/v18/summary.md) and [John 16:13](../../bible/nt/john/ch16/v13/summary.md) contribute received-speech logic from stronger clusters.
+## Cluster Claim
+This cluster preserves a limited but real corroborative line around received revelation, unread or sealed text imagery, and strange-speech motifs. Its value is not that it can prove the thesis. Its value is that, once the stronger direct and narrowing lines are already in place, it can add a secondary texture of fit around received speech and mediated revelation.
 
-## Actual Pressure
-The convergence does two limited things: it adds a received-revelation texture to the primary “words in the mouth / speaks what he hears” profile, and it warns that unread or strange-speech motifs can be noticed without being made decisive. It fails if Isaiah 28 and 29 are fully contained by local judgment, foreign speech, and sealed-revelation imagery with no legitimate secondary resonance.
+## Why This Cluster Matters
+[Isaiah 28:11-12](../../bible/ot/isaiah/ch28/v11-12/summary.md) and [Isaiah 29:11-12](../../bible/ot/isaiah/ch29/v11-12/summary.md) do not make the same argument, and the repository should not flatten them into one. One preserves strange-speech judgment language; the other preserves sealed-book or unread-book imagery. [Deuteronomy 18:18](../../bible/ot/deuteronomy/ch18/v18/summary.md) and [John 16:13](../../bible/nt/john/ch16/v13/summary.md) matter here only as stronger parent lines about received speech. The cluster is therefore valuable when it stays modest and derivative.
 
-## Anchored Passages
+## Distinctive Force
+The best use of this cluster is confirmatory asymmetry. If the primary case is already standing, then motifs of unread instruction or received speech can deepen the sense of fit without governing the thesis. This gives the repo a way to keep the line available without letting it dominate pages it cannot carry.
+
+## Networked Significance
+This cluster belongs near the end of the cumulative route. It supports [KHALAS](../../KHALAS.md) as secondary corroboration and can also interact with [Primary Profile Convergence](../../convergences/primary-profile-convergence/summary.md) by echoing the broader received-speech architecture at a lower rank.
+
+## Objection Note
+The local Isaiah contexts remain the main constraint: judgment, blindness, foreign speech, and sealed revelation are already present in the passages themselves. That is why the cluster must remain corroborative. Used that way, it can still add something useful. Used as a primary proof, it would immediately weaken the repo.
+
+## Contribution Summary
+This cluster strengthens the thesis only after the stronger lines are already secure. It adds a modest secondary texture of fit around received revelation while remaining visibly non-load-bearing.
+
+## Core Passages
 - [Isaiah 28:11-12](../../bible/ot/isaiah/ch28/v11-12/summary.md)
 - [Isaiah 29:11-12](../../bible/ot/isaiah/ch29/v11-12/summary.md)
 - [Isaiah 29:12](../../bible/ot/isaiah/ch29/v12/summary.md)
 
-## Supporting Passages
+## Supporting Links
 - [Deuteronomy 18:18](../../bible/ot/deuteronomy/ch18/v18/summary.md)
 - [John 16:13](../../bible/nt/john/ch16/v13/summary.md)
-
-## Strongest Alternative Synthesis
-Isaiah 28 and 29 may belong to Isaiah's own judgment setting: foreign speech, drunken leaders, blindness, sealed revelation, and inability to receive instruction. Later biography can easily be imported into the text if the boundary is not guarded.
-
-## Inference Boundary
-[anchored] The Isaiah motifs exist. [inference] Application to the Prophet ﷺ is secondary and cannot carry the thesis alone.
-
-## Load-Bearing Status
-Lower secondary and non-load-bearing.
-
-## Failure Modes
-- Do not turn biography into exegesis without passage control.
-- Do not merge Isaiah 28 and Isaiah 29 as if they made one direct claim.
-- Do not ignore Isaiah's local judgment setting.
-
+- [KHALAS](../../KHALAS.md)

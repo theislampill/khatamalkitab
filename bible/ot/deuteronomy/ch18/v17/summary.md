@@ -1,32 +1,21 @@
-﻿# Deuteronomy 18:17
+# Deuteronomy 18:17
 
-## Page Type
-Atomic passage page
+`Status:` anchored. `Role:` divine ratification of Horeb mediation. `Contribution:` support within the primary direct range.
 
-## Passage-Specific Contribution
-- This verse records God's approval of the Horeb request: “They are right in what they have spoken.”
-- Its argumentative pressure is divine ratification of mediated revelation. The later prophet promise is not merely tolerated; it answers a request God endorses.
-- It matters because it strengthens the logic behind the Moses-like office without independently identifying the candidate.
+## Claim
+This verse records God's approval of the Horeb request: "They are right in what they have spoken.". Its argumentative pressure is divine ratification of mediated revelation. The later prophet promise is not merely tolerated; it answers a request God endorses. It matters because it strengthens the logic behind the Moses-like office without independently identifying the candidate.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: support within the primary direct range
-- Role: divine ratification of Horeb mediation
+## Reasoning
+Use this verse to show that the prophet promise answers a divinely affirmed need for mediation. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. The fuller identification question is therefore handled at cluster or convergence level rather than being forced onto this single page.
 
-## Argumentative Use
-- Use this verse to show that the prophet promise answers a divinely affirmed need for mediation.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+## Local Significance
+Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
 
-## Strongest Local Alternative
-- The strongest local alternative is that this verse is only a narrative bridge between Sinai/Horeb memory and ordinary Israelite prophecy, not a meaningful part of an open later-prophet horizon.
+## Networked Significance
+Within the wider repository, this page chiefly strengthens [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Dependency Links
-- [arguments/prophet-like-moses/summary.md](../../../../../arguments/prophet-like-moses/summary.md)
+## Contribution Summary
+Used this way, the page strengthens the thesis by adding one more supporting constraint to the cumulative case and by helping the linked higher-order pages narrow or clarify the field.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
-
-
+## Linked Pages
+- [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md)

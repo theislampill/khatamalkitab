@@ -1,35 +1,24 @@
-﻿# John 14:30-31
+# John 14:30-31
 
-## Page Type
-Local combined passage page
+`Status:` anchored. `Role:` context/control; not direct identification by itself. `Contribution:` control; tests or constrains linked clusters.
 
-## Passage-Specific Contribution
-- This passage contributes ruler-of-the-world and obedience/departure context around Jesus' mission.
-- It matters as Paraclete-context and subordination control.
-- The strongest alternative keeps it within Jesus' passion narrative rather than later-prophet identification.
+## Claim
+This passage contributes ruler-of-the-world and obedience/departure context around Jesus' mission. It matters as Paraclete-context and subordination control.
 
-## Why This Range Matters
-- The range matters because the adjacent verses form one local argumentative unit; atomics remain available for verse-specific review.
+## Reasoning
+The adjacent verses form one local argumentative unit; atomics remain available for verse-specific review. At this level, the page serves as a control that clarifies the limits the larger argument must respect.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: control; tests or constrains linked clusters
-- Role: context/control; not direct identification by itself
+## Local Significance
+Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
 
-## Argumentative Use
-- This page functions according to the role above; when used as a control, it constrains the linked cluster rather than proving it.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+## Networked Significance
+Within the wider repository, this page chiefly strengthens [Paraclete And Subordination](../../../../../arguments/paraclete-and-subordination/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+## Objection Note
+The strongest alternative keeps it within Jesus' passion narrative rather than later-prophet identification. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
 
-## Dependency Links
-- [arguments/paraclete-and-subordination/summary.md](../../../../../arguments/paraclete-and-subordination/summary.md)
+## Contribution Summary
+Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
-
-
+## Linked Pages
+- [Paraclete And Subordination](../../../../../arguments/paraclete-and-subordination/summary.md)

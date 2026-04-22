@@ -1,32 +1,24 @@
-﻿# John 16:8
+# John 16:8
 
-## Page Type
-Atomic passage page
+`Status:` anchored. `Role:` context/control; not direct identification by itself. `Contribution:` control; tests or constrains linked clusters.
 
-## Passage-Specific Contribution
-- This verse contributes world-facing conviction or exposure concerning sin, righteousness, and judgment.
-- It matters because the Paraclete's work is presented here as public and adversarial, not merely inward consolation.
-- The strongest alternative is that Jesus is describing the Holy Spirit's convicting work through the disciples and early Christian community.
+## Claim
+This verse contributes world-facing conviction or exposure concerning sin, righteousness, and judgment. It matters because the Paraclete's work is presented here as public and adversarial, not merely inward consolation.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: control; tests or constrains linked clusters
-- Role: context/control; not direct identification by itself
+## Reasoning
+The page therefore works as a control node: it constrains the linked cluster and keeps larger claims proportionate. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. The fuller identification question is therefore handled at cluster or convergence level rather than being forced onto this single page.
 
-## Argumentative Use
-- This page functions according to the role above; when used as a control, it constrains the linked cluster rather than proving it.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+## Local Significance
+Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
 
-## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+## Networked Significance
+Within the wider repository, this page chiefly strengthens [Paraclete](../../../../../arguments/paraclete/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Dependency Links
-- [arguments/paraclete/summary.md](../../../../../arguments/paraclete/summary.md)
+## Objection Note
+The main competing reading takes the passage as Jesus is describing the Holy Spirit's convicting work through the disciples and early Christian community. That competing reading does not cancel the page's value; it explains why the page belongs in the repo as a control that disciplines stronger claims.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
+## Contribution Summary
+Used this way, the page strengthens the thesis indirectly by keeping the larger case disciplined, proportionate, and textually anchored.
 
-
+## Linked Pages
+- [Paraclete](../../../../../arguments/paraclete/summary.md)

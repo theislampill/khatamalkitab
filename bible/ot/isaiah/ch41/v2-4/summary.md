@@ -1,35 +1,21 @@
-﻿# Isaiah 41:2-4
+# Isaiah 41:2-4
 
-## Page Type
-Local combined passage page
+`Status:` anchored. `Role:` review-only / not currently promoted. `Contribution:` low / audit only.
 
-## Passage-Specific Contribution
-- This passage contributes an eastern-agent motif retained only for review.
-- It matters as tentative resonance and should not govern the thesis.
-- The strongest alternative is Cyrus or another local historical agent.
+## Claim
+This passage contributes an eastern-agent motif retained only for review. It matters as tentative resonance and should not govern the thesis.
 
-## Why This Range Matters
-- The range matters because the adjacent verses form one local argumentative unit; atomics remain available for verse-specific review.
+## Reasoning
+The adjacent verses form one local argumentative unit; atomics remain available for verse-specific review. At this level, the page secures a direct local predicate that later cluster and convergence pages can build upon without forcing the verse or range to carry the whole thesis alone.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: low / audit only
-- Role: review-only / not currently promoted
+## Local Significance
+Read as a passage, this range gains force because its adjacent verses belong to one movement and explain one another. The local unit therefore does more than repeat its atom pages: it keeps promise, setting, sequence, warning, or imagery together so the argument is not fragmented.
 
-## Argumentative Use
-- This page functions as tentative or review-heavy.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+## Networked Significance
+Within the wider repository, this page matters because it keeps the larger case anchored to a specific local textual contribution rather than to free-floating summary.
 
-## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+## Objection Note
+The main competing reading is Cyrus or another local historical agent. That objection belongs here as a real boundary, but the page still contributes its direct local profile while the larger question is tested at higher levels.
 
-## Dependency Links
-- No cross-passage cluster assigned yet.
-
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
-
-
+## Contribution Summary
+Used this way, the page strengthens the thesis by securing a direct local predicate that later passages, clusters, and convergences can accumulate into a larger constructive case.

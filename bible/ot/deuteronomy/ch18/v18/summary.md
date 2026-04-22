@@ -1,35 +1,26 @@
-﻿# Deuteronomy 18:18
+# Deuteronomy 18:18
 
-## Page Type
-Atomic passage page
+`Status:` anchored. `Role:` direct passage anchor within the Moses-like range. `Contribution:` high-value local anchor.
 
-## Passage-Specific Contribution
-- This verse supplies the core promise profile: a prophet raised by God, like Moses, with divine words put in his mouth.
-- The argumentative pressure is strongest in the likeness-to-Moses and words-in-the-mouth features.
-- It matters because it is the shortest reusable direct statement of the mediated-speech profile later tested at cluster level.
+## Claim
+This verse gives the shortest reusable statement of the Moses-like promise. It names a prophet raised by God, like Moses, with divine words placed in his mouth. Because it compresses the profile so tightly, it functions as one of the most important atomic anchors in the repository.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: high as a linked-cluster anchor; convergence is not assigned to this verse alone
-- Role: direct passage anchor, governed by Deuteronomy 18 range
+## Reasoning
+The verse matters because it binds office and speech together. The prophet is not only future-facing; he is also defined by likeness to Moses and by received words. That makes the verse especially valuable for later cluster and convergence work. At atom level, the page does not try to settle the whole thesis. It secures the most concentrated statement of the mediated-speech profile inside the Deuteronomy 18 range.
 
-## Argumentative Use
-- This page functions as direct anchor, governed by its cluster.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+## Local Significance
+Within its local setting, the verse preserves the heart of the promise before the surrounding range adds Horeb background and accountability. It therefore keeps the Moses-like and received-speech predicates available in one direct and reusable form.
 
-## Strongest Local Alternative
-- The alternative reading named above must remain active when this page is used; if that reading explains the passage fully, the page should be downgraded to support, control, or review-only use as appropriate.
+## Networked Significance
+Within the wider repository, this verse strengthens [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md), [Prophet Like Moses And Paraclete](../../../../../arguments/prophet-like-moses-and-paraclete/summary.md), and [Primary Profile Convergence](../../../../../convergences/primary-profile-convergence/summary.md). It is one of the atomic nodes that lets the cumulative case move from detailed exegesis into wider profile-building without losing textual precision.
 
-## Dependency Links
-- [arguments/prophet-like-moses/summary.md](../../../../../arguments/prophet-like-moses/summary.md)
-- [arguments/prophet-like-moses-and-paraclete/summary.md](../../../../../arguments/prophet-like-moses-and-paraclete/summary.md)
-- [arguments/paraclete/summary.md](../../../../../arguments/paraclete/summary.md)
-- [arguments/unlettered-prophet/summary.md](../../../../../arguments/unlettered-prophet/summary.md)
+## Objection Note
+The main boundary is not a lexical one but a larger interpretive one: the verse can be absorbed into succession or Jesus-centered closure readings when the wider range is taken into account. That boundary is real, but it does not erase the verse's local force. The verse still preserves the direct office-and-speech predicate the larger debate must explain.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
+## Contribution Summary
+Used this way, Deuteronomy 18:18 strengthens the thesis by supplying one of the repo's strongest atomic anchors for the Torah-side profile.
 
-
+## Linked Pages
+- [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md)
+- [Prophet Like Moses And Paraclete](../../../../../arguments/prophet-like-moses-and-paraclete/summary.md)
+- [Primary Profile Convergence](../../../../../convergences/primary-profile-convergence/summary.md)

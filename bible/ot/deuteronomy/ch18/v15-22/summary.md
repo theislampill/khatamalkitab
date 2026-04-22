@@ -1,36 +1,26 @@
-﻿# Deuteronomy 18:15-22
+# Deuteronomy 18:15-22
 
-## Page Type
-Local combined passage page
+`Status:` anchored. `Role:` primary prophet-like-Moses range; promise plus test frame. `Contribution:` direct anchor with embedded criterion context.
 
-## Passage-Specific Contribution
-- This passage supplies the core prophet-like-Moses profile: a prophet raised by God, words placed in the prophet's mouth, and accountability for rejecting that message.
-- The argumentative pressure is strongest in the full sequence: `vv.15-19` give the promise, `vv.16-17` ground it in Horeb's demand for mediated revelation, and `vv.20-22` police the office against presumption.
-- It matters because the repository tests whether this profile can remain open beyond Israelite succession and beyond the Acts 3 Jesus reading.
+## Claim
+This passage supplies the repository's most concentrated Torah-side prophet profile. It joins four elements that belong together: a prophet like Moses, words placed in the prophet's mouth, accountability for refusing that speech, and a criterion that guards the office against presumption. Read as a range, the passage does more than announce a future prophet. It defines the structure of a later authoritative mediator.
 
-## Why This Range Matters
-- The range matters because the promise unit, Horeb background, and false-prophet test belong together: mediated office and criterion must not be separated.
+## Reasoning
+The inferential force of the range depends on its internal movement. `vv.15-19` give the promise itself. `vv.16-17` root that promise in Israel's request at Horeb for mediated revelation rather than direct exposure to the divine voice. `vv.20-22` then add the test frame that distinguishes the true office from presumptuous speech. That sequence matters because the promise and the safeguard interpret one another. The page therefore serves as a direct range anchor for the Prophet Like Moses cluster while also keeping the cluster disciplined.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: direct anchor with embedded criterion/control context
-- Role: primary prophet-like-Moses range; promise plus test frame
+## Local Significance
+At local level, this passage establishes that Moses-likeness is not a loose comparison and that "words in the mouth" is not a decorative phrase. The range presents a prophet whose authority is publicly authorized, whose speech is received from God, and whose rejection carries consequence. That is why the repo treats this passage as more than background and more than a generic succession notice.
 
-## Argumentative Use
-- Use this range as the primary combined Deuteronomy 18 anchor: the prophet-like-Moses profile and the prophetic-test frame belong together.
-- The range feeds [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md) by giving both the positive expectation and the safeguards against presumption.
-- Identification of the Prophet ﷺ from this passage remains cluster-level synthesis, not a bare range-level conclusion.
+## Networked Significance
+Within the wider repository, this range anchors [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md) and supports [Primary Profile Convergence](../../../../../convergences/primary-profile-convergence/summary.md) by securing the Torah-side office profile. It also matters to [Prophet Like Moses And Paraclete](../../../../../arguments/prophet-like-moses-and-paraclete/summary.md), where its mediated-speech logic is compared with the Johannine later-guide profile without being double-counted.
 
-## Strongest Local Alternative
-- The strongest local alternative is that Deuteronomy 18 regulates Israel's prophetic succession after Moses and is then read christologically in Acts 3. If that reading fully accounts for the promise and tests, the page cannot function as an open later-prophet anchor.
+## Objection Note
+The main competing reading is that Deuteronomy 18 regulates Israel's prophetic succession and is then taken up christologically in Acts 3. That objection is real and belongs here because it governs the whole range. Even so, the passage retains major constructive force unless those closure readings exhaust every part of its profile. The repo therefore treats the objection as a boundary on scope, not as a reason to downgrade the range into mere background.
 
-## Dependency Links
-- [arguments/prophet-like-moses/summary.md](../../../../../arguments/prophet-like-moses/summary.md)
-- [arguments/prophet-like-moses-and-paraclete/summary.md](../../../../../arguments/prophet-like-moses-and-paraclete/summary.md)
+## Contribution Summary
+Used this way, Deuteronomy 18:15-22 strengthens the thesis by securing the primary Torah-side profile the cumulative case depends on. It tells the repo what kind of figure must still be found before later narrowing and convergence can do their work.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
-
-
+## Linked Pages
+- [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md)
+- [Prophet Like Moses And Paraclete](../../../../../arguments/prophet-like-moses-and-paraclete/summary.md)
+- [Primary Profile Convergence](../../../../../convergences/primary-profile-convergence/summary.md)

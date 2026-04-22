@@ -1,32 +1,21 @@
-﻿# Deuteronomy 18:15
+# Deuteronomy 18:15
 
-## Page Type
-Atomic passage page
+`Status:` anchored. `Role:` opening prophet-like-Moses promise. `Contribution:` direct verse anchor within the Deuteronomy 18 range.
 
-## Passage-Specific Contribution
-- This verse introduces the promise itself: God will raise up a prophet like Moses from among the people's brothers.
-- Its argumentative pressure lies in the opening claimant filter and the command to listen to that figure.
-- It matters because the cluster's later narrowing work begins from this verse's combination of likeness, kinship language, and required heed.
+## Claim
+This verse introduces the promise itself: God will raise up a prophet like Moses from among the people's brothers. Its argumentative pressure lies in the opening claimant filter and the command to listen to that figure. It matters because the cluster's later narrowing work begins from this verse's combination of likeness, kinship language, and required heed.
 
-## Epistemic Classification
-- Status: anchored
-- Passage contribution: direct verse anchor within the Deuteronomy 18 range
-- Role: opening prophet-like-Moses promise
+## Reasoning
+Use this verse for the opening prophet-like-Moses claim and for the brothers/listen pressure that later cluster work must interpret. Its importance grows through the linked higher-order pages, where its local contribution is reused without overloading the page itself. The fuller identification question is therefore handled at cluster or convergence level rather than being forced onto this single page.
 
-## Argumentative Use
-- Use this verse for the opening prophet-like-Moses claim and for the brothers/listen pressure that later cluster work must interpret.
-- It feeds the larger argument through the dependency links below; it should not be forced to prove more than its assigned role can bear.
-- Identification of the Prophet ﷺ from this passage is cluster-level synthesis unless the linked argument page explicitly states a narrower claim.
+## Local Significance
+Within its local setting, the page preserves the specific feature that makes the verse reusable. That local clarity is what allows later pages to inherit the point without flattening the passage into a slogan.
 
-## Strongest Local Alternative
-- The strongest local alternative is that this verse opens a succession promise for prophets within Israel rather than a singled-out later figure beyond Israel's ordinary prophetic line.
+## Networked Significance
+Within the wider repository, this page chiefly strengthens [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md). It supplies the local anchor, supporting constraint, or control boundary those linked pages reuse when the case moves from passage analysis to cluster and convergence.
 
-## Dependency Links
-- [arguments/prophet-like-moses/summary.md](../../../../../arguments/prophet-like-moses/summary.md)
+## Contribution Summary
+Used this way, the page strengthens the thesis by securing a direct local predicate that later passages, clusters, and convergences can accumulate into a larger constructive case.
 
-## Failure Modes
-- Do not use this passage as an isolated proof text.
-- Do not treat support or control roles as direct identification.
-- Do not hide the local alternative reading when using the linked cluster.
-
-
+## Linked Pages
+- [Prophet Like Moses](../../../../../arguments/prophet-like-moses/summary.md)
